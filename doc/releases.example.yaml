@@ -1,0 +1,56 @@
+# releases.yaml file example
+# This is a reference of how you can define repositories and suites.
+
+releases:
+
+  # Old release example.
+  # This release is ported on stretch only
+  release-2103:
+    distro: stretch
+    packages:
+      wb-suite: '0.1.2103'
+      wb-rules: '2.1.3'
+      wb-mqtt-serial: '1.4.2-wb1'
+
+  # Current release example.
+  # This is a transitional release example, where
+  # different package versions (and packages) can be
+  # in different distros
+  release-2106:
+    distro: [stretch, buster]
+    packages:
+      wb-suite: '0.1.2106' # this version will be both in stretch and buster
+      wb-rules: # this package has different versions for stretch and buster
+        stretch: '2.2.1'
+        buster: '2.2.1~buster'
+      wb-mqtt-serial: '1.8'
+      libfoo1: # this package is defined only in buster
+        buster: '1.0.2'
+
+  # suites are aliases of actual releases
+  stable: release-2106
+  oldstable: release-2103
+
+  # releases with '@' prefix are auto-releases, which are updated
+  # on new publishes automatically by CI/CD
+  #
+  # @pool is the auto-release which contains all versions of all
+  # published packages at the same time
+  pool: @pool
+
+  # @unstable is the auto-release which contains all latest versions from @pool
+  unstable: @unstable
+
+  # @nightly is the auto-release formed from latest unstable
+  # which passed minimal system and integration tests during nightly builds
+  nightly: @nightly
+
+  # testing is something special.
+  #
+  # When it is not freezed, it points to @nightly
+  # so users can check out the latest packages which passed minimal tests.
+  #
+  # Before publishing a new release, use testing to check everything in
+  # a new release candidate by setting this suite pointing to RC like this:
+  # testing: release-2106
+  testing: @nightly
