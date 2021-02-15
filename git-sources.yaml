@@ -1,0 +1,115 @@
+by-package:
+    cmux: "https://github.com/wirenboard/cmux"
+    hubpower: "https://github.com/wirenboard/hubpower"
+    libateccssl1.1: "https://github.com/wirenboard/cryptoauth-openssl-engine"
+    libmosquitto-dev: "https://github.com/wirenboard/contrib"
+    libmosquitto1: "https://github.com/wirenboard/contrib"
+    libmosquittopp-dev: "https://github.com/wirenboard/contrib"
+    libmosquittopp1: "https://github.com/wirenboard/contrib"
+    libwbmqtt: "https://github.com/wirenboard/libwbmqtt0"
+    libwbmqtt0: "https://github.com/wirenboard/libwbmqtt0"
+    linux-headers-4.9.22-wb2: "https://github.com/wirenboard/linux"
+    linux-image-4.9.22-wb2: "https://github.com/wirenboard/linux"
+    linux-image-wb2: "https://github.com/wirenboard/linux"
+    mmc-utils: null  # FIXME
+    modbus-utils: "https://github.com/wirenboard/modbus-utils"
+    mosquitto: "https://github.com/wirenboard/contrib"
+    mosquitto-clients: "https://github.com/wirenboard/contrib"
+    mqtt-logger: "https://github.com/wirenboard/mqtt-logger"
+    ntp: "https://github.com/wirenboard/contrib"
+    ntpdate: "https://github.com/wirenboard/contrib"
+    python-wb-io: "https://github.com/wirenboard/wb-io-python"
+    u-boot-tools: null  # FIXME
+    u-boot-tools-wb: null  # FIXME
+    wb-homa-adc: "https://github.com/wirenboard/wb-homa-adc"
+    wb-mqtt-adc: "https://github.com/wirenboard/wb-homa-adc"
+    wb-homa-gpio: "https://github.com/wirenboard/wb-homa-gpio"
+    wb-mqtt-gpio: "https://github.com/wirenboard/wb-homa-gpio"
+    wb-homa-ninja-bridge: "https://github.com/wirenboard/wb-homa-ninja-bridge"  # archived
+    wb-homa-rfsniffer: "https://github.com/wirenboard/rfsniffer"
+    wb-homa-w1: "https://github.com/wirenboard/wb-homa-w1"
+    wb-knxd-config: "https://github.com/wirenboard/wb-knxd-config"
+    wb-mcu-fw-flasher: "https://github.com/wirenboard/wb-mcu-fw-flasher"
+    wb-mqtt-apcsnmp: "https://github.com/wirenboard/wb-mqtt-apcsnmp"
+    wb-mqtt-co2mon: "https://github.com/wirenboard/wb-mqtt-co2mon"
+    wb-mqtt-confed: "https://github.com/wirenboard/wb-mqtt-confed"
+    wb-mqtt-db: "https://github.com/wirenboard/wb-mqtt-db"
+    wb-mqtt-knx: "https://github.com/wirenboard/wb-mqtt-knx"
+    wb-mqtt-lirc: "https://github.com/wirenboard/wb-mqtt-lirc"
+    wb-mqtt-mbgate: "https://github.com/wirenboard/wb-mqtt-mbgate"
+    wb-mqtt-serial: "https://github.com/wirenboard/wb-mqtt-serial"
+    wb-mqtt-smartbus: "https://github.com/wirenboard/wb-mqtt-smartbus"
+    wb-mqtt-snmp: "https://github.com/wirenboard/wb-mqtt-snmp"
+    wb-mqtt-spl-meter: "https://github.com/wirenboard/spl-meter"
+    wb-mqtt-timestamper: "https://github.com/wirenboard/wb-mqtt-timestamper"
+    wb-mqtt-zabbix: "https://github.com/wirenboard/wb-mqtt-zabbix"
+    wb-mqtt-zway: "https://github.com/wirenboard/wb-mqtt-zway"
+    wb-rules: "https://github.com/wirenboard/wb-rules"
+    ca-certificates-contactless: null  # FIXME
+    contactless-keyring: "https://github.com/wirenboard/keyring"
+    libwbmqtt-dev: "http://github.com/wirenboard/libwbmqtt"
+    linux-firmware-image-4.1.15-imxv5-x0.1: "http://github.com/wirenboard/linux"
+    linux-firmware-image-4.1.15-wb2: "http://github.com/wirenboard/linux"
+    linux-firmware-image-4.9.22-wb2: "http://github.com/wirenboard/linux"
+    linux-firmware-image-4.9.22-wb6: "http://github.com/wirenboard/linux"
+    mosquitto-dev: "https://github.com/wirenboard/contrib"
+    mqtt-tools: "https://github.com/wirenboard/mqtt-tools"
+    nginx: "http://github.com/wirenboard/contrib"
+    nginx-common: "http://github.com/wirenboard/contrib"
+    nginx-doc: "http://github.com/wirenboard/contrib"
+    ntp-doc: "http://github.com/wirenboard/contrib"
+    python-gsmmodem-new: "https://github.com/wirenboard/python-gsmmodem"
+    python-gspread: "https://github.com/wirenboard/gspread"
+    python-json-rpc: "https://github.com/wirenboard/json-rpc"
+    python-mosquitto: "http://github.com/wirenboard/contrib"
+    python-mqttrpc: "https://github.com/wirenboard/mqtt-rpc"
+    python-nrf24: "https://github.com/wirenboard/python-nrf24"
+    python-wb-common: "https://github.com/wirenboard/wb-common"
+    python-wb-mcu-fw-updater: "https://github.com/wirenboard/wb-mcu-fw-updater"
+    python3-json-rpc: "https://github.com/wirenboard/json-rpc"
+    python3-mosquitto: "http://github.com/wirenboard/contrib"
+    python3-mqttrpc: "https://github.com/wirenboard/mqtt-rpc"
+    python3-wb-common: "https://github.com/wirenboard/wb-common"
+    python3-wb-mcu-fw-updater: "https://github.com/wirenboard/wb-mcu-fw-updater"
+    sensor-tools-scada-client: "https://github.com/wirenboard/sensor-tools-scada-client"
+    serial-tool: "https://github.com/wirenboard/serial_tool"
+    u-boot-tools: null  # FIXME
+    wb-configs: "https://github.com/wirenboard/wb-configs"
+    wb-configs-stretch: "https://github.com/wirenboard/wb-configs"
+    wb-configs-wheezy: "https://github.com/wirenboard/wb-configs"
+    wb-daemon-watchdogs: "https://github.com/wirenboard/wb-daemon-watchdogs"
+    wb-dt-overlays: "https://github.com/wirenboard/wb-dt-overlays"
+    wb-homa-ism-radio: null  # FIXME
+    wb-hwconf-manager: "https://github.com/wirenboard/wb-hwconf-manager"
+    wb-mcu-fw-updater: "https://github.com/wirenboard/wb-mcu-fw-updater"
+    wb-mqtt-bmp085: "https://github.com/wirenboard/wb-mqtt-bmp085"
+    wb-mqtt-dac: "https://github.com/wirenboard/wb-mqtt-dac"
+    wb-mqtt-db-cli: "https://github.com/wirenboard/wb-mqtt-db-cli"
+    wb-mqtt-homeui: "https://github.com/wirenboard/homeui"
+    wb-mqtt-homeui-build-deps: null  # FIXME
+    wb-mqtt-mhz19: "https://github.com/wirenboard/wb-mqtt-mhz19"
+    wb-mqtt-sht1x: "https://github.com/wirenboard/wb-mqtt-sht1x"
+    wb-rules-system: "https://github.com/wirenboard/wb-rules-system"
+    wb-test-suite: "https://github.com/wirenboard/test-suite"
+    wb-utils: "https://github.com/wirenboard/wb-utils"
+    wb-zigbee2mqtt: "https://github.com/wirenboard/wb-zigbee2mqtt"
+
+    atecc-util: "https://github.com/wirenboard/atecc-util"
+    e2fsck-static: null  # FIXME
+    e2fsck-static-dbgsym: null  # FIXME
+    e2fslibs: null  # FIXME
+    e2fslibs-dbgsym: null  # FIXME
+    e2fslibs-dev: null  # FIXME
+    e2fsprogs: null  # FIXME
+    e2fsprogs-dbgsym: null  # FIXME
+    fuse2fs: null  # FIXME
+    libcomerr2: null  # FIXME
+    libss2: null  # FIXME
+
+    libwbmqtt1: "https://github.com/wirenboard/libwbmqtt1"
+    libwbmqtt1-dev: "https://github.com/wirenboard/libwbmqtt1"
+    libwbmqtt1-test-utils: "https://github.com/wirenboard/libwbmqtt1"
+    wb-mqtt-smartweb: "https://github.com/wirenboard/wb-mqtt-smartweb"
+    zigbee2mqtt: "https://github.com/koenkk/zigbee2mqtt"
+
+    wb-adc-tools-mxs: "https://github.com/wirenboard/wb-adc-tools-mxs"

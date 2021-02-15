@@ -1,0 +1,20 @@
+suites:
+    all:
+        pool: "@pool.latest"
+        staging: "@staging.latest"
+
+
+targets:
+    wb6/stretch:
+        arch: armhf
+        distro: stretch
+
+    wb5/stretch:
+        arch: armel
+        distro: stretch
+        no-auto-tests: y
+
+    all:
+        arch: [armhf, armel, amd64]
+        distro: stretch
+        no-auto-tests: y
