@@ -12,9 +12,9 @@ targets:
     wb5/stretch:
         arch: armel
         distro: stretch
-        no-auto-tests: y
+        no_auto_tests: y
 
     all:
         arch: [armhf, armel, amd64]
         distro: stretch
-        no-auto-tests: y
+        no_auto_tests: y
