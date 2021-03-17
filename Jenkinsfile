@@ -10,7 +10,7 @@ pipeline {
   stages {
     stage("Check packages") {
       steps {
-        sh('python3 -m wbci.repo -c $APTLY_CONFIG check releases.yaml')
+        sh('wbci-repo -c $APTLY_CONFIG check releases.yaml')
       }
     }
     stage("Deploy release") {
@@ -19,8 +19,8 @@ pipeline {
       }
   
       steps {
-        sh('''python3 -m wbci.repo -c $APTLY_CONFIG \
-           -s "{\'Keyring\': \'$GPG_KEYRING\'}" \
+        sh('''wbci-repo -c $APTLY_CONFIG \
+           -s "{\'SecretKeyring\': \'$GPG_KEYRING\'}" \
            deploy -e $PUBLISH_ENDPOINT releases.yaml''')
       }
     }
