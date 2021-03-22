@@ -19,13 +19,13 @@ targets:
         distro: stretch
 
         # this flag is for CI to skip it while performing staging auto-tests
-        no-auto-tests: y
+        no_auto_tests: y
 
     # target to publish pool once if necessary
     all:
         arch: [armel, armhf]
         distro: stretch
-        no-auto-tests: y
+        no_auto_tests: y
 
 # Releases are manually defined snapshots with fixed versions of packages.
 # Each release is defined for a set of targets.
