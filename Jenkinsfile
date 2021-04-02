@@ -1,1 +1,1 @@
-publishRelease release_filename: "releases.yaml", aptly_config: 'release-aptly-config'
+publishRelease releaseFilename: "releases.yaml", aptlyConfig: 'release-aptly-config'
