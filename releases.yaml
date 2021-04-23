@@ -175,7 +175,6 @@ suites:
     wb5/stretch:
         stable: wb-2104
         testing: wb-2104
-        unstable: "@unstable.latest"
 
 
 targets:
