@@ -108,7 +108,7 @@ releases:
             wb-mqtt-timestamper: 1.10.1
             wb-mqtt-zabbix: "0.2"
             wb-mqtt-zway: 1.0.3+wb2
-            wb-rules-system: 1.6.10
+            wb-rules-system: 1.6.11
             wb-suite: "1.0"
             wb-test-suite: "1.20"
             wb-update-manager: "1.0"
