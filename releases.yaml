@@ -110,7 +110,6 @@ releases:
             wb-mqtt-zway: 1.0.3+wb2
             wb-rules-system: 1.6.12
             wb-suite: "1.0"
-            wb-test-suite: "1.22"
             wb-update-manager: 1.0.1
             wb-utils: "2.2"
             wb-zigbee2mqtt: 1.0.0
@@ -145,6 +144,7 @@ releases:
             wb-mqtt-serial: 2.7.1
             wb-mqtt-smartweb: 1.0.2
             wb-rules: 2.6.4
+            wb-test-suite: "1.22"
             z-way-server: 3.1.1
             zigbee2mqtt: 1.18.1
 
@@ -162,6 +162,7 @@ releases:
             wb-mqtt-mbgate: 0.1.4
             wb-mqtt-serial: 1.63.0
             wb-rules: 1.7.1
+            wb-test-suite: "1.20"
             z-way-server: 2.2.5-1
 
 suites:
