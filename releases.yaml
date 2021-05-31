@@ -143,7 +143,7 @@ releases:
             wb-mqtt-mbgate: 1.0.1
             wb-mqtt-serial: 2.7.1
             wb-mqtt-smartweb: 1.0.2
-            wb-rules: 2.6.4
+            wb-rules: 2.6.5
             wb-test-suite: "1.22"
             z-way-server: 3.1.1
             zigbee2mqtt: 1.18.1
