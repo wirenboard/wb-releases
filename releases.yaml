@@ -85,13 +85,17 @@ releases:
             wb-homa-ninja-bridge: 1.9.1
             wb-homa-rfsniffer: 1.0.9
             wb-homa-zway: 1.0.3+wb2
+            wb-hwconf-manager: 1.40.0
             wb-knxd-config: 1.0.1
             wb-mcu-fw-flasher: 1.0.7
             wb-mcu-fw-updater: 1.0.8
             wb-mqtt-apcsnmp: '0.2'
             wb-mqtt-bmp085: '1.2'
+            wb-mqtt-co2mon: 1.1.1
+            wb-mqtt-dac: 1.1.2
             wb-mqtt-db-cli: 1.2.1
             wb-mqtt-homeui-build-deps: 1.6.5
+            wb-mqtt-homeui: 2.5.7
             wb-mqtt-knx: 0.1.2
             wb-mqtt-mhz19: '1.0'
             wb-mqtt-sht1x: '1.0'
@@ -102,7 +106,6 @@ releases:
             wb-mqtt-zabbix: '0.2'
             wb-mqtt-zway: 1.0.3+wb2
             wb-rules-system: 1.6.13
-            wb-suite: '1.2'
             wb-update-manager: 1.0.1
             wb-utils: '2.3'
             wb-zigbee2mqtt: 1.0.0
@@ -128,27 +131,23 @@ releases:
             libwbmqtt1-test-utils: 1.2.0
             linux-headers-wb6: 5.10.35-wb3
             linux-image-wb6: 5.10.35-wb3
-            linux-libc-dev: 5.10.35-wb3
             nodejs: 12.19.0-1nodesource1
             ss-dev: 2.0-1.43.4-2+wb1
             wb-demo-kit-configs: 1.1.4
             wb-homa-adc: 2.0.10
             wb-homa-gpio: 2.4.0
             wb-homa-w1: 2.1.0
-            wb-hwconf-manager: 1.40.0
             wb-mqtt-adc: 2.0.10
-            wb-mqtt-co2mon: 1.1.1
             wb-mqtt-confed: 1.2.6
-            wb-mqtt-dac: 1.1.2
             wb-mqtt-db: 2.1.0
             wb-mqtt-gpio: 2.4.0
-            wb-mqtt-homeui: 2.5.7
             wb-mqtt-mbgate: 1.0.1
             wb-mqtt-opcua: 0.1.0
             wb-mqtt-serial: 2.22.1
             wb-mqtt-smartweb: 1.0.2
             wb-mqtt-w1: 2.1.0
             wb-rules: 2.8.0
+            wb-suite: '1.2'
             wb-test-suite: '1.24'
             z-way-server: 3.1.1
             zigbee2mqtt: 1.18.1
@@ -163,15 +162,12 @@ releases:
             wb-homa-adc: 1.14.6
             wb-homa-gpio: 1.19.5
             wb-homa-w1: 1.10.1
-            wb-hwconf-manager: 1.38.3
-            wb-mqtt-co2mon: '1.1'
             wb-mqtt-confed: 1.2.2
-            wb-mqtt-dac: 1.1.1
             wb-mqtt-db: 1.7.3
-            wb-mqtt-homeui: 2.3.3
             wb-mqtt-mbgate: 0.1.4
             wb-mqtt-serial: 1.63.0
             wb-rules: 1.7.1
+            wb-suite: '1.0'
             wb-test-suite: '1.20'
             z-way-server: 2.2.5-1
 
