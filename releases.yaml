@@ -94,7 +94,6 @@ releases:
             wb-mqtt-co2mon: 1.1.1
             wb-mqtt-dac: 1.1.2
             wb-mqtt-db-cli: 1.2.1
-            wb-mqtt-homeui-build-deps: 1.6.5
             wb-mqtt-homeui: 2.5.7
             wb-mqtt-knx: 0.1.2
             wb-mqtt-mhz19: '1.0'
@@ -269,7 +268,6 @@ releases:
             wb-mqtt-dac: 1.1.1
             wb-mqtt-db-cli: 1.2.1
             wb-mqtt-db: 1.7.3
-            wb-mqtt-homeui-build-deps: 1.6.5
             wb-mqtt-homeui: 2.3.3
             wb-mqtt-knx: 0.1.2
             wb-mqtt-lirc: 1.1.4
