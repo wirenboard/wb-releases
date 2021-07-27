@@ -142,7 +142,7 @@ releases:
             wb-mqtt-dac: 1.1.2
             wb-mqtt-db: 2.1.0
             wb-mqtt-gpio: 2.4.0
-            wb-mqtt-homeui: 2.4.5
+            wb-mqtt-homeui: 2.5.7
             wb-mqtt-mbgate: 1.0.1
             wb-mqtt-opcua: 0.1.0
             wb-mqtt-serial: 2.22.1
