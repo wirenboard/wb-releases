@@ -139,7 +139,7 @@ releases:
             wb-homa-gpio: 2.4.0
             wb-homa-w1: 2.1.0
             wb-mqtt-adc: 2.0.10
-            wb-mqtt-confed: 1.2.6
+            wb-mqtt-confed: 1.2.7
             wb-mqtt-db: 2.1.0
             wb-mqtt-gpio: 2.4.0
             wb-mqtt-mbgate: 1.0.1
