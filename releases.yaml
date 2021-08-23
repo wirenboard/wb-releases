@@ -144,7 +144,7 @@ releases:
             wb-mqtt-gpio: 2.4.0
             wb-mqtt-mbgate: 1.0.1
             wb-mqtt-opcua: 0.1.0
-            wb-mqtt-serial: 2.22.1
+            wb-mqtt-serial: 2.22.1-wb2
             wb-mqtt-smartweb: 1.0.2
             wb-mqtt-w1: 2.1.0
             wb-rules: 2.8.0
