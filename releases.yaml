@@ -1,8 +1,22 @@
-suites:
-    all:
-        pool: "@pool.latest"
-        staging: "@staging.latest"
+releases:
+    wb-2104:
+        packages-common: &packages-wb-2104
+            wb-utils: '2.2'
 
+        wb6/stretch:
+            <<: *packages-wb-2104
+            wb-mqtt-serial: 2.7.1
+
+        wb5/stretch:
+            <<: *packages-wb-2104
+            wb-mqtt-serial: 1.63.0
+
+suites:
+    wb6/stretch:
+        stable: wb-2104
+
+    wb5/stretch:
+        stable: wb-2104
 
 targets:
     wb6/stretch:
@@ -11,10 +25,5 @@ targets:
 
     wb5/stretch:
         arch: armel
-        distro: stretch
-        no_auto_tests: y
-
-    all:
-        arch: [armhf, armel, amd64]
         distro: stretch
         no_auto_tests: y
