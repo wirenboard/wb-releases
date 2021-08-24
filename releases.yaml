@@ -5,7 +5,7 @@ releases:
 
         wb6/stretch:
             <<: *packages-wb-2104
-            wb-mqtt-serial: 2.7.1
+            wb-mqtt-serial: 2.22.1-wb2
 
         wb5/stretch:
             <<: *packages-wb-2104
