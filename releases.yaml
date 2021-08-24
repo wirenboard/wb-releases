@@ -1,6 +1,8 @@
 releases:
     wb-2104:
         packages-common: &packages-wb-2104
+            knxd: 0.14.35-1
+            wb-homa-ism-radio: 1.17.3  # to test removed package
             wb-utils: '2.2'
 
         wb6/stretch:
@@ -9,6 +11,19 @@ releases:
 
         wb5/stretch:
             <<: *packages-wb-2104
+            wb-mqtt-serial: 1.63.0
+
+    wb-2108:
+        packages-common: &packages-wb-2108
+            knxd: 0.14.51-1  # to test contrib package
+            wb-utils: '2.2'  # to test unchanged package
+
+        wb6/stretch:
+            <<: *packages-wb-2108
+            wb-mqtt-serial: 2.31.0
+
+        wb5/stretch:
+            <<: *packages-wb-2108
             wb-mqtt-serial: 1.63.0
 
 suites:
