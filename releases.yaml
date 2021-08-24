@@ -1,6 +1,6 @@
 releases:
-    wb-2107:
-        packages-common: &packages-wb-2107
+    wb-2108:
+        packages-common: &packages-wb-2108
             atecc-util: 0.4.5
             ca-certificates-contactless: '0.1'
             can-utils: 0.0+git20160831-1
@@ -114,7 +114,7 @@ releases:
             wpasupplicant: 2.3-1+deb8u4
 
         wb6/stretch:
-            <<: *packages-wb-2107
+            <<: *packages-wb-2108
 
             comerr-dev: 2.1-1.43.4-2+wb1
             e2fsck-static: 1.43.4-2+wb1
@@ -154,7 +154,7 @@ releases:
             zigbee2mqtt: 1.18.1
 
         wb5/stretch:
-            <<: *packages-wb-2107
+            <<: *packages-wb-2108
 
             linux-headers-wb2: 4.9.22-wb1
             linux-image-wb2: 4.9.22-wb1
@@ -344,11 +344,11 @@ suites:
         staging: "@staging.latest"
     wb6/stretch:
         stable: wb-2104
-        testing: wb-2107
+        testing: wb-2108
         unstable: "@unstable.latest"
     wb5/stretch:
         stable: wb-2104
-        testing: wb-2107
+        testing: wb-2108
 
 
 targets:
