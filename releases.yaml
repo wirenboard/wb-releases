@@ -521,13 +521,13 @@ suites:
         pool: "@pool.latest"
         staging: "@staging.latest"
     wb6/stretch:
-        stable: wb-2104
+        stable: wb-2108
         # testing is kept back in old 'wb-2107' state (with newer kernel and wb-mqtt-serial).
         # Currently it is incompatible with new release because it will require downgrades.
         testing: wb-2107-testing
         unstable: "@unstable.latest"
     wb5/stretch:
-        stable: wb-2104
+        stable: wb-2108
         testing: wb-2107-testing
 
 
