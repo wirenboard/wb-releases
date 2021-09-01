@@ -134,7 +134,7 @@ releases:
             linux-image-wb6: 4.9.22-wb2
             nodejs: 12.19.0-1nodesource1
             ss-dev: 2.0-1.43.4-2+wb1
-            wb-demo-kit-configs: 1.1.4
+            wb-demo-kit-configs: 1.2.0
             wb-homa-adc: 2.0.10
             wb-homa-gpio: 2.4.0
             wb-homa-w1: 2.1.0
