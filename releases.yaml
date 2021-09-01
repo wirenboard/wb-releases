@@ -147,7 +147,7 @@ releases:
             wb-mqtt-serial: 2.22.1-wb2
             wb-mqtt-smartweb: 1.0.2
             wb-mqtt-w1: 2.1.0
-            wb-rules: 2.8.0
+            wb-rules: 2.8.1
             wb-suite: '1.2'
             wb-test-suite: '1.24'
             z-way-server: 3.1.1
