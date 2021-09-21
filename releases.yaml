@@ -86,7 +86,7 @@ releases:
             wb-homa-ninja-bridge: 1.9.1
             wb-homa-rfsniffer: 1.0.9
             wb-homa-zway: 1.0.3+wb2
-            wb-hwconf-manager: 1.40.2
+            wb-hwconf-manager: 1.40.0-wb1
             wb-knxd-config: 1.0.1
             wb-mcu-fw-flasher: 1.0.7
             wb-mcu-fw-updater: 1.0.10
