@@ -343,7 +343,7 @@ suites:
         staging: "@staging.latest"
     wb6/stretch:
         stable: wb-2108
-        testing: "@unstable.latest"
+        testing: "@staging.01830"
         unstable: "@unstable.latest"
     wb5/stretch:
         stable: wb-2108
