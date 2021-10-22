@@ -82,8 +82,8 @@ releases:
             u-boot-tools-wb: 2:2017.03+wb-2
             u-boot-tools: 2:2017.03+wb-2
             watchdog: 5.15-1
-            wb-configs-stretch: 2.1.0
-            wb-configs: 2.1.0
+            wb-configs-stretch: 2.1.1
+            wb-configs: 2.1.1
             wb-daemon-watchdogs: '1.1'
             wb-diag-collect: '0.2'
             wb-dt-overlays: '1.3'
