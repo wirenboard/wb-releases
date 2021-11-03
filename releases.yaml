@@ -128,9 +128,9 @@ releases:
             fuse2fs: 1.43.4-2+wb1
             libcomerr2: 1.43.4-2+wb1
             libss2: 1.43.4-2+wb1
-            libwbmqtt1-3: 3.2.0
-            libwbmqtt1-3-dev: 3.2.0
-            libwbmqtt1-3-test-utils: 3.2.0
+            libwbmqtt1-3: 3.3.0
+            libwbmqtt1-3-dev: 3.3.0
+            libwbmqtt1-3-test-utils: 3.3.0
             linux-headers-wb6: 5.10.35-wb6
             linux-image-wb6: 5.10.35-wb6
             linux-libc-dev: 5.10.35-wb6
@@ -150,7 +150,7 @@ releases:
             wb-mqtt-logs: 1.1.2
             wb-mqtt-mbgate: 1.1.1
             wb-mqtt-opcua: 1.0.3
-            wb-mqtt-serial: 2.40.0-wb1
+            wb-mqtt-serial: 2.41.0
             wb-mqtt-smartweb: 1.1.0
             wb-mqtt-w1: 2.2.0
             wb-rules: 2.10.2
