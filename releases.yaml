@@ -92,16 +92,13 @@ releases:
             wb-homa-ninja-bridge: 1.9.1
             wb-homa-rfsniffer: 1.0.9
             wb-homa-zway: 1.0.3+wb2
-            wb-hwconf-manager: 1.42.0
-            wb-knxd-config: 1.0.1
+            wb-knxd-config: 1.0.3
             wb-mcu-fw-flasher: 1.0.7
             wb-mcu-fw-updater: 1.0.10
             wb-mqtt-apcsnmp: '0.2'
             wb-mqtt-bmp085: '1.2'
             wb-mqtt-co2mon: 1.1.1
-            wb-mqtt-dac: 1.1.2
             wb-mqtt-db-cli: 1.2.1
-            wb-mqtt-homeui: 2.19.0
             wb-mqtt-knx: 0.1.2
             wb-mqtt-lirc: 1.1.4
             wb-mqtt-metrics: 0.1.1
@@ -131,9 +128,9 @@ releases:
             fuse2fs: 1.43.4-2+wb1
             libcomerr2: 1.43.4-2+wb1
             libss2: 1.43.4-2+wb1
-            libwbmqtt1-3: 3.2.0
-            libwbmqtt1-3-dev: 3.2.0
-            libwbmqtt1-3-test-utils: 3.2.0
+            libwbmqtt1-3: 3.3.0
+            libwbmqtt1-3-dev: 3.3.0
+            libwbmqtt1-3-test-utils: 3.3.0
             linux-headers-wb6: 5.10.35-wb6
             linux-image-wb6: 5.10.35-wb6
             linux-libc-dev: 5.10.35-wb6
@@ -143,17 +140,20 @@ releases:
             wb-homa-adc: 2.3.0
             wb-homa-gpio: 2.5.1
             wb-homa-w1: 2.2.0
-            wb-mqtt-adc: 2.3.0
-            wb-mqtt-confed: 1.5.0
-            wb-mqtt-db: 2.5.1
-            wb-mqtt-gpio: 2.5.1
+            wb-hwconf-manager: 1.43.1
+            wb-mqtt-adc: 2.3.1
+            wb-mqtt-confed: 1.6.2
+            wb-mqtt-dac: 1.1.3
+            wb-mqtt-db: 2.5.2
+            wb-mqtt-gpio: 2.5.2
+            wb-mqtt-homeui: 2.22.2
             wb-mqtt-logs: 1.1.2
-            wb-mqtt-mbgate: 1.1.0
-            wb-mqtt-opcua: 1.0.2
-            wb-mqtt-serial: 2.40.0
+            wb-mqtt-mbgate: 1.1.1
+            wb-mqtt-opcua: 1.0.3
+            wb-mqtt-serial: 2.41.3
             wb-mqtt-smartweb: 1.1.0
             wb-mqtt-w1: 2.2.0
-            wb-rules: 2.10.0
+            wb-rules: 2.10.2
             wb-suite: 1.4.0
             wb-test-suite: '1.24'
             z-way-server: 3.1.1
@@ -169,8 +169,11 @@ releases:
             wb-homa-adc: 1.14.6
             wb-homa-gpio: 1.19.5
             wb-homa-w1: 1.10.1
+            wb-hwconf-manager: 1.42.0
             wb-mqtt-confed: 1.2.2
+            wb-mqtt-dac: 1.1.2
             wb-mqtt-db: 1.7.3
+            wb-mqtt-homeui: 2.5.7
             wb-mqtt-mbgate: 0.1.4
             wb-mqtt-serial: 1.63.0
             wb-rules: 1.7.1
