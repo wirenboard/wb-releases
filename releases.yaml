@@ -137,8 +137,8 @@ releases:
             nodejs: 12.19.0-1nodesource1
             ss-dev: 2.0-1.43.4-2+wb1
             wb-demo-kit-configs: 1.2.2
-            wb-homa-adc: 2.3.0
-            wb-homa-gpio: 2.5.1
+            wb-homa-adc: 2.3.1
+            wb-homa-gpio: 2.5.2
             wb-homa-w1: 2.2.0
             wb-hwconf-manager: 1.43.2
             wb-mqtt-adc: 2.3.1
