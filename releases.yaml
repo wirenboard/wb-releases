@@ -360,7 +360,7 @@ suites:
         staging: "@staging.latest"
     wb6/stretch:
         stable: wb-2110
-        testing: wb-2110
+        testing: "@unstable.latest"
         unstable: "@unstable.latest"
     wb5/stretch:
         stable: wb-2110
