@@ -92,7 +92,7 @@ releases:
             wb-homa-ninja-bridge: 1.9.1
             wb-homa-rfsniffer: 1.0.9
             wb-homa-zway: 1.0.3+wb2
-            wb-knxd-config: 1.0.3
+            wb-knxd-config: 1.1.0
             wb-mcu-fw-flasher: 1.0.7
             wb-mcu-fw-updater: 1.0.10
             wb-mqtt-apcsnmp: '0.2'
@@ -140,7 +140,7 @@ releases:
             wb-homa-adc: 2.3.1
             wb-homa-gpio: 2.5.2
             wb-homa-w1: 2.2.0
-            wb-hwconf-manager: 1.43.2
+            wb-hwconf-manager: 1.43.2-wb1
             wb-mqtt-adc: 2.3.1
             wb-mqtt-confed: 1.6.2
             wb-mqtt-dac: 1.1.3
