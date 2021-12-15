@@ -140,7 +140,7 @@ releases:
             wb-homa-adc: 2.3.1
             wb-homa-gpio: 2.5.2
             wb-homa-w1: 2.2.0
-            wb-hwconf-manager: 1.43.2-wb2
+            wb-hwconf-manager: 1.43.2-wb3
             wb-mqtt-adc: 2.3.1
             wb-mqtt-confed: 1.6.2
             wb-mqtt-dac: 1.1.3
