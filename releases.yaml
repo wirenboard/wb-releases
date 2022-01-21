@@ -105,7 +105,6 @@ releases:
             wb-mqtt-mhz19: '1.0'
             wb-mqtt-sht1x: '1.0'
             wb-mqtt-smartbus: '1.2'
-            wb-mqtt-snmp: 1.2.0
             wb-mqtt-spl-meter: 1.1.1
             wb-mqtt-timestamper: 1.10.1
             wb-mqtt-zabbix: '0.2'
@@ -154,6 +153,7 @@ releases:
             wb-mqtt-opcua: 1.0.4
             wb-mqtt-serial: 2.45.0-wb1
             wb-mqtt-smartweb: 1.1.1
+            wb-mqtt-snmp: 1.2.0
             wb-mqtt-w1: 2.2.1
             wb-rules: 2.11.1
             wb-suite: 1.5.0
@@ -179,6 +179,7 @@ releases:
             wb-mqtt-knx: 0.1.2
             wb-mqtt-mbgate: 0.1.4
             wb-mqtt-serial: 1.63.0
+            wb-mqtt-snmp: 1.0.1
             wb-rules: 1.7.1
             wb-suite: '1.0'
             wb-test-suite: '1.20'
