@@ -72,10 +72,10 @@ releases:
             python3-mqttrpc: 1.1.1
             python3-paho-mqtt: 1.4.0-1
             python3-wb-common: 1.4.0
-            python3-wb-diag-collect: 1.1.0
+            python3-wb-diag-collect: 1.2.0
             python3-wb-mcu-fw-updater: 1.1.1
             python3-wb-mqtt-metrics: 0.1.1
-            python3-wb-update-manager: 1.2.4
+            python3-wb-update-manager: 1.2.5
             sensor-tools-scada-client: '1.1'
             serial-tool: '1.0'
             tcc: 0.9.27~git20170226.c4c3f500-1
@@ -85,7 +85,7 @@ releases:
             wb-configs-stretch: 2.3.1
             wb-configs: 2.3.1
             wb-daemon-watchdogs: '1.1'
-            wb-diag-collect: 1.1.0
+            wb-diag-collect: 1.2.0
             wb-dt-overlays: 1.4.0
             wb-essential: 1.5.0
             wb-homa-ism-radio: 1.17.3
@@ -110,7 +110,7 @@ releases:
             wb-mqtt-zabbix: '0.2'
             wb-mqtt-zway: 1.0.3+wb2
             wb-rules-system: 1.7.0
-            wb-update-manager: 1.2.4
+            wb-update-manager: 1.2.5
             wb-utils: 3.4.1
             wb-zigbee2mqtt: 1.0.0
             wpagui: 2.3-1+deb8u4
