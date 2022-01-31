@@ -87,7 +87,6 @@ releases:
             wb-daemon-watchdogs: '1.1'
             wb-diag-collect: 1.2.0
             wb-dt-overlays: 1.4.0
-            wb-essential: 1.5.0
             wb-homa-ism-radio: 1.17.3
             wb-homa-ninja-bridge: 1.9.1
             wb-homa-rfsniffer: 1.0.9
@@ -116,7 +115,7 @@ releases:
             wpagui: 2.3-1+deb8u4
             wpasupplicant: 2.3-1+deb8u4
 
-        wb6/stretch:
+        packages-armhf: &packages-wb-2201-armhf
             <<: *packages-wb-2201
 
             comerr-dev: 2.1-1.43.4-2+wb1
@@ -131,12 +130,10 @@ releases:
             libwbmqtt1-3: 3.5.0
             libwbmqtt1-3-dev: 3.5.0
             libwbmqtt1-3-test-utils: 3.5.0
-            linux-headers-wb6: 5.10.35-wb9
-            linux-image-wb6: 5.10.35-wb9
-            linux-libc-dev: 5.10.35-wb9
             nodejs: 12.19.0-1nodesource1
             ss-dev: 2.0-1.43.4-2+wb1
             wb-demo-kit-configs: 1.2.2
+            wb-essential: 1.6.0
             wb-homa-adc: 2.4.2
             wb-homa-gpio: 2.8.3
             wb-homa-w1: 2.2.1
@@ -156,10 +153,28 @@ releases:
             wb-mqtt-snmp: 1.2.0
             wb-mqtt-w1: 2.2.1
             wb-rules: 2.11.1
-            wb-suite: 1.5.0
+            wb-suite: 1.6.0
             wb-test-suite: '1.24'
             z-way-server: 3.1.1
             zigbee2mqtt: 1.18.1
+
+        wb7/stretch:
+            <<: *packages-wb-2201-armhf
+
+            linux-headers-wb7: 5.10.35-wb104
+            linux-image-wb7: 5.10.35-wb104
+            linux-libc-dev: 5.10.35-wb104
+            u-boot-wb7: 2:2021.10+wb1.1.0
+            u-boot-tools-wb: 2:2021.10+wb1.1.0
+
+        wb6/stretch:
+            <<: *packages-wb-2201-armhf
+
+            linux-headers-wb6: 5.10.35-wb104
+            linux-image-wb6: 5.10.35-wb104
+            linux-libc-dev: 5.10.35-wb104
+            u-boot-wb6: 2:2017.03+wb1.3.0
+            u-boot-tools-wb: 2:2017.03+wb1.3.0
 
         wb5/stretch:
             <<: *packages-wb-2201
@@ -168,6 +183,7 @@ releases:
             linux-image-wb2: 4.9.22-wb1
             mqtt-wss: '1.1'
             wb-adc-tools-mxs: '1.0'
+            wb-essential: 1.5.0
             wb-homa-adc: 1.14.6
             wb-homa-gpio: 1.19.5
             wb-homa-w1: 1.10.1
@@ -621,6 +637,9 @@ suites:
     all:
         pool: "@pool.latest"
         staging: "@staging.latest"
+    wb7/stretch:
+        testing: wb-2201
+        unstable: "@unstable.latest"
     wb6/stretch:
         stable: wb-2110
         testing: wb-2201
@@ -633,6 +652,10 @@ suites:
         unstable: "@latest"
 
 targets:
+    wb7/stretch:
+        arch: armhf
+        distro: stretch
+
     wb6/stretch:
         arch: armhf
         distro: stretch
