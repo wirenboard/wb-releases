@@ -79,8 +79,6 @@ releases:
             sensor-tools-scada-client: '1.1'
             serial-tool: '1.0'
             tcc: 0.9.27~git20170226.c4c3f500-1
-            u-boot-tools-wb: 2:2017.03+wb-2
-            u-boot-tools: 2:2017.03+wb-2
             watchdog: 5.15-1
             wb-configs-stretch: 2.3.1
             wb-configs: 2.3.1
@@ -165,6 +163,7 @@ releases:
             linux-image-wb7: 5.10.35-wb104
             linux-libc-dev: 5.10.35-wb104
             u-boot-wb7: 2:2021.10+wb1.1.0
+            u-boot-tools: 2:2021.10+wb1.1.0
             u-boot-tools-wb: 2:2021.10+wb1.1.0
 
         wb6/stretch:
@@ -174,6 +173,7 @@ releases:
             linux-image-wb6: 5.10.35-wb104
             linux-libc-dev: 5.10.35-wb104
             u-boot-wb6: 2:2017.03+wb1.3.0
+            u-boot-tools: 2:2017.03+wb1.3.0
             u-boot-tools-wb: 2:2017.03+wb1.3.0
 
         wb5/stretch:
