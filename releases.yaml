@@ -263,6 +263,9 @@ releases:
             map12e: 2.3.2
             map12eG: 2.3.5
             map12h: 2.3.2
+            map3eG16: 2.3.6
+            map6seG16: 2.3.6
+            map6sG16: 2.3.6
             # WB-MRGB
             mrgbw: 3.0.0
             # WB-MCM
