@@ -169,9 +169,9 @@ releases:
         wb6/stretch:
             <<: *packages-wb-2201-armhf
 
-            linux-headers-wb6: 5.10.35-wb104
-            linux-image-wb6: 5.10.35-wb104
-            linux-libc-dev: 5.10.35-wb104
+            linux-headers-wb6: 5.10.35-wb105
+            linux-image-wb6: 5.10.35-wb105
+            linux-libc-dev: 5.10.35-wb105
             u-boot-wb6: 2:2017.03+wb1.3.0
             u-boot-tools: 2:2017.03+wb1.3.0
             u-boot-tools-wb: 2:2017.03+wb1.3.0
@@ -413,9 +413,9 @@ releases:
             libwbmqtt1-3: 3.3.0
             libwbmqtt1-3-dev: 3.3.0
             libwbmqtt1-3-test-utils: 3.3.0
-            linux-headers-wb6: 5.10.35-wb9
-            linux-image-wb6: 5.10.35-wb9
-            linux-libc-dev: 5.10.35-wb9
+            linux-headers-wb6: 5.10.35-wb105
+            linux-image-wb6: 5.10.35-wb105
+            linux-libc-dev: 5.10.35-wb105
             nodejs: 12.19.0-1nodesource1
             ss-dev: 2.0-1.43.4-2+wb1
             wb-demo-kit-configs: 1.2.2
