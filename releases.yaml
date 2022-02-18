@@ -153,7 +153,7 @@ releases:
             wb-mqtt-w1: 2.2.1
             wb-rules: 2.11.1
             wb-suite: 1.6.0
-            wb-test-suite: '1.24'
+            wb-test-suite-deps: 1.8.0
             z-way-server: 3.1.1
             zigbee2mqtt: 1.18.1
 
