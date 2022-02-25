@@ -84,7 +84,7 @@ releases:
             wb-configs: 2.3.2
             wb-daemon-watchdogs: '1.1'
             wb-diag-collect: 1.2.0
-            wb-dt-overlays: 1.5.0
+            wb-dt-overlays: 1.4.0
             wb-homa-ism-radio: 1.17.3
             wb-homa-ninja-bridge: 1.9.1
             wb-homa-rfsniffer: 1.0.9
@@ -108,7 +108,7 @@ releases:
             wb-mqtt-zway: 1.0.3+wb2
             wb-rules-system: 1.7.0
             wb-update-manager: 1.2.5
-            wb-utils: 3.5.0
+            wb-utils: 3.4.1
             wb-zigbee2mqtt: 1.0.0
             wpagui: 2.3-1+deb8u4
             wpasupplicant: 2.3-1+deb8u4
@@ -135,7 +135,7 @@ releases:
             wb-homa-adc: 2.4.2
             wb-homa-gpio: 2.8.3
             wb-homa-w1: 2.2.1
-            wb-hwconf-manager: 1.48.0
+            wb-hwconf-manager: 1.46.2
             wb-mqtt-adc: 2.4.2
             wb-mqtt-confed: 1.8.0
             wb-mqtt-dac: 1.1.4
@@ -166,13 +166,15 @@ releases:
             u-boot-wb7: 2:2021.10+wb1.1.1
             u-boot-tools: 2:2021.10+wb1.1.1
             u-boot-tools-wb: 2:2021.10+wb1.1.1
+            wb-hwconf-manager: 1.48.0
+            wb-utils: 3.5.0
 
         wb6/stretch:
             <<: *packages-wb-2201-armhf
 
-            linux-headers-wb6: 5.10.35-wb108
-            linux-image-wb6: 5.10.35-wb108
-            linux-libc-dev: 5.10.35-wb108
+            linux-headers-wb6: 5.10.35-wb105
+            linux-image-wb6: 5.10.35-wb105
+            linux-libc-dev: 5.10.35-wb105
             u-boot-wb6: 2:2017.03+wb1.3.0
             u-boot-tools: 2:2017.03+wb1.3.0
             u-boot-tools-wb: 2:2017.03+wb1.3.0
