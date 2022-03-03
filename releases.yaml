@@ -107,6 +107,7 @@ releases:
             wb-mqtt-zabbix: '0.2'
             wb-mqtt-zway: 1.0.3+wb2
             wb-rules-system: 1.7.0
+            wb-test-suite-dummy: 1.9.0
             wb-update-manager: 1.2.5
             wb-utils: 3.4.1
             wb-zigbee2mqtt: 1.0.0
