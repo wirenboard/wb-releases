@@ -161,12 +161,14 @@ releases:
         wb7/stretch:
             <<: *packages-wb-2201-armhf
 
-            linux-headers-wb7: 5.10.35-wb104
-            linux-image-wb7: 5.10.35-wb104
-            linux-libc-dev: 5.10.35-wb104
+            linux-headers-wb7: 5.10.35-wb108
+            linux-image-wb7: 5.10.35-wb108
+            linux-libc-dev: 5.10.35-wb108
             u-boot-wb7: 2:2021.10+wb1.1.1
             u-boot-tools: 2:2021.10+wb1.1.1
             u-boot-tools-wb: 2:2021.10+wb1.1.1
+            wb-hwconf-manager: 1.48.0
+            wb-utils: 3.5.0
 
         wb6/stretch:
             <<: *packages-wb-2201-armhf
