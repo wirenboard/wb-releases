@@ -192,7 +192,7 @@ releases:
             wb-homa-adc: 1.14.6
             wb-homa-gpio: 1.19.5
             wb-homa-w1: 1.10.1
-            wb-hwconf-manager: 1.42.0
+            wb-hwconf-manager: 1.42.1+really1.41.2
             wb-mqtt-confed: 1.2.2
             wb-mqtt-dac: 1.1.2
             wb-mqtt-db: 1.7.3
@@ -466,7 +466,7 @@ releases:
             wb-homa-adc: 1.14.6
             wb-homa-gpio: 1.19.5
             wb-homa-w1: 1.10.1
-            wb-hwconf-manager: 1.42.0
+            wb-hwconf-manager: 1.42.1+really1.41.2
             wb-mqtt-confed: 1.2.2
             wb-mqtt-dac: 1.1.2
             wb-mqtt-db: 1.7.3
