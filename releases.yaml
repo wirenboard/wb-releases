@@ -174,9 +174,9 @@ releases:
         wb6/stretch:
             <<: *packages-wb-2201-armhf
 
-            linux-headers-wb6: 5.10.35-wb105
-            linux-image-wb6: 5.10.35-wb105
-            linux-libc-dev: 5.10.35-wb105
+            linux-headers-wb6: 5.10.35-wb105+1
+            linux-image-wb6: 5.10.35-wb105+1
+            linux-libc-dev: 5.10.35-wb105+1
             u-boot-wb6: 2:2017.03+wb1.3.0
             u-boot-tools: 2:2017.03+wb1.3.0
             u-boot-tools-wb: 2:2017.03+wb1.3.0
