@@ -152,7 +152,7 @@ releases:
             wb-mqtt-smartweb: 1.1.1
             wb-mqtt-snmp: 1.2.0
             wb-mqtt-w1: 2.2.1
-            wb-rules: 2.11.1
+            wb-rules: 2.11.1+wb1
             wb-suite: 1.8.0
             wb-test-suite-deps: 1.8.0
             z-way-server: 3.1.1
