@@ -66,7 +66,7 @@ releases:
             python-nrf24: 1.0+1
             python-wb-common: 1.4.0
             python-wb-io: 1.2.3
-            python-wb-mcu-fw-updater: 1.2.0
+            python-wb-mcu-fw-updater: 1.3.0
             python3-json-rpc: 1.9.2.wb1
             python3-mosquitto: 1.3.4-2contactless1
             python3-mqttrpc: 1.1.2
@@ -74,7 +74,7 @@ releases:
             python3-umodbus: 1.0.4-1+wb1
             python3-wb-common: 1.4.0
             python3-wb-diag-collect: 1.2.0
-            python3-wb-mcu-fw-updater: 1.2.0
+            python3-wb-mcu-fw-updater: 1.3.0
             python3-wb-mqtt-metrics: 0.1.1
             python3-wb-update-manager: 1.2.5
             sensor-tools-scada-client: '1.1'
@@ -93,7 +93,7 @@ releases:
             wb-knxd-config: 1.1.1
             wb-mb-explorer: 1.2.7
             wb-mcu-fw-flasher: 1.0.8
-            wb-mcu-fw-updater: 1.2.0
+            wb-mcu-fw-updater: 1.3.0
             wb-mqtt-apcsnmp: '0.2'
             wb-mqtt-bmp085: '1.2'
             wb-mqtt-co2mon: 1.1.1
