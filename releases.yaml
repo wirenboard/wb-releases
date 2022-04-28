@@ -140,10 +140,10 @@ releases:
             wb-hwconf-manager: 1.50.0
             wb-mqtt-adc: 2.4.3
             wb-mqtt-confed: 1.8.0
-            wb-mqtt-dac: 1.1.5
+            wb-mqtt-dac: 1.1.6
             wb-mqtt-db: 2.5.3
             wb-mqtt-gpio: 2.8.3
-            wb-mqtt-homeui: 2.34.1
+            wb-mqtt-homeui: 2.34.2
             wb-mqtt-iec104: 1.0.1
             wb-mqtt-knx: 1.5.0
             wb-mqtt-logs: 1.2.0
