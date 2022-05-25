@@ -597,18 +597,18 @@ suites:
         staging: "@staging.latest"
     wb7/stretch:
         stable: wb-2204
-        testing: wb-2204
+        testing: "@unstable.latest"
         unstable: "@unstable.latest"
     wb6/stretch:
         stable: wb-2204
-        testing: wb-2204
+        testing: "@unstable.latest"
         unstable: "@unstable.latest"
     wb5/stretch:
         stable: wb-2204
         testing: wb-2204
     firmwares:
         stable: wb-2204
-        testing: wb-2204
+        testing: "@latest"
         unstable: "@latest"
 
 targets:
