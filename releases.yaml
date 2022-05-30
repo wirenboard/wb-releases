@@ -110,7 +110,7 @@ releases:
             wb-rules-system: 1.8.0
             wb-test-suite-dummy: 1.9.0
             wb-update-manager: 1.2.5
-            wb-utils: 3.5.0
+            wb-utils: 3.5.1
             wb-zigbee2mqtt: 1.1.0
             wpagui: 2.3-1+deb8u4
             wpasupplicant: 2.3-1+deb8u4
