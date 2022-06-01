@@ -78,7 +78,7 @@ releases:
             python3-wb-mqtt-metrics: 0.1.1
             python3-wb-update-manager: 1.2.5
             sensor-tools-scada-client: '1.1'
-            serial-tool: '1.0'
+            serial-tool: 1.1.0
             tcc: 0.9.27~git20170226.c4c3f500-1
             watchdog: 5.15-1
             wb-configs-stretch: 2.3.3
