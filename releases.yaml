@@ -209,91 +209,6 @@ releases:
             u-boot-tools: 2:2017.03+wb-2
             u-boot-tools-wb: 2:2017.03+wb-2
 
-        firmwares:
-            # WB-MR
-            mr2m: 1.15.2        # на данном таргете на версиях старше 1.15.2 прошивка перестала помещаться в 12K (16K FLASH - 4K bootloader)
-            mr2m_k6: 1.17.8
-            mr2mG: 1.17.8
-            mr3: 1.17.8
-            mr3G: 1.17.8
-            mr6: 1.17.8
-            mr6_042: 1.17.8
-            mr6G: 1.17.8
-            mr6c: 1.17.8
-            mr6cG: 1.17.8
-            mr6c_042: 1.17.8
-            mr6cu: 1.17.8
-            mr6cu_042: 1.17.8
-            mr6cuG: 1.17.8
-            mr6cpG: 1.18.4
-            mrps6: 1.17.8
-            mrps6G: 1.17.8
-            mrwl3: 1.17.8
-            mrwl3G: 1.17.8
-            mrwl3_042: 1.17.8
-            mrwm2G: 1.17.8
-            wbmwac: 1.17.8
-            wbmwac_042: 1.17.8
-            wbmwacG: 1.17.8
-            # WB-MS
-            m1w2: 4.18.6
-            m1w2-21: 4.18.6
-            m1w2G21: 4.18.6
-            mir: 4.18.6
-            mir64: 4.18.6
-            mir64_gd: 4.18.6
-            mai2cc: 4.18.6
-            ms-33: 4.18.6
-            msv2-4.0: 4.18.6
-            msv2-4.0_gd: 4.18.6
-            msw3-48mh: 4.18.6
-            msw3-48mh30: 4.18.6
-            msw3-49: 4.18.6
-            msw3-49th30: 4.18.6
-            msw3-49-467: 4.18.6
-            msw3-49_gd: 4.18.6
-            msw3-49gd_oa: 4.18.6
-            msw3G49th: 4.18.6
-            msw3G419: 4.18.6
-            msw3G419th: 4.18.6
-            # WB-MD
-            mdm3: 2.4.2
-            mdm3_042: 2.4.2
-            mdm3_26: 2.4.2
-            mdm3G26: 2.4.2
-            # WB-MAP
-            map3e: 2.3.7
-            map3e_36: 2.3.7
-            map3e_031f6: 2.3.7
-            map3eG: 2.3.7
-            map3h: 2.3.7
-            map3h51: 2.3.7
-            map6s: 2.3.7
-            map6s51: 2.3.7
-            map6se: 2.3.7
-            map12e: 2.3.7
-            map12eG: 2.3.7
-            map12h: 2.3.7
-            map3eG16: 2.3.7
-            map6seG16: 2.3.7
-            map6sG16: 2.3.7
-            # WB-MRGB
-            mrgbw: 3.0.4
-            mrgbwG: 3.0.4
-            # WB-MCM
-            mcm8: 1.3.2
-            mcm8G: 1.3.2
-            # WB-MAO
-            mao4: 2.1.1
-            mao4G: 2.1.1
-            # WB-MAI
-            wb-mai-v10: 1.3.1
-            # WB-MIO
-            mio: 1.5.1
-            # WB-REF
-            ref-df: 1.0.1
-            refu: 1.0.1
-
     wb-2201:
         packages-common: &packages-wb-2201
             atecc-util: 0.4.6
@@ -592,6 +507,178 @@ releases:
             ref-df: 1.0.1
             refu: 1.0.0
 
+    _firmwares_stable:
+        firmwares:
+            # WB-MR
+            mr2m: 1.15.2        # на данном таргете на версиях старше 1.15.2 прошивка перестала помещаться в 12K (16K FLASH - 4K bootloader)
+            mr2m_k6: 1.17.8
+            mr2mG: 1.17.8
+            mr3: 1.17.8
+            mr3G: 1.17.8
+            mr6: 1.17.8
+            mr6_042: 1.17.8
+            mr6G: 1.17.8
+            mr6c: 1.17.8
+            mr6cG: 1.17.8
+            mr6c_042: 1.17.8
+            mr6cu: 1.17.8
+            mr6cu_042: 1.17.8
+            mr6cuG: 1.17.8
+            mr6cpG: 1.18.4
+            mrps6: 1.17.8
+            mrps6G: 1.17.8
+            mrwl3: 1.17.8
+            mrwl3G: 1.17.8
+            mrwl3_042: 1.17.8
+            mrwm2G: 1.17.8
+            wbmwac: 1.17.8
+            wbmwac_042: 1.17.8
+            wbmwacG: 1.17.8
+            # WB-MS
+            m1w2: 4.18.6
+            m1w2-21: 4.18.6
+            m1w2G21: 4.18.6
+            mir: 4.18.6
+            mir64: 4.18.6
+            mir64_gd: 4.18.6
+            mai2cc: 4.18.6
+            ms-33: 4.18.6
+            msv2-4.0: 4.18.6
+            msv2-4.0_gd: 4.18.6
+            msw3-48mh: 4.18.6
+            msw3-48mh30: 4.18.6
+            msw3-49: 4.18.6
+            msw3-49th30: 4.18.6
+            msw3-49-467: 4.18.6
+            msw3-49_gd: 4.18.6
+            msw3-49gd_oa: 4.18.6
+            msw3G49th: 4.18.6
+            msw3G419: 4.18.6
+            msw3G419th: 4.18.6
+            # WB-MD
+            mdm3: 2.4.2
+            mdm3_042: 2.4.2
+            mdm3_26: 2.4.2
+            mdm3G26: 2.4.2
+            # WB-MAP
+            map3e: 2.3.7
+            map3e_36: 2.3.7
+            map3e_031f6: 2.3.7
+            map3eG: 2.3.7
+            map3h: 2.3.7
+            map3h51: 2.3.7
+            map6s: 2.3.7
+            map6s51: 2.3.7
+            map6se: 2.3.7
+            map12e: 2.3.7
+            map12eG: 2.3.7
+            map12h: 2.3.7
+            map3eG16: 2.3.7
+            map6seG16: 2.3.7
+            map6sG16: 2.3.7
+            # WB-MRGB
+            mrgbw: 3.0.4
+            mrgbwG: 3.0.4
+            # WB-MCM
+            mcm8: 1.3.2
+            mcm8G: 1.3.2
+            # WB-MAO
+            mao4: 2.1.1
+            mao4G: 2.1.1
+            # WB-MAI
+            wb-mai-v10: 1.3.1
+            # WB-MIO
+            mio: 1.5.1
+            # WB-REF
+            ref-df: 1.0.1
+            refu: 1.0.1
+
+    _firmwares_testing:
+        firmwares:
+            # WB-MR
+            mr2m: 1.15.2        # на данном таргете на версиях старше 1.15.2 прошивка перестала помещаться в 12K (16K FLASH - 4K bootloader)
+            mr2m_k6: 1.18.4
+            mr2mG: 1.18.4
+            mr3: 1.18.4
+            mr3G: 1.18.4
+            mr6: 1.18.4
+            mr6_042: 1.18.4
+            mr6G: 1.18.4
+            mr6c: 1.18.4
+            mr6cG: 1.18.4
+            mr6c_042: 1.18.4
+            mr6cu: 1.18.4
+            mr6cu_042: 1.18.4
+            mr6cuG: 1.18.4
+            mr6cpG: 1.18.4
+            mrps6: 1.18.4
+            mrps6G: 1.18.4
+            mrwl3: 1.18.4
+            mrwl3G: 1.18.4
+            mrwl3_042: 1.18.4
+            mrwm2G: 1.18.4
+            wbmwac: 1.18.4
+            wbmwac_042: 1.18.4
+            wbmwacG: 1.18.4
+            # WB-MS
+            m1w2: 4.18.7
+            m1w2-21: 4.18.7
+            m1w2G21: 4.18.7
+            mir: 4.18.7
+            mir64: 4.18.7
+            mir64_gd: 4.18.7
+            mai2cc: 4.18.7
+            ms-33: 4.18.7
+            msv2-4.0: 4.18.7
+            msv2-4.0_gd: 4.18.7
+            msw3-48mh: 4.18.7
+            msw3-48mh30: 4.18.7
+            msw3-49: 4.18.7
+            msw3-49th30: 4.18.7
+            msw3-49-467: 4.18.7
+            msw3-49_gd: 4.18.7
+            msw3-49gd_oa: 4.18.7
+            msw3G49th: 4.18.7
+            msw3G419: 4.18.7
+            msw3G419th: 4.18.7
+            # WB-MD
+            mdm3: 2.5.1
+            mdm3_042: 2.5.1
+            mdm3_26: 2.5.1
+            mdm3G26: 2.5.1
+            # WB-MAP
+            map3e: 2.3.7
+            map3e_36: 2.3.7
+            map3e_031f6: 2.3.7
+            map3eG: 2.3.7
+            map3h: 2.3.7
+            map3h51: 2.3.7
+            map6s: 2.3.7
+            map6s51: 2.3.7
+            map6se: 2.3.7
+            map12e: 2.3.7
+            map12eG: 2.3.7
+            map12h: 2.3.7
+            map3eG16: 2.3.7
+            map6seG16: 2.3.7
+            map6sG16: 2.3.7
+            # WB-MRGB
+            mrgbw: 3.0.4
+            mrgbwG: 3.0.4
+            # WB-MCM
+            mcm8: 1.3.4
+            mcm8G: 1.3.4
+            # WB-MAO
+            mao4: 2.1.1
+            mao4G: 2.1.1
+            # WB-MAI
+            wb-mai-v10: 1.3.1
+            # WB-MIO
+            mio: 1.5.1
+            # WB-REF
+            ref-df: 1.0.1
+            refu: 1.0.1
+
 suites:
     all:
         pool: "@pool.latest"
@@ -608,9 +695,10 @@ suites:
         stable: wb-2204
         testing: wb-2204
     firmwares:
-        stable: wb-2204
-        testing: "@latest"
-        unstable: "@latest"
+        stable: _firmwares_stable
+        testing: _firmwares_testing
+
+        wb-2204: _firmwares_stable
 
 targets:
     wb7/stretch:
