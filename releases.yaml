@@ -143,7 +143,7 @@ releases:
             wb-mqtt-dac: 1.1.6
             wb-mqtt-db: 2.5.3
             wb-mqtt-gpio: 2.8.3
-            wb-mqtt-homeui: 2.35.1
+            wb-mqtt-homeui: 2.35.1-wb1
             wb-mqtt-iec104: 1.0.1
             wb-mqtt-knx: 1.5.0
             wb-mqtt-logs: 1.2.0
