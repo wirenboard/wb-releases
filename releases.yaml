@@ -458,6 +458,7 @@ releases:
             ms-33: 4.16.19  # no 4.6.0 on fw-releases; TODO: check fw
             msv2-4.0: 4.16.19
             msv2-4.0_gd: 4.18.6
+            msv2G42: 4.18.8
             msw3-48mh: 4.16.10
             msw3-48mh30: 4.16.10
             msw3-49: 4.16.19  # no 4.16.6 on fw-releases; TODO: check fw
@@ -545,6 +546,7 @@ releases:
             ms-33: 4.18.6
             msv2-4.0: 4.18.6
             msv2-4.0_gd: 4.18.6
+            msv2G42: 4.18.8
             msw3-48mh: 4.18.6
             msw3-48mh30: 4.18.6
             msw3-49: 4.18.6
@@ -631,6 +633,7 @@ releases:
             ms-33: 4.18.7
             msv2-4.0: 4.18.7
             msv2-4.0_gd: 4.18.7
+            msv2G42: 4.18.8
             msw3-48mh: 4.18.7
             msw3-48mh30: 4.18.7
             msw3-49: 4.18.7
