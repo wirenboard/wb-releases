@@ -1,7 +1,7 @@
 releases:
     wb-2204:
         packages-common: &packages-wb-2204
-            atecc-util: 0.4.6
+            atecc-util: 0.4.7
             ca-certificates-contactless: '0.1'
             can-utils: 0.0+git20160831-1
             cmux: '1.2'
@@ -16,7 +16,7 @@ releases:
             knxd-examples: 0.11.15-1-wb1
             knxd-tools: 0.14.51-1
             knxd: 0.14.51-1
-            libateccssl1.1: 0.2.2
+            libateccssl1.1: 0.2.3
             libateccssl: '0.1'
             libfdt1: 1.6.0-1
             libirman-dev: 0.4.4-2-wb1
