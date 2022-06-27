@@ -699,6 +699,7 @@ suites:
     firmwares:
         stable: _firmwares_stable
         testing: _firmwares_testing
+        unstable: _firmwares_testing
 
         wb-2204: _firmwares_stable
 
