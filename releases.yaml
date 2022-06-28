@@ -1,7 +1,7 @@
 releases:
     wb-2204:
         packages-common: &packages-wb-2204
-            atecc-util: 0.4.6
+            atecc-util: 0.4.7
             ca-certificates-contactless: '0.1'
             can-utils: 0.0+git20160831-1
             cmux: '1.2'
@@ -16,7 +16,6 @@ releases:
             knxd-examples: 0.11.15-1-wb1
             knxd-tools: 0.14.51-1
             knxd: 0.14.51-1
-            libateccssl1.1: 0.2.2
             libateccssl: '0.1'
             libfdt1: 1.6.0-1
             libirman-dev: 0.4.4-2-wb1
@@ -125,6 +124,7 @@ releases:
             e2fsprogs: 1.43.4-2+wb1
             emmcparm: 5.0.0
             fuse2fs: 1.43.4-2+wb1
+            libateccssl1.1: 0.2.3
             libcomerr2: 1.43.4-2+wb1
             libss2: 1.43.4-2+wb1
             libwbmqtt1-3: 3.7.2
@@ -185,6 +185,7 @@ releases:
         wb5/stretch:
             <<: *packages-wb-2204
 
+            libateccssl1.1: 0.2.2
             linux-headers-wb2: 4.9.22-wb1
             linux-image-wb2: 4.9.22-wb1
             mqtt-wss: '1.1'
