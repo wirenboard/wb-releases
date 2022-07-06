@@ -128,9 +128,9 @@ releases:
         wb7/bullseye:
             <<: *packages-wb-2207
 
-            linux-headers-wb7: 5.10.35-wb114
-            linux-image-wb7: 5.10.35-wb114
-            linux-libc-dev: 5.10.35-wb114
+            linux-headers-wb7: 5.10.35-wb116
+            linux-image-wb7: 5.10.35-wb116
+            linux-libc-dev: 5.10.35-wb116
             u-boot-wb7: 2:2021.10+wb1.1.1
             u-boot-tools: 2:2021.10+wb1.1.1
             u-boot-tools-wb: 2:2021.10+wb1.1.1
@@ -138,9 +138,9 @@ releases:
         wb6/bullseye:
             <<: *packages-wb-2207
 
-            linux-headers-wb6: 5.10.35-wb114
-            linux-image-wb6: 5.10.35-wb114
-            linux-libc-dev: 5.10.35-wb114
+            linux-headers-wb6: 5.10.35-wb116
+            linux-image-wb6: 5.10.35-wb116
+            linux-libc-dev: 5.10.35-wb116
             u-boot-wb6: 2:2021.10+wb1.2.0~exp~feature+wb6+port+2021+10~50120~gb2763a5
             u-boot-tools: 2:2021.10+wb1.2.0~exp~feature+wb6+port+2021+10~50120~gb2763a5
             u-boot-tools-wb: 2:2021.10+wb1.2.0~exp~feature+wb6+port+2021+10~50120~gb2763a5
