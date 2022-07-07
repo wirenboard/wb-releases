@@ -1042,12 +1042,12 @@ suites:
 
     wb7/stretch:
         stable: wb-2204
-        testing: "@unstable.latest"
-        unstable: "@unstable.latest"
+        testing: wb-2207
+        unstable: wb-2207
     wb6/stretch:
         stable: wb-2204
-        testing: "@unstable.latest"
-        unstable: "@unstable.latest"
+        testing: wb-2207
+        unstable: wb-2207
     wb5/stretch:
         stable: wb-2204
         testing: wb-2204
