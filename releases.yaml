@@ -66,7 +66,7 @@ releases:
             ss-dev: 2.0-1.43.4-2+wb1
             tcc: 0.9.27~git20170226.c4c3f500-1
             watchdog: 5.15-1
-            wb-configs: 3.0.0~exp~feature+49818+bullseye~15~g0c81e63
+            wb-configs: 3.0.1~exp~feature+49818+bullseye~16~g0288cc5
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.5.0
             wb-diag-collect: 1.2.0
