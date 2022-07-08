@@ -47,7 +47,7 @@ releases:
             python3-paho-mqtt: 1.4.0-1
             python3-umodbus: 1.0.4-1+wb1
             python3-wb-common: 1.4.0
-            python3-wb-diag-collect: 1.2.1
+            python3-wb-diag-collect: 1.3.0
             python3-wb-mcu-fw-updater: 1.4.0
             python3-wb-mqtt-metrics: 0.1.1
             python3-wb-update-manager: 1.2.5
@@ -58,7 +58,7 @@ releases:
             wb-configs: 3.0.1~exp~feature+49818+bullseye~16~g0288cc5
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.5.0
-            wb-diag-collect: 1.2.1
+            wb-diag-collect: 1.3.0
             wb-dt-overlays: 1.5.0
             wb-essential: 1.10.0
             wb-homa-ism-radio: 1.17.3
@@ -116,9 +116,9 @@ releases:
             linux-headers-wb7: 5.10.35-wb116
             linux-image-wb7: 5.10.35-wb116
             linux-libc-dev: 5.10.35-wb116
-            u-boot-wb7: 2:2021.10+wb1.1.1
-            u-boot-tools: 2:2021.10+wb1.1.1
-            u-boot-tools-wb: 2:2021.10+wb1.1.1
+            u-boot-wb7: 2:2021.10+wb1.1.2
+            u-boot-tools: 2:2021.10+wb1.1.2
+            u-boot-tools-wb: 2:2021.10+wb1.1.2
 
         wb6/bullseye:
             <<: *packages-wb-2207
@@ -204,7 +204,7 @@ releases:
             python3-paho-mqtt: 1.4.0-1
             python3-umodbus: 1.0.4-1+wb1
             python3-wb-common: 1.4.0
-            python3-wb-diag-collect: 1.2.1
+            python3-wb-diag-collect: 1.3.0
             python3-wb-mcu-fw-updater: 1.4.0
             python3-wb-mqtt-metrics: 0.1.1
             python3-wb-update-manager: 1.2.5
@@ -215,7 +215,7 @@ releases:
             wb-configs-stretch: 2.3.4
             wb-configs: 2.3.4
             wb-daemon-watchdogs: '1.1'
-            wb-diag-collect: 1.2.1
+            wb-diag-collect: 1.3.0
             wb-dt-overlays: 1.5.0
             wb-homa-ism-radio: 1.17.3
             wb-homa-ninja-bridge: 1.9.1
@@ -302,9 +302,9 @@ releases:
             linux-headers-wb7: 5.10.35-wb116
             linux-image-wb7: 5.10.35-wb116
             linux-libc-dev: 5.10.35-wb116
-            u-boot-wb7: 2:2021.10+wb1.1.1
-            u-boot-tools: 2:2021.10+wb1.1.1
-            u-boot-tools-wb: 2:2021.10+wb1.1.1
+            u-boot-wb7: 2:2021.10+wb1.1.2
+            u-boot-tools: 2:2021.10+wb1.1.2
+            u-boot-tools-wb: 2:2021.10+wb1.1.2
 
         wb6/stretch:
             <<: *packages-wb-2207-armhf-stretch
