@@ -730,8 +730,8 @@ releases:
             mrgbw: 3.0.4
             mrgbwG: 3.0.4
             # WB-MCM
-            mcm8: 1.3.2
-            mcm8G: 1.3.2
+            mcm8: 1.3.4
+            mcm8G: 1.3.4
             # WB-MAO
             mao4: 2.1.1
             mao4G: 2.1.1
@@ -818,8 +818,8 @@ releases:
             mrgbw: 3.0.4
             mrgbwG: 3.0.4
             # WB-MCM
-            mcm8: 1.3.4
-            mcm8G: 1.3.4
+            mcm8: 1.4.0-rc1
+            mcm8G: 1.4.0-rc1
             # WB-MAO
             mao4: 2.1.1
             mao4G: 2.1.1
