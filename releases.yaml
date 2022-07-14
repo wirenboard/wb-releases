@@ -514,9 +514,9 @@ releases:
             linux-headers-wb7: 5.10.35-wb111
             linux-image-wb7: 5.10.35-wb114
             linux-libc-dev: 5.10.35-wb111
-            u-boot-wb7: 2:2021.10+wb1.1.1
-            u-boot-tools: 2:2021.10+wb1.1.1
-            u-boot-tools-wb: 2:2021.10+wb1.1.1
+            u-boot-wb7: 2:2021.10+wb1.1.2
+            u-boot-tools: 2:2021.10+wb1.1.2
+            u-boot-tools-wb: 2:2021.10+wb1.1.2
 
         wb6/stretch:
             <<: *packages-wb-2204-armhf
