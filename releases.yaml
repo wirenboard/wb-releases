@@ -928,6 +928,7 @@ releases:
             # WB-MRGB
             mrgbw: 3.0.4
             mrgbwG: 3.0.4
+            ledG: 3.1.0
             # WB-MCM
             mcm8: 1.3.4
             mcm8G: 1.3.4
@@ -1016,6 +1017,7 @@ releases:
             # WB-MRGB
             mrgbw: 3.2.0-rc1
             mrgbwG: 3.2.0-rc1
+            ledG: 3.2.0-rc1
             # WB-MCM
             mcm8: 1.4.0-rc1
             mcm8G: 1.4.0-rc1
