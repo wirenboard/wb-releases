@@ -78,7 +78,7 @@ releases:
             wb-mqtt-db-cli: 1.3.0~exp~feature+50202+bullseye~2~g32915c9
             wb-mqtt-db: 2.5.5
             wb-mqtt-gpio: 2.8.4
-            wb-mqtt-homeui: 2.41.1
+            wb-mqtt-homeui: 2.44.3
             wb-mqtt-iec104: 1.0.2
             wb-mqtt-knx: 1.6.0~exp~feature+50202+bullseye~1~g9b4228e
             wb-mqtt-lirc: 1.1.4
