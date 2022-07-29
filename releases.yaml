@@ -116,9 +116,9 @@ releases:
             linux-headers-wb7: 5.10.35-wb116
             linux-image-wb7: 5.10.35-wb116
             linux-libc-dev: 5.10.35-wb116
-            u-boot-wb7: 2:2021.10+wb1.1.2
-            u-boot-tools: 2:2021.10+wb1.1.2
-            u-boot-tools-wb: 2:2021.10+wb1.1.2
+            u-boot-wb7: 2:2021.10+wb1.2.0
+            u-boot-tools: 2:2021.10+wb1.2.0
+            u-boot-tools-wb: 2:2021.10+wb1.2.0
 
         wb6/bullseye:
             <<: *packages-wb-2207
@@ -126,9 +126,9 @@ releases:
             linux-headers-wb6: 5.10.35-wb116
             linux-image-wb6: 5.10.35-wb116
             linux-libc-dev: 5.10.35-wb116
-            u-boot-wb6: 2:2021.10+wb1.2.0~exp~feature+wb6+port+2021+10~50120~gb2763a5
-            u-boot-tools: 2:2021.10+wb1.2.0~exp~feature+wb6+port+2021+10~50120~gb2763a5
-            u-boot-tools-wb: 2:2021.10+wb1.2.0~exp~feature+wb6+port+2021+10~50120~gb2763a5
+            u-boot-wb6: 2:2021.10+wb1.2.0
+            u-boot-tools: 2:2021.10+wb1.2.0
+            u-boot-tools-wb: 2:2021.10+wb1.2.0
 
 
         packages-common-stretch: &packages-wb-2207-stretch
@@ -302,9 +302,9 @@ releases:
             linux-headers-wb7: 5.10.35-wb116
             linux-image-wb7: 5.10.35-wb116
             linux-libc-dev: 5.10.35-wb116
-            u-boot-wb7: 2:2021.10+wb1.1.2
-            u-boot-tools: 2:2021.10+wb1.1.2
-            u-boot-tools-wb: 2:2021.10+wb1.1.2
+            u-boot-wb7: 2:2021.10+wb1.2.0
+            u-boot-tools: 2:2021.10+wb1.2.0
+            u-boot-tools-wb: 2:2021.10+wb1.2.0
 
         wb6/stretch:
             <<: *packages-wb-2207-armhf-stretch
@@ -312,9 +312,9 @@ releases:
             linux-headers-wb6: 5.10.35-wb116
             linux-image-wb6: 5.10.35-wb116
             linux-libc-dev: 5.10.35-wb116
-            u-boot-wb6: 2:2017.03+wb1.3.0
-            u-boot-tools: 2:2017.03+wb1.3.0
-            u-boot-tools-wb: 2:2017.03+wb1.3.0
+            u-boot-wb6: 2:2021.10+wb1.2.0
+            u-boot-tools: 2:2021.10+wb1.2.0
+            u-boot-tools-wb: 2:2021.10+wb1.2.0
 
         wb5/stretch:
             <<: *packages-wb-2207-stretch
