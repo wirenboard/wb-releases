@@ -39,7 +39,7 @@ releases:
             python-nrf24: 1.0+1
             python-wb-common: 1.4.0
             python-wb-io: 1.2.3
-            python-wb-mcu-fw-updater: 1.4.0
+            python-wb-mcu-fw-updater: 1.5.1
             python3-intelhex: 2.3.0-1
             python3-json-rpc: 1.9.2.wb1
             python3-modbus-utils-rpc: 1.0.1
@@ -48,7 +48,7 @@ releases:
             python3-umodbus: 1.0.4-1+wb1
             python3-wb-common: 1.4.0
             python3-wb-diag-collect: 1.3.0
-            python3-wb-mcu-fw-updater: 1.4.0
+            python3-wb-mcu-fw-updater: 1.5.1
             python3-wb-mqtt-metrics: 0.1.1
             python3-wb-update-manager: 1.2.5
             rapidscada: 6.0.0~beta7-2
@@ -68,14 +68,14 @@ releases:
             wb-knxd-config: 1.1.1
             wb-mb-explorer: 1.2.7
             wb-mcu-fw-flasher: 1.1.0
-            wb-mcu-fw-updater: 1.4.0
+            wb-mcu-fw-updater: 1.5.1
             wb-mqtt-adc: 2.5.0
             wb-mqtt-apcsnmp: '0.2'
             wb-mqtt-bmp085: '1.2'
             wb-mqtt-co2mon: 1.1.1
             wb-mqtt-confed: 1.10.0~exp~feature+50202+bullseye+confed+rebase~7~g9b4cf58
             wb-mqtt-dac: 1.2.0
-            wb-mqtt-db-cli: 1.3.0~exp~feature+50202+bullseye~2~g32915c9
+            wb-mqtt-db-cli: 1.3.0
             wb-mqtt-db: 2.5.5
             wb-mqtt-gpio: 2.8.4
             wb-mqtt-homeui: 2.44.4
@@ -99,7 +99,7 @@ releases:
             wb-mqtt-zabbix: '0.2'
             wb-rules-system: 1.8.1
             wb-rules: 2.12.0~exp~feature+mosquitto+socket~1~gf346539
-            wb-suite: 1.10.0
+            wb-suite: 1.11.0
             wb-test-suite-deps: 1.10.0
             wb-test-suite-dummy: 1.10.0
             wb-update-manager: 1.2.5
@@ -196,7 +196,7 @@ releases:
             python-nrf24: 1.0+1
             python-wb-common: 1.4.0
             python-wb-io: 1.2.3
-            python-wb-mcu-fw-updater: 1.4.0
+            python-wb-mcu-fw-updater: 1.5.1
             python3-intelhex: 2.3.0-1
             python3-json-rpc: 1.9.2.wb1
             python3-mosquitto: 1.3.4-2contactless1
@@ -205,7 +205,7 @@ releases:
             python3-umodbus: 1.0.4-1+wb1
             python3-wb-common: 1.4.0
             python3-wb-diag-collect: 1.3.0
-            python3-wb-mcu-fw-updater: 1.4.0
+            python3-wb-mcu-fw-updater: 1.5.1
             python3-wb-mqtt-metrics: 0.1.1
             python3-wb-update-manager: 1.2.5
             sensor-tools-scada-client: '1.1'
@@ -224,7 +224,7 @@ releases:
             wb-knxd-config: 1.1.1
             wb-mb-explorer: 1.2.7
             wb-mcu-fw-flasher: 1.1.0
-            wb-mcu-fw-updater: 1.4.0
+            wb-mcu-fw-updater: 1.5.1
             wb-mqtt-apcsnmp: '0.2'
             wb-mqtt-bmp085: '1.2'
             wb-mqtt-co2mon: 1.1.1
@@ -289,7 +289,7 @@ releases:
             wb-mqtt-snmp: 1.2.0
             wb-mqtt-w1: 2.2.2
             wb-rules: 2.11.4
-            wb-suite: 1.10.0
+            wb-suite: 1.11.0
             wb-test-suite-deps: 1.10.0
             z-way-server: 3.2.2-93-g8c133c1
             zbw: '1.2'
@@ -852,7 +852,7 @@ releases:
             mio: 1.5.1
             # WB-REF
             ref-df: 1.0.1
-            refu: 1.0.0
+            refu: 1.0.1
 
     _firmwares_stable:
         firmwares:
