@@ -116,7 +116,7 @@ releases:
             linux-headers-wb7: 5.10.35-wb116
             linux-image-wb7: 5.10.35-wb116
             linux-libc-dev: 5.10.35-wb116
-            u-boot-wb7: 2:2021.10+wb1.1.2
+            u-boot-wb7: 2:2021.10+wb1.3.0
             u-boot-tools: 2:2021.10+wb1.1.2
             u-boot-tools-wb: 2:2021.10+wb1.1.2
 
@@ -302,7 +302,7 @@ releases:
             linux-headers-wb7: 5.10.35-wb116
             linux-image-wb7: 5.10.35-wb116
             linux-libc-dev: 5.10.35-wb116
-            u-boot-wb7: 2:2021.10+wb1.1.2
+            u-boot-wb7: 2:2021.10+wb1.3.0
             u-boot-tools: 2:2021.10+wb1.1.2
             u-boot-tools-wb: 2:2021.10+wb1.1.2
 
