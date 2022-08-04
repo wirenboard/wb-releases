@@ -64,7 +64,7 @@ releases:
             wb-homa-ism-radio: 1.17.3
             wb-homa-ninja-bridge: 1.9.1
             wb-homa-rfsniffer: 1.0.9
-            wb-hwconf-manager: 1.52.2
+            wb-hwconf-manager: 1.52.4
             wb-knxd-config: 1.1.1
             wb-mb-explorer: 1.2.7
             wb-mcu-fw-flasher: 1.1.0
@@ -113,9 +113,9 @@ releases:
         wb7/bullseye:
             <<: *packages-wb-2207
 
-            linux-headers-wb7: 5.10.35-wb116
-            linux-image-wb7: 5.10.35-wb116
-            linux-libc-dev: 5.10.35-wb116
+            linux-headers-wb7: 5.10.35-wb118
+            linux-image-wb7: 5.10.35-wb118
+            linux-libc-dev: 5.10.35-wb118
             u-boot-wb7: 2:2021.10+wb1.3.0
             u-boot-tools: 2:2021.10+wb1.3.0
             u-boot-tools-wb: 2:2021.10+wb1.3.0
@@ -271,7 +271,7 @@ releases:
             wb-homa-adc: 2.5.0
             wb-homa-gpio: 2.8.4
             wb-homa-w1: 2.2.2
-            wb-hwconf-manager: 1.52.2
+            wb-hwconf-manager: 1.52.4
             wb-mqtt-adc: 2.5.0
             wb-mqtt-confed: 1.8.1
             wb-mqtt-dac: 1.2.0
@@ -299,9 +299,9 @@ releases:
         wb7/stretch:
             <<: *packages-wb-2207-armhf-stretch
 
-            linux-headers-wb7: 5.10.35-wb116
-            linux-image-wb7: 5.10.35-wb116
-            linux-libc-dev: 5.10.35-wb116
+            linux-headers-wb7: 5.10.35-wb118
+            linux-image-wb7: 5.10.35-wb118
+            linux-libc-dev: 5.10.35-wb118
             u-boot-wb7: 2:2021.10+wb1.3.0
             u-boot-tools: 2:2021.10+wb1.3.0
             u-boot-tools-wb: 2:2021.10+wb1.3.0
@@ -483,7 +483,7 @@ releases:
             wb-homa-adc: 2.4.3
             wb-homa-gpio: 2.8.3
             wb-homa-w1: 2.2.2
-            wb-hwconf-manager: 1.50.0
+            wb-hwconf-manager: 1.50.0+wb101+1.52.4
             wb-mqtt-adc: 2.4.3
             wb-mqtt-confed: 1.8.0
             wb-mqtt-dac: 1.1.6
@@ -512,7 +512,7 @@ releases:
             <<: *packages-wb-2204-armhf
 
             linux-headers-wb7: 5.10.35-wb111
-            linux-image-wb7: 5.10.35-wb114
+            linux-image-wb7: 5.10.35-wb115+wb101+108~exp~release+wb+2204+wb7+stretch~316~gf398bbc
             linux-libc-dev: 5.10.35-wb111
             u-boot-wb7: 2:2021.10+wb1.1.2
             u-boot-tools: 2:2021.10+wb1.1.2
