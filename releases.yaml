@@ -82,7 +82,7 @@ releases:
             wb-mqtt-iec104: 1.0.2
             wb-mqtt-knx: 1.6.0~exp~feature+50202+bullseye~1~g9b4228e
             wb-mqtt-lirc: 1.1.4
-            wb-mqtt-logs: 1.4.0
+            wb-mqtt-logs: 1.4.1~exp~tmp+vdromanov+bullseye+test~1~g2c86bb4
             wb-mqtt-mbgate: 1.2.0~exp~feature+50202+bullseye~2~g709a6f4
             wb-mqtt-metrics: 0.1.1
             wb-mqtt-mhz19: '1.0'
