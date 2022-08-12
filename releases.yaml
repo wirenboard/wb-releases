@@ -1021,8 +1021,8 @@ releases:
             mrgbwG: 3.2.2
             ledG: 3.2.2
             # WB-MCM
-            mcm8: 1.4.0-rc1
-            mcm8G: 1.4.0-rc1
+            mcm8: 1.4.0
+            mcm8G: 1.4.0
             # WB-MAO
             mao4: 2.1.1
             mao4G: 2.1.1
