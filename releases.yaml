@@ -64,7 +64,7 @@ releases:
             wb-homa-ism-radio: 1.17.3
             wb-homa-ninja-bridge: 1.9.1
             wb-homa-rfsniffer: 1.0.9
-            wb-hwconf-manager: 1.52.4
+            wb-hwconf-manager: 1.52.5
             wb-knxd-config: 1.1.1
             wb-mb-explorer: 1.2.7
             wb-mcu-fw-flasher: 1.1.0
@@ -271,7 +271,7 @@ releases:
             wb-homa-adc: 2.5.0
             wb-homa-gpio: 2.8.4
             wb-homa-w1: 2.2.2
-            wb-hwconf-manager: 1.52.4
+            wb-hwconf-manager: 1.52.5
             wb-mqtt-adc: 2.5.0
             wb-mqtt-confed: 1.8.1
             wb-mqtt-dac: 1.2.0
