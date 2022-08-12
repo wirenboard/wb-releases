@@ -116,9 +116,9 @@ releases:
             linux-headers-wb7: 5.10.35-wb118
             linux-image-wb7: 5.10.35-wb118
             linux-libc-dev: 5.10.35-wb118
-            u-boot-wb7: 2:2021.10+wb1.3.0
-            u-boot-tools: 2:2021.10+wb1.3.0
-            u-boot-tools-wb: 2:2021.10+wb1.3.0
+            u-boot-wb7: 2:2021.10+wb1.3.1
+            u-boot-tools: 2:2021.10+wb1.3.1
+            u-boot-tools-wb: 2:2021.10+wb1.3.1
 
         wb6/bullseye:
             <<: *packages-wb-2207
@@ -302,9 +302,9 @@ releases:
             linux-headers-wb7: 5.10.35-wb118
             linux-image-wb7: 5.10.35-wb118
             linux-libc-dev: 5.10.35-wb118
-            u-boot-wb7: 2:2021.10+wb1.3.0
-            u-boot-tools: 2:2021.10+wb1.3.0
-            u-boot-tools-wb: 2:2021.10+wb1.3.0
+            u-boot-wb7: 2:2021.10+wb1.3.1
+            u-boot-tools: 2:2021.10+wb1.3.1
+            u-boot-tools-wb: 2:2021.10+wb1.3.1
 
         wb6/stretch:
             <<: *packages-wb-2207-armhf-stretch
@@ -514,9 +514,9 @@ releases:
             linux-headers-wb7: 5.10.35-wb111
             linux-image-wb7: 5.10.35-wb115+wb101+108~exp~release+wb+2204+wb7+stretch~316~gf398bbc
             linux-libc-dev: 5.10.35-wb111
-            u-boot-wb7: 2:2021.10+wb1.1.2
-            u-boot-tools: 2:2021.10+wb1.1.2
-            u-boot-tools-wb: 2:2021.10+wb1.1.2
+            u-boot-wb7: 2:2021.10+wb1.3.0
+            u-boot-tools: 2:2021.10+wb1.3.0
+            u-boot-tools-wb: 2:2021.10+wb1.3.0
 
         wb6/stretch:
             <<: *packages-wb-2204-armhf
