@@ -100,6 +100,7 @@ releases:
             wb-rules-system: 1.8.1
             wb-rules: 2.12.0~exp~feature+mosquitto+socket~1~gf346539
             wb-suite: 1.11.0
+            wb-update-notifier: 0.1.0
             wb-test-suite-deps: 1.10.0
             wb-test-suite-dummy: 1.10.0
             wb-update-manager: 1.2.5
