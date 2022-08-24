@@ -104,7 +104,7 @@ releases:
             wb-test-suite-deps: 1.10.0
             wb-test-suite-dummy: 1.10.0
             wb-update-manager: 1.2.5
-            wb-utils: 3.7.0~exp~PR+44~7~g9554524
+            wb-utils: 3.7.0~exp~tmp+vdromanov+pr+changes~8~ge42108c
             wb-zigbee2mqtt: 1.1.0
             z-way-server: 3.2.2-93-g8c133c1
             zbw: '1.2'
