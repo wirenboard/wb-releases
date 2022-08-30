@@ -285,7 +285,7 @@ releases:
             wb-mqtt-mbgate: 1.1.2
             wb-mqtt-opcua: 1.0.4
             wb-mqtt-rfblinds: '1.0'
-            wb-mqtt-serial: 2.68.6-wb103
+            wb-mqtt-serial: 2.68.6-wb104
             wb-mqtt-smartweb: 1.1.1
             wb-mqtt-snmp: 1.2.0
             wb-mqtt-w1: 2.2.2
