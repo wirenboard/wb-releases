@@ -114,9 +114,9 @@ releases:
         wb7/bullseye:
             <<: *packages-wb-2207
 
-            linux-headers-wb7: 5.10.35-wb119
-            linux-image-wb7: 5.10.35-wb119
-            linux-libc-dev: 5.10.35-wb119
+            linux-headers-wb7: 5.10.35-wb120
+            linux-image-wb7: 5.10.35-wb120
+            linux-libc-dev: 5.10.35-wb120
             u-boot-wb7: 2:2021.10+wb1.4.1
             u-boot-tools: 2:2021.10+wb1.4.1
             u-boot-tools-wb: 2:2021.10+wb1.4.1
@@ -300,9 +300,9 @@ releases:
         wb7/stretch:
             <<: *packages-wb-2207-armhf-stretch
 
-            linux-headers-wb7: 5.10.35-wb119
-            linux-image-wb7: 5.10.35-wb119
-            linux-libc-dev: 5.10.35-wb119
+            linux-headers-wb7: 5.10.35-wb120
+            linux-image-wb7: 5.10.35-wb120
+            linux-libc-dev: 5.10.35-wb120
             u-boot-wb7: 2:2021.10+wb1.4.1
             u-boot-tools: 2:2021.10+wb1.4.1
             u-boot-tools-wb: 2:2021.10+wb1.4.1
