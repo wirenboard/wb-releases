@@ -794,3 +794,43 @@ targets:
         arch: [armhf, armel, amd64]
         distro: stretch
         no_auto_tests: y
+
+staging:
+    include:
+        - "comerr-dev"
+        - "e2fs*"
+        - "fuse2fs"
+        - "libcomerr2"
+        - "libss2"
+        - "ss-dev"
+
+        - "atecc-util"
+        - "ca-certificates-contactless"
+        - "cmux"
+        - "contactless-keyring"
+        - "emmcparm"
+        - "firmware-realtek"
+        - "hubpower"
+        - "knxd*"
+        - "libateccssl*"
+        - "libfdt1"
+        - "libwbmqtt*"
+        - "linux-headers-wb?"
+        - "linux-image-wb?"
+        - "linux-libc-dev"
+        - "modbus-utils"
+        - "mqtt-logger"
+        - "mqtt-tools"
+        - "nodejs"
+        - "python*"
+        - "rapidscada"
+        - "sensor-tools-scada-client"
+        - "serial-tool"
+        - "u-boot-tools-wb"
+        - "u-boot-wb?"
+        - "wb-*"
+        - "z-way-server"
+        - "zbw"
+        - "zigbee2mqtt*"
+    exclude:
+        - "*-dbgsym"
