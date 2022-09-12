@@ -743,11 +743,11 @@ suites:
         staging: "@staging.latest"
 
     wb7/bullseye:
-        testing: wb-2207
-        unstable: wb-2207
+        testing: "@staging.latest"
+        unstable: "@staging.latest"
     wb6/bullseye:
-        testing: wb-2207
-        unstable: wb-2207
+        testing: "@staging.latest"
+        unstable: "@staging.latest"
 
     wb7/stretch:
         stable: wb-2207
