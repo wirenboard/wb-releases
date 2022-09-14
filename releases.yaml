@@ -798,10 +798,13 @@ targets:
 staging:
     include:
         - "comerr-dev"
-        - "e2fs*"
+        - "e2fsck-static"
+        - "e2fsprogs*"
         - "fuse2fs"
-        - "libcomerr2"
+        - "libcom-err2"
+        - "libext2fs*"
         - "libss2"
+        - "logsave"
         - "ss-dev"
 
         - "atecc-util"
