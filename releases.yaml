@@ -120,6 +120,7 @@ releases:
             u-boot-wb7: 2:2021.10+wb1.4.1
             u-boot-tools: 2:2021.10+wb1.4.1
             u-boot-tools-wb: 2:2021.10+wb1.4.1
+            modemmanager: 1.18.6-1~bpo11+1-wb1
 
         wb6/bullseye:
             <<: *packages-wb-2207
