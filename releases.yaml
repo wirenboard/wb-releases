@@ -707,3 +707,4 @@ staging:
         - "network-manager"
     exclude:
         - "*-dbgsym"
+        - "python*-paho-mqtt"  # ignore stretch backport
