@@ -835,5 +835,7 @@ staging:
         - "z-way-server"
         - "zbw"
         - "zigbee2mqtt*"
+        - "modemmanager"
+        - "network-manager"
     exclude:
         - "*-dbgsym"
