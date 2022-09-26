@@ -477,10 +477,10 @@ releases:
             msw3Gc: 4.21.0
             msw3G419L: 4.21.0
             # WB-MD
-            mdm3: 2.5.2
-            mdm3_042: 2.5.2
-            mdm3_26: 2.5.2
-            mdm3G26: 2.5.2
+            mdm3: 2.5.3
+            mdm3_042: 2.5.3
+            mdm3_26: 2.5.3
+            mdm3G26: 2.5.3
             # WB-MAP
             map3e: 2.3.7
             map3e_36: 2.3.7
@@ -567,10 +567,10 @@ releases:
             msw3Gc: 4.22.0
             msw3G419L: 4.22.0
             # WB-MD
-            mdm3: 2.5.2
-            mdm3_042: 2.5.2
-            mdm3_26: 2.5.2
-            mdm3G26: 2.5.2
+            mdm3: 2.5.3
+            mdm3_042: 2.5.3
+            mdm3_26: 2.5.3
+            mdm3G26: 2.5.3
             # WB-MAP
             map3e: 2.3.7
             map3e_36: 2.3.7
