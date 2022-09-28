@@ -475,7 +475,7 @@ releases:
             msw3G419: 4.21.0
             msw3G419th: 4.21.0
             msw3Gc: 4.21.0
-            msw3G419L: 4.21.0
+            msw3G419L: 4.22.1
             # WB-MD
             mdm3: 2.5.3
             mdm3_042: 2.5.3
@@ -565,7 +565,7 @@ releases:
             msw3G419: 4.22.0
             msw3G419th: 4.22.0
             msw3Gc: 4.22.0
-            msw3G419L: 4.22.0
+            msw3G419L: 4.22.1
             # WB-MD
             mdm3: 2.5.3
             mdm3_042: 2.5.3
