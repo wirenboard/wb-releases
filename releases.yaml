@@ -692,7 +692,6 @@ staging:
         - "modbus-utils"
         - "mqtt-logger"
         - "mqtt-tools"
-        - "nodejs"
         - "python*"
         - "rapidscada"
         - "sensor-tools-scada-client"
@@ -705,7 +704,7 @@ staging:
         - "zigbee2mqtt*"
         - "modemmanager"
         - "network-manager"
-        - "nodejs"  # prefer nodesource version
     exclude:
         - "*-dbgsym"
         - "python*-paho-mqtt"  # ignore stretch backport
+        - "nodejs"  # prefer nodesource version
