@@ -144,7 +144,7 @@ releases:
             wb-mqtt-adc: 2.5.0
             wb-mqtt-confed: 1.8.1
             wb-mqtt-dac: 1.2.0
-            wb-mqtt-db: 2.5.5
+            wb-mqtt-db: 2.6.0
             wb-mqtt-gpio: 2.8.4
             wb-mqtt-homeui: 2.44.4
             wb-mqtt-iec104: 1.0.2
