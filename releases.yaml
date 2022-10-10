@@ -705,6 +705,7 @@ staging:
         - "zigbee2mqtt*"
         - "modemmanager"
         - "network-manager"
+        - "nodejs"  # prefer nodesource version
     exclude:
         - "*-dbgsym"
         - "python*-paho-mqtt"  # ignore stretch backport
