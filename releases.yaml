@@ -165,7 +165,7 @@ releases:
             zigbee2mqtt: 1.25.2
             zigbee2mqtt-1.18.1: 1.18.1
 
-        wb7/stretch:
+        wb7/stretch: &packages-wb-2207-armhf-wb7-stretch
             <<: *packages-wb-2207-armhf-stretch
 
             linux-headers-wb7: 5.10.35-wb120
@@ -175,7 +175,7 @@ releases:
             u-boot-tools: 2:2021.10+wb1.4.2
             u-boot-tools-wb: 2:2021.10+wb1.4.2
 
-        wb6/stretch:
+        wb6/stretch: &packages-wb-2207-armhf-wb6-stretch
             <<: *packages-wb-2207-armhf-stretch
 
             linux-headers-wb6: 5.10.35-wb116
@@ -213,6 +213,19 @@ releases:
             u-boot-tools: 2:2017.03+wb-2
             u-boot-tools-wb: 2:2017.03+wb-2
 
+    wb-2207-bullseye-transition:
+        packages-common-bullseye-transition: &packages-wb-2207-bullseye-transition
+            python3-wb-update-manager: 1.2.5-upgrade3
+            wb-mqtt-homeui: 2.44.4-upgrade1
+            wb-update-manager: 1.2.5-upgrade3
+
+        wb6/stretch:
+            <<: *packages-wb-2207-armhf-wb6-stretch
+            <<: *packages-wb-2207-bullseye-transition
+
+        wb7/stretch:
+            <<: *packages-wb-2207-armhf-wb7-stretch
+            <<: *packages-wb-2207-bullseye-transition
 
     wb-2204:
         packages-common: &packages-wb-2204
@@ -619,12 +632,12 @@ suites:
 
     wb7/stretch:
         stable: wb-2207
-        testing: wb-2207
-        unstable: wb-2207
+        testing: wb-2207-bullseye-transition
+        unstable: wb-2207-bullseye-transition
     wb6/stretch:
         stable: wb-2207
-        testing: wb-2207
-        unstable: wb-2207
+        testing: wb-2207-bullseye-transition
+        unstable: wb-2207-bullseye-transition
     wb5/stretch:
         stable: wb-2207
         testing: wb-2207
@@ -708,3 +721,7 @@ staging:
         - "*-dbgsym"
         - "python*-paho-mqtt"  # ignore stretch backport
         - "nodejs"  # prefer nodesource version
+        - package: "*wb-update-manager"
+          version: "*-upgrade*"
+        - package: wb-mqtt-homeui
+          version: "*-upgrade*"
