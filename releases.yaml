@@ -215,9 +215,9 @@ releases:
 
     wb-2207-bullseye-transition:
         packages-common-bullseye-transition: &packages-wb-2207-bullseye-transition
-            python3-wb-update-manager: 1.2.5-upgrade3
+            python3-wb-update-manager: 1.2.5-upgrade4
             wb-mqtt-homeui: 2.44.4-upgrade1
-            wb-update-manager: 1.2.5-upgrade3
+            wb-update-manager: 1.2.5-upgrade4
 
         wb6/stretch:
             <<: *packages-wb-2207-armhf-wb6-stretch
