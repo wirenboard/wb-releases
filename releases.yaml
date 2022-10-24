@@ -81,8 +81,8 @@ releases:
             serial-tool: 1.1.0
             tcc: 0.9.27~git20170226.c4c3f500-1
             watchdog: 5.15-1
-            wb-configs-stretch: 2.3.4
-            wb-configs: 2.3.4
+            wb-configs-stretch: 2.3.4-wb100
+            wb-configs: 2.3.4-wb100
             wb-daemon-watchdogs: '1.1'
             wb-diag-collect: 1.3.0
             wb-dt-overlays: 1.5.0
