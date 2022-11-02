@@ -716,8 +716,15 @@ staging:
         - "z-way-server"
         - "zbw"
         - "zigbee2mqtt*"
-        - "modemmanager"
-        - "network-manager"
+
+        - "modemmanager*"
+        - "libmm*"
+        - "gir*-modemmanager*"
+
+        - "network-manager*"
+        - "libnm*"
+        - "gir*-nm*"
+
     exclude:
         - "*-dbgsym"
         - "python*-paho-mqtt"  # ignore stretch backport
