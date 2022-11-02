@@ -138,7 +138,7 @@ releases:
             wb-demo-kit-configs: 1.6.1
             wb-essential: 1.10.0
             wb-homa-adc: 2.5.0
-            wb-homa-gpio: 2.8.4
+            wb-homa-gpio: 2.8.4-wb100
             wb-homa-w1: 2.2.2
             wb-hwconf-manager: 1.52.7-wb101
             wb-mqtt-adc: 2.5.0
