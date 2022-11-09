@@ -706,6 +706,7 @@ staging:
         - "modbus-utils"
         - "mqtt-logger"
         - "mqtt-tools"
+        - "nodejs"
         - "python*"
         - "rapidscada"
         - "sensor-tools-scada-client"
@@ -728,7 +729,6 @@ staging:
     exclude:
         - "*-dbgsym"
         - "python*-paho-mqtt"  # ignore stretch backport
-        - "nodejs"  # prefer nodesource version
         - package: "*wb-update-manager"
           version: "*-upgrade*"
         - package: wb-mqtt-homeui
