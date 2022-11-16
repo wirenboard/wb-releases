@@ -602,9 +602,9 @@ releases:
             map6seG16: 2.3.8
             map6sG16: 2.3.8
             # WB-MRGB
-            mrgbw: 3.3.1
-            mrgbwG: 3.3.1
-            ledG: 3.3.1
+            mrgbw: 3.3.2
+            mrgbwG: 3.3.2
+            ledG: 3.3.2
             # WB-MCM
             mcm8: 1.4.1
             mcm8G: 1.4.1
