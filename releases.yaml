@@ -582,10 +582,10 @@ releases:
             msw3Gc: 4.23.0
             msw3G419L: 4.23.0
             # WB-MD
-            mdm3: 2.6.0
-            mdm3_042: 2.6.0
-            mdm3_26: 2.6.0
-            mdm3G26: 2.6.0
+            mdm3: 2.6.1
+            mdm3_042: 2.6.1
+            mdm3_26: 2.6.1
+            mdm3G26: 2.6.1
             # WB-MAP
             map3e: 2.3.8
             map3e_36: 2.3.8
