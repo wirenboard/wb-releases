@@ -10,6 +10,7 @@ releases:
             debian-keyring: 2021.07.26
             device-tree-compiler: 1.6.0-1
             firmware-realtek: 20170823-1~bpo9+1
+            gpiod: 1.2-3
             hostapd: 1:2.3-1+deb8u4
             hubpower: '1.0'
             knxd-dev: 0.14.51-1
@@ -18,6 +19,7 @@ releases:
             knxd: 0.14.51-1
             libateccssl: '0.1'
             libfdt1: 1.6.0-1
+            libgpiod2: 1.2-3
             libirman-dev: 0.4.4-2-wb1
             libmosquitto-dev: 1.4.15-1+wb7-5
             libmosquitto1: 1.4.15-1+wb7-5
@@ -731,6 +733,8 @@ staging:
     exclude:
         - "*-dbgsym"
         - "python*-paho-mqtt"  # ignore stretch backport
+        - "gpiod"  # ignore stretch backport
+        - "libgpiod*"  # ignore stretch backport
         - package: "*wb-update-manager"
           version: "*-upgrade*"
         - package: wb-mqtt-homeui
