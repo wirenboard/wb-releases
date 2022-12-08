@@ -125,8 +125,10 @@ releases:
             e2fsprogs: 1.43.4-2+wb1
             emmcparm: 5.0.0
             fuse2fs: 1.43.4-2+wb1
+            gpiod: 1.2-3
             libateccssl1.1: 0.2.3
             libcomerr2: 1.43.4-2+wb1
+            libgpiod2: 1.2-3
             libss2: 1.43.4-2+wb1
             libwbmqtt1-3: 3.9.0
             libwbmqtt1-3-dev: 3.9.0
@@ -731,6 +733,8 @@ staging:
     exclude:
         - "*-dbgsym"
         - "python*-paho-mqtt"  # ignore stretch backport
+        - "gpiod"  # ignore stretch backport
+        - "libgpiod*"  # ignore stretch backport
         - package: "*wb-update-manager"
           version: "*-upgrade*"
         - package: wb-mqtt-homeui
