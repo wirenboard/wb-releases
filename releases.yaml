@@ -700,6 +700,8 @@ staging:
         - "emmcparm"
         - "firmware-realtek"
         - "hubpower"
+        - "intrascada"
+        - "intrahouse"
         - "knxd*"
         - "libateccssl*"
         - "libfdt1"
