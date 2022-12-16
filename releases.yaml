@@ -732,6 +732,8 @@ staging:
         - "libnm*"
         - "gir*-nm*"
 
+        - "flash-simcom-a76xx"
+
     exclude:
         - "*-dbgsym"
         - "python*-paho-mqtt"  # ignore stretch backport
