@@ -91,6 +91,7 @@ by-package:
     wb-homa-ism-radio: null  # FIXME
     wb-hwconf-manager: "https://github.com/wirenboard/wb-hwconf-manager"
     wb-mcu-fw-updater: "https://github.com/wirenboard/wb-mcu-fw-updater"
+    wb-device-manager: "https://github.com/wirenboard/wb-device-manager"
     wb-mqtt-bmp085: "https://github.com/wirenboard/wb-mqtt-bmp085"
     wb-mqtt-dac: "https://github.com/wirenboard/wb-mqtt-dac"
     wb-mqtt-db-cli: "https://github.com/wirenboard/wb-mqtt-db-cli"
