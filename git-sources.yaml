@@ -70,7 +70,7 @@ by-package:
     python-gspread: "https://github.com/wirenboard/gspread"
     python-json-rpc: "https://github.com/wirenboard/json-rpc"
     python-mosquitto: "http://github.com/wirenboard/contrib"
-    python-mqttrpc: "https://github.com/wirenboard/mqtt-rpc"
+    python-mqttrpc: "https://github.com/wirenboard/python-mqtt-rpc"
     python-nrf24: "https://github.com/wirenboard/python-nrf24"
     python-wb-common: "https://github.com/wirenboard/wb-common"
     python-wb-mcu-fw-updater: "https://github.com/wirenboard/wb-mcu-fw-updater"
