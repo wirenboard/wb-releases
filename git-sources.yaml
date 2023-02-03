@@ -123,3 +123,4 @@ by-package:
     zigbee2mqtt: "https://github.com/koenkk/zigbee2mqtt"
 
     wb-adc-tools-mxs: "https://github.com/wirenboard/wb-adc-tools-mxs"
+    wb-cc2652p-flasher: "https://github.com/wirenboard/wb-cc2652p-flasher"
