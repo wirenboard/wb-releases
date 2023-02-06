@@ -591,21 +591,21 @@ releases:
             mdm3_26: 2.6.5
             mdm3G26: 2.6.5
             # WB-MAP
-            map3e: 2.4.1
-            map3e_36: 2.4.1
-            map3e_031f6: 2.4.1
-            map3eG: 2.4.1
-            map3h: 2.4.1
-            map3h51: 2.4.1
-            map6s: 2.4.1
-            map6s51: 2.4.1
-            map6se: 2.4.1
-            map12e: 2.4.1
-            map12eG: 2.4.1
-            map12h: 2.4.1
-            map3eG16: 2.4.1
-            map6seG16: 2.4.1
-            map6sG16: 2.4.1
+            map3e: 2.5.0
+            map3e_36: 2.5.0
+            map3e_031f6: 2.5.0
+            map3eG: 2.5.0
+            map3h: 2.5.0
+            map3h51: 2.5.0
+            map6s: 2.5.0
+            map6s51: 2.5.0
+            map6se: 2.5.0
+            map12e: 2.5.0
+            map12eG: 2.5.0
+            map12h: 2.5.0
+            map3eG16: 2.5.0
+            map6seG16: 2.5.0
+            map6sG16: 2.5.0
             # WB-MRGB
             mrgbw: 3.3.4
             mrgbwG: 3.3.4
