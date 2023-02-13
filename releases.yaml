@@ -391,6 +391,14 @@ releases:
             u-boot-tools: 2:2017.03+wb-2
             u-boot-tools-wb: 2:2017.03+wb-2
 
+    wb-2207-70549e24:
+        packages-common-70549e24: &packages-wb-2207-70549e24
+            wb-configs: 2.3.4-wb100-70549e24
+
+        wb7/stretch:
+            <<: *packages-wb-2207-armhf-wb7-stretch
+            <<: *packages-wb-2207-70549e24
+
     wb-2207-bullseye-transition:
         packages-common-bullseye-transition: &packages-wb-2207-bullseye-transition
             python3-wb-update-manager: 1.2.5-upgrade15
