@@ -394,8 +394,8 @@ releases:
     wb-2207-70549e24:
         wb7/stretch:
             <<: *packages-wb-2207-armhf-wb7-stretch
-            wb-configs: 2.3.4-wb100-70549e24
-            wb-configs-stretch: 2.3.4-wb100-70549e24
+            wb-configs: 2.3.4-wb100-70549e24-1
+            wb-configs-stretch: 2.3.4-wb100-70549e24-1
 
     wb-2207-bullseye-transition:
         packages-common-bullseye-transition: &packages-wb-2207-bullseye-transition
