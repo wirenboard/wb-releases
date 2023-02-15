@@ -396,6 +396,7 @@ releases:
             <<: *packages-wb-2207-armhf-wb7-stretch
             wb-configs: 2.3.4-wb100-70549e24-002
             wb-configs-stretch: 2.3.4-wb100-70549e24-002
+            wb-mqtt-homeui: 2.44.4-wb100-70549e24
 
     wb-2207-bullseye-transition:
         packages-common-bullseye-transition: &packages-wb-2207-bullseye-transition
