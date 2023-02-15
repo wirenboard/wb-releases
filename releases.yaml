@@ -447,29 +447,29 @@ releases:
         firmwares:
             # WB-MR
             mr2m: 1.15.2        # на данном таргете на версиях старше 1.15.2 прошивка перестала помещаться в 12K (16K FLASH - 4K bootloader)
-            mr2m_k6: 1.18.5
-            mr2mG: 1.18.5
-            mr3: 1.18.5
-            mr3G: 1.18.5
-            mr6: 1.18.5
-            mr6_042: 1.18.5
-            mr6G: 1.18.5
-            mr6c: 1.18.5
-            mr6cG: 1.18.5
-            mr6c_042: 1.18.5
-            mr6cu: 1.18.5
-            mr6cu_042: 1.18.5
-            mr6cuG: 1.18.5
-            mr6cpG: 1.18.5
-            mrps6: 1.18.5
-            mrps6G: 1.18.5
-            mrwl3: 1.18.5
-            mrwl3G: 1.18.5
-            mrwl3_042: 1.18.5
-            mrwm2G: 1.18.5
-            wbmwac: 1.18.5
-            wbmwac_042: 1.18.5
-            wbmwacG: 1.18.5
+            mr2m_k6: 1.19.2
+            mr2mG: 1.19.2
+            mr3: 1.19.2
+            mr3G: 1.19.2
+            mr6: 1.19.2
+            mr6_042: 1.19.2
+            mr6G: 1.19.2
+            mr6c: 1.19.2
+            mr6cG: 1.19.2
+            mr6c_042: 1.19.2
+            mr6cu: 1.19.2
+            mr6cu_042: 1.19.2
+            mr6cuG: 1.19.2
+            mr6cpG: 1.19.2
+            mrps6: 1.19.2
+            mrps6G: 1.19.2
+            mrwl3: 1.19.2
+            mrwl3G: 1.19.2
+            mrwl3_042: 1.19.2
+            mrwm2G: 1.19.2
+            wbmwac: 1.19.2
+            wbmwac_042: 1.19.2
+            wbmwacG: 1.19.2
             # WB-MS
             m1w2: 4.22.0
             m1w2-21: 4.22.0
@@ -516,12 +516,12 @@ releases:
             map6seG16: 2.3.8
             map6sG16: 2.3.8
             # WB-MRGB
-            mrgbw: 3.0.4
-            mrgbwG: 3.0.4
-            ledG: 3.1.0+wb1
+            mrgbw: 3.3.4
+            mrgbwG: 3.3.4
+            ledG: 3.3.4
             # WB-MCM
-            mcm8: 1.3.4
-            mcm8G: 1.3.4+wb1
+            mcm8: 1.4.3
+            mcm8G: 1.4.3
             # WB-MAO
             mao4: 2.1.2
             mao4G: 2.1.2
