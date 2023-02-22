@@ -394,8 +394,8 @@ releases:
     wb-2207-70549e24:
         wb7/stretch:
             <<: *packages-wb-2207-armhf-wb7-stretch
-            wb-configs: 2.3.4-wb100-70549e24-003
-            wb-configs-stretch: 2.3.4-wb100-70549e24-003
+            wb-configs: 2.3.4-wb100-70549e24-003~exp~feature+70549e24~9~gda32f9c
+            wb-configs-stretch: 2.3.4-wb100-70549e24-003~exp~feature+70549e24~9~gda32f9c
             wb-mqtt-homeui: 2.44.4-wb100-70549e24
             wb-utils: 3.7.0-wb108-70549e24-001~exp~feature+wb+2207+70549e24~11~g865f415
 
