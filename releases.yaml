@@ -124,6 +124,7 @@ releases:
             e2fslibs-dev: 1.43.4-2+wb1
             e2fsprogs: 1.43.4-2+wb1
             emmcparm: 5.0.0
+            flash-simcom-a76xx: 1.0.2
             fuse2fs: 1.43.4-2+wb1
             gpiod: 1.2-3
             intrahouse: 5.11.40
@@ -356,6 +357,7 @@ releases:
             e2fslibs-dev: 1.43.4-2+wb1
             e2fsprogs: 1.43.4-2+wb1
             emmcparm: 5.0.0
+            flash-simcom-a76xx: 1.0.2
             fuse2fs: 1.43.4-2+wb1
             libateccssl1.1: 0.2.3
             libcomerr2: 1.43.4-2+wb1
