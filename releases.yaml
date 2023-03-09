@@ -1,4 +1,8 @@
 releases:
+    wb-2303:
+        wb7/bullseye:
+            @staging.latest
+            wb-configs: 3.11.0~exp~feature+58820+drop+interfaces~1~g3ed3938
     wb-2207:
         packages-common-stretch: &packages-wb-2207-stretch
             atecc-util: 0.4.7
@@ -633,7 +637,7 @@ suites:
         staging: "@staging.latest"
 
     wb7/bullseye:
-        testing: "@staging.latest"
+        testing: wb-2303
         unstable: "@staging.latest"
     wb6/bullseye:
         testing: "@staging.latest"
