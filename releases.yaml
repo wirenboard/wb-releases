@@ -138,7 +138,7 @@ releases:
             libwbmqtt1-3-test-utils: 3.9.0
             nodejs: 12.19.0-1nodesource1
             python3-modbus-utils-rpc: 1.0.1
-            rapidscada: 6.0.0~beta7-2
+            rapidscada: 6.0.2-1
             ss-dev: 2.0-1.43.4-2+wb1
             wb-demo-kit-configs: 1.6.1
             wb-essential: 1.15.0
@@ -395,7 +395,7 @@ releases:
             zbw: '1.2'
             zigbee2mqtt: 1.25.0
             zigbee2mqtt-1.18.1: 1.18.1
-            rapidscada: 6.0.0~beta7-2
+            rapidscada: 6.0.2-1
 
         wb7/stretch:
             <<: *packages-wb-2204-armhf
