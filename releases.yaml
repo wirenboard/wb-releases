@@ -576,8 +576,8 @@ releases:
             mrgbwG: 3.3.4
             ledG: 3.3.4
             # WB-MCM
-            mcm8: 1.5.0
-            mcm8G: 1.5.0
+            mcm8: 1.5.1
+            mcm8G: 1.5.1
             # WB-MAO
             mao4: 2.3.0
             mao4G: 2.3.0
