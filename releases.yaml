@@ -394,7 +394,7 @@ releases:
     wb-2304-70549e24:
         wb7/bullseye:
             <<: *packages-wb-2304-wb7-bullseye
-            wb-configs: 3.13.1-70549e24-001~exp~feature+70549e24+bullseye~2~g2421efa
+            wb-configs: 3.13.1-70549e24-001~exp~feature+70549e24+bullseye~3~g1ee24c6
             wb-mqtt-homeui: 2.59.0-70549e24-001~exp~feature+wb+2304+70549e24~1~g51ee365
             wb-utils: 4.8.1-70549e24-001~exp~feature+wb+2304+70549e24~2~gde9b400
 
