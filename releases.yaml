@@ -43,8 +43,6 @@ releases:
             libwbmqtt1-4: 4.0.0
             libwbmqtt1-4-dev: 4.0.0
             libwbmqtt1-4-test-utils: 4.0.0
-            libwbmqtt1-dev: 1.2.0
-            libwbmqtt1-test-utils: 1.2.0
             linux-libc-dev: 5.10.35-wb133
             logsave: 1.46.2-2+wb1
             modbus-utils: 1.2.7
@@ -703,6 +701,8 @@ staging:
         - "libgpiod*"  # ignore stretch backport
         - "wb-configs-stretch"
         - "libwbmqtt1"
+        - "libwbmqtt1-dev"
+        - "libwbmqtt1-test-utils"
         - "libwbmqtt1-2*"
         - package: "*wb-update-manager"
           version: "*-upgrade*"
