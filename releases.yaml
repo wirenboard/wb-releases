@@ -37,7 +37,6 @@ releases:
             libwbmqtt: 1.7.2
             libwbmqtt-dev: 1.7.2
             libwbmqtt0: 1.7.2
-            libwbmqtt1: 1.2.0
             libwbmqtt1-3: 3.10.0
             libwbmqtt1-3-dev: 3.10.0
             libwbmqtt1-3-test-utils: 3.10.0
@@ -703,6 +702,7 @@ staging:
         - "gpiod"  # ignore stretch backport
         - "libgpiod*"  # ignore stretch backport
         - "wb-configs-stretch"
+        - "libwbmqtt1"
         - "libwbmqtt1-2*"
         - package: "*wb-update-manager"
           version: "*-upgrade*"
