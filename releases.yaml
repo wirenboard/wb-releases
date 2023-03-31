@@ -75,7 +75,7 @@ releases:
             python3-wb-diag-collect: 1.5.4
             python3-wb-mcu-fw-updater: 1.7.1
             python3-wb-mqtt-metrics: 0.3.0
-            python3-wb-nm-helper: 1.22.0
+            python3-wb-nm-helper: 1.23.0
             python3-wb-test-suite-deps: 1.17.0
             python3-wb-update-manager: 1.3.1
             rapidscada: 6.0.2-1
@@ -134,7 +134,7 @@ releases:
             wb-mqtt-w1: 2.2.5
             wb-mqtt-zabbix: '0.2'
             wb-mqtt-zway: 1.0.3+wb2
-            wb-nm-helper: 1.22.0
+            wb-nm-helper: 1.23.0
             wb-rules: 2.18.1
             wb-rules-system: 1.9.2
             wb-suite: 1.17.0
@@ -143,7 +143,7 @@ releases:
             wb-test-suite-dummy: 1.17.0
             wb-update-manager: 1.3.1
             wb-update-notifier: 0.1.0
-            wb-utils: 4.8.1
+            wb-utils: 4.8.2
             wb-zigbee2mqtt: 1.2.0
             z-way-server: 4.0.2-lws16
             zbw: '1.2'
