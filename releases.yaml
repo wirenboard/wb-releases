@@ -589,18 +589,20 @@ suites:
         staging: "@staging.latest"
 
     wb7/bullseye:
+        stable: wb-2304
         testing: wb-2304
         unstable: "@staging.latest"
     wb6/bullseye:
+        stable: wb-2304
         testing: wb-2304
         unstable: "@staging.latest"
 
     wb7/stretch:
-        stable: wb-2207
+        stable: wb-2207-bullseye-transition
         testing: wb-2207-bullseye-transition
         unstable: wb-2207-bullseye-transition
     wb6/stretch:
-        stable: wb-2207
+        stable: wb-2207-bullseye-transition
         testing: wb-2207-bullseye-transition
         unstable: wb-2207-bullseye-transition
     wb5/stretch:
