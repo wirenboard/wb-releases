@@ -136,7 +136,7 @@ releases:
             wb-mqtt-zway: 1.0.3+wb2
             wb-nm-helper: 1.23.0
             wb-rules: 2.18.1
-            wb-rules-system: 1.9.2
+            wb-rules-system: 1.9.3
             wb-suite: 1.17.0
             wb-test-suite: '1.20'
             wb-test-suite-deps: 1.12.0
@@ -163,7 +163,6 @@ releases:
             linux-headers-wb7: 5.10.35-wb133
             linux-image-wb7: 5.10.35-wb133
             u-boot-wb7: 2:2021.10+wb1.4.4
-
 
     wb-2207:
         packages-common-stretch: &packages-wb-2207-stretch
