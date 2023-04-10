@@ -589,12 +589,12 @@ suites:
 
     wb7/bullseye:
         stable: wb-2304
-        testing: wb-2304
-        unstable: "@staging.latest"
+        testing: "@unstable.latest"
+        unstable: "@unstable.latest"
     wb6/bullseye:
         stable: wb-2304
-        testing: wb-2304
-        unstable: "@staging.latest"
+        testing: "@unstable.latest"
+        unstable: "@unstable.latest"
 
     wb7/stretch:
         stable: wb-2207-bullseye-transition
