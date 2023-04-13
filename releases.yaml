@@ -137,7 +137,7 @@ releases:
             wb-mqtt-zway: 1.0.3+wb2
             wb-nm-helper: 1.23.1-wb100
             wb-rules: 2.18.1
-            wb-rules-system: 1.9.3
+            wb-rules-system: 1.9.4
             wb-suite: 1.17.0
             wb-test-suite: '1.20'
             wb-test-suite-deps: 1.12.0
