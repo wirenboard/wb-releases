@@ -397,6 +397,8 @@ releases:
             wb-configs: 3.13.1-70549e24-001~exp~feature+70549e24+bullseye~4~g3c2bcf6
             wb-mqtt-homeui: 2.59.0-70549e24-001~exp~feature+wb+2304+70549e24~1~g51ee365
             wb-utils: 4.8.1-70549e24-002~exp~feature+wb+2304+70549e24+enlarge+rootfs~6~ge2fe216
+            wb-nm-helper: 1.23.1-wb101~exp~feature+virtual+devices+handle+no+nm~6~g2600053
+            python3-wb-nm-helper: 1.23.1-wb101~exp~feature+virtual+devices+handle+no+nm~6~g2600053
 
     wb-2207-70549e24:
         wb7/stretch:
