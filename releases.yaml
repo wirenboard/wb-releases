@@ -403,15 +403,6 @@ releases:
             u-boot-tools: 2:2021.10+wb1.5.0
             u-boot-tools-wb: 2:2021.10+wb1.5.0
 
-    wb-2207-70549e24:
-        wb7/stretch:
-            <<: *packages-wb-2207-armhf-wb7-stretch
-            wb-configs: 2.3.4-wb100-70549e24-001~exp~feature+70549e24~2~g2ed194d
-            wb-configs-stretch: 2.3.4-wb100-70549e24-001~exp~feature+70549e24~2~g2ed194d
-            wb-mqtt-homeui: 2.44.4-wb100-70549e24
-            wb-utils: 3.7.0-wb108-70549e24-001~exp~feature+wb+2207+70549e24~9~g273b2e8
-            wb-rules: 2.11.4-wb100-70549e24-001~exp~bugfix+backport+min~2~g75da431
-
     wb-2207-bullseye-transition:
         packages-common-bullseye-transition: &packages-wb-2207-bullseye-transition
             python3-wb-update-manager: 1.2.5-upgrade15
