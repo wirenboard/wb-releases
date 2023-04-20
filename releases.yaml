@@ -158,7 +158,7 @@ releases:
             linux-image-wb6: 5.10.35-wb133
             u-boot-wb6: 2:2021.10+wb1.4.4
 
-        wb7/bullseye:
+        wb7/bullseye: &packages-wb-2304-wb7-bullseye
             <<: *packages-wb-2304
 
             linux-headers-wb7: 5.10.35-wb133
@@ -384,6 +384,18 @@ releases:
             z-way-server: 2.2.5-1
             u-boot-tools: 2:2017.03+wb-2
             u-boot-tools-wb: 2:2017.03+wb-2
+
+    wb-2304-70549e24:
+        wb7/bullseye:
+            <<: *packages-wb-2304-wb7-bullseye
+            wb-configs: 3.13.1-70549e24-001~exp~feature+70549e24+bullseye~6~g60bc56b
+            wb-mqtt-homeui: 2.59.0-70549e24-001~exp~feature+wb+2304+70549e24~1~g51ee365
+            wb-utils: 4.8.1-70549e24-001~exp~feature+wb+2304+70549e24~6~ge0411e7
+            wb-nm-helper: 1.23.1-wb101~exp~feature+virtual+devices+handle+no+nm~4~g1d85d59
+            python3-wb-nm-helper: 1.23.1-wb101~exp~feature+virtual+devices+handle+no+nm~4~g1d85d59
+            u-boot-wb7: 2:2021.10+wb1.5.0
+            u-boot-tools: 2:2021.10+wb1.5.0
+            u-boot-tools-wb: 2:2021.10+wb1.5.0
 
     wb-2207-bullseye-transition:
         packages-common-bullseye-transition: &packages-wb-2207-bullseye-transition
