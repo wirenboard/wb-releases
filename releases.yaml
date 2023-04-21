@@ -388,9 +388,9 @@ releases:
     wb-2304-70549e24:
         wb7/bullseye:
             <<: *packages-wb-2304-wb7-bullseye
-            wb-configs: 3.13.1-70549e24-001~exp~feature+70549e24+bullseye~6~g60bc56b
+            wb-configs: 3.13.1-70549e24-001
             wb-mqtt-homeui: 2.59.0-70549e24-001
-            wb-utils: 4.8.1-70549e24-001~exp~feature+wb+2304+70549e24~9~g9403c6f
+            wb-utils: 4.8.1-70549e24-001
             wb-nm-helper: 1.23.1-wb101~exp~feature+virtual+devices+handle+no+nm~7~g5092856
             python3-wb-nm-helper: 1.23.1-wb101~exp~feature+virtual+devices+handle+no+nm~7~g5092856
             u-boot-wb7: 2:2021.10+wb1.5.0
