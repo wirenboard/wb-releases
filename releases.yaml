@@ -37,9 +37,9 @@ releases:
             libwbmqtt: 1.7.2
             libwbmqtt-dev: 1.7.2
             libwbmqtt0: 1.7.2
-            libwbmqtt1-3: 3.10.0
-            libwbmqtt1-3-dev: 3.10.0
-            libwbmqtt1-3-test-utils: 3.10.0
+            libwbmqtt1-3: 3.10.0-wb100
+            libwbmqtt1-3-dev: 3.10.0-wb100
+            libwbmqtt1-3-test-utils: 3.10.0-wb100
             libwbmqtt1-4: 4.0.0
             libwbmqtt1-4-dev: 4.0.0
             libwbmqtt1-4-test-utils: 4.0.0
@@ -72,10 +72,10 @@ releases:
             python3-paho-socket: 0.0.3
             python3-umodbus: 1.0.4-1+wb1
             python3-wb-common: 2.1.1
-            python3-wb-diag-collect: 1.5.6
+            python3-wb-diag-collect: 1.5.7
             python3-wb-mcu-fw-updater: 1.7.1
             python3-wb-mqtt-metrics: 0.3.0
-            python3-wb-nm-helper: 1.23.1-wb100
+            python3-wb-nm-helper: 1.23.1-wb101
             python3-wb-test-suite-deps: 1.17.0
             python3-wb-update-manager: 1.3.1
             rapidscada: 6.1.1-1
@@ -90,7 +90,7 @@ releases:
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.6.1
             wb-device-manager: 1.5.5
-            wb-diag-collect: 1.5.6
+            wb-diag-collect: 1.5.7
             wb-dt-overlays: 1.6.0+wb1
             wb-essential: 1.17.0
             wb-homa-adc: 2.6.1
@@ -115,7 +115,7 @@ releases:
             wb-mqtt-db: 2.8.8
             wb-mqtt-db-cli: 1.4.4
             wb-mqtt-gpio: 2.11.1
-            wb-mqtt-homeui: 2.59.0
+            wb-mqtt-homeui: 2.59.0-wb100
             wb-mqtt-iec104: 1.0.2
             wb-mqtt-knx: 1.12.0
             wb-mqtt-lirc: 1.1.4
@@ -135,7 +135,7 @@ releases:
             wb-mqtt-w1: 2.2.5
             wb-mqtt-zabbix: '0.2'
             wb-mqtt-zway: 1.0.3+wb2
-            wb-nm-helper: 1.23.1-wb100
+            wb-nm-helper: 1.23.1-wb101
             wb-rules: 2.18.1
             wb-rules-system: 1.9.4
             wb-suite: 1.17.0
@@ -158,7 +158,7 @@ releases:
             linux-image-wb6: 5.10.35-wb133
             u-boot-wb6: 2:2021.10+wb1.4.4
 
-        wb7/bullseye:
+        wb7/bullseye: &packages-wb-2304-wb7-bullseye
             <<: *packages-wb-2304
 
             linux-headers-wb7: 5.10.35-wb133
@@ -385,6 +385,16 @@ releases:
             u-boot-tools: 2:2017.03+wb-2
             u-boot-tools-wb: 2:2017.03+wb-2
 
+    wb-2304-70549e24:
+        wb7/bullseye:
+            <<: *packages-wb-2304-wb7-bullseye
+            wb-configs: 3.13.1-70549e24-001
+            wb-mqtt-homeui: 2.59.0-70549e24-001
+            wb-utils: 4.8.1-70549e24-001
+            u-boot-wb7: 2:2021.10+wb1.5.0
+            u-boot-tools: 2:2021.10+wb1.5.0
+            u-boot-tools-wb: 2:2021.10+wb1.5.0
+
     wb-2207-bullseye-transition:
         packages-common-bullseye-transition: &packages-wb-2207-bullseye-transition
             python3-wb-update-manager: 1.2.5-wb1-upgrade17
@@ -569,8 +579,8 @@ releases:
             mrgbwG: 3.3.4
             ledG: 3.3.4
             # WB-MCM
-            mcm8: 1.5.1
-            mcm8G: 1.5.1
+            mcm8: 1.5.2
+            mcm8G: 1.5.2
             # WB-MAO
             mao4: 2.3.0
             mao4G: 2.3.0
