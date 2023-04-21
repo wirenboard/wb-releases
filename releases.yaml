@@ -125,7 +125,7 @@ releases:
             wb-mqtt-mhz19: '1.0'
             wb-mqtt-opcua: 1.0.4
             wb-mqtt-rfblinds: 1.0.1
-            wb-mqtt-serial: 2.81.0-wb100
+            wb-mqtt-serial: 2.81.0-wb101
             wb-mqtt-sht1x: '1.0'
             wb-mqtt-smartbus: '1.2'
             wb-mqtt-smartweb: 1.2.0
