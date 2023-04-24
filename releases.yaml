@@ -83,10 +83,10 @@ releases:
             serial-tool: 1.2.0
             ss-dev: 2.0-1.46.2-2+wb1
             transcend-sdcard-health: 1.0
-            u-boot-tools-wb: 2:2021.10+wb1.4.4
+            u-boot-tools-wb: 2:2021.10+wb1.5.0
             wb-ble-tesliot: 1.0.4
             wb-cc2652p-flasher: 1.0.0
-            wb-configs: 3.13.1-wb101
+            wb-configs: 3.13.1-wb102
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.6.1
             wb-device-manager: 1.5.5
@@ -144,7 +144,7 @@ releases:
             wb-test-suite-dummy: 1.17.0
             wb-update-manager: 1.3.1
             wb-update-notifier: 0.1.0
-            wb-utils: 4.8.2
+            wb-utils: 4.8.2-wb100
             wb-zigbee2mqtt: 1.2.0
             z-way-server: 4.0.2-lws16
             zbw: '1.2'
@@ -156,14 +156,14 @@ releases:
 
             linux-headers-wb6: 5.10.35-wb133
             linux-image-wb6: 5.10.35-wb133
-            u-boot-wb6: 2:2021.10+wb1.4.4
+            u-boot-wb6: 2:2021.10+wb1.5.0
 
         wb7/bullseye: &packages-wb-2304-wb7-bullseye
             <<: *packages-wb-2304
 
             linux-headers-wb7: 5.10.35-wb133
             linux-image-wb7: 5.10.35-wb133
-            u-boot-wb7: 2:2021.10+wb1.4.4
+            u-boot-wb7: 2:2021.10+wb1.5.0
 
     wb-2207:
         packages-common-stretch: &packages-wb-2207-stretch
@@ -391,9 +391,6 @@ releases:
             wb-configs: 3.13.1-70549e24-001
             wb-mqtt-homeui: 2.59.0-70549e24-001
             wb-utils: 4.8.1-70549e24-001
-            u-boot-wb7: 2:2021.10+wb1.5.0
-            u-boot-tools: 2:2021.10+wb1.5.0
-            u-boot-tools-wb: 2:2021.10+wb1.5.0
 
     wb-2207-bullseye-transition:
         packages-common-bullseye-transition: &packages-wb-2207-bullseye-transition
