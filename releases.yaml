@@ -13,7 +13,7 @@ releases:
             firmware-realtek: 20170823-1~bpo9+1
             flash-simcom-a76xx: 1.1.0
             fuse2fs: 1.46.2-2+wb1
-            gir1.2-modemmanager-1.0: 1.20.0-1~bpo11+1-wb102
+            gir1.2-modemmanager-1.0: 1.20.0-1~bpo11+1-wb103
             gir1.2-nm-1.0: 1.40.0-1~bpo11+1-wb101
             hubpower: '1.0'
             intrahouse: 5.14.0
@@ -46,9 +46,9 @@ releases:
             linux-libc-dev: 5.10.35-wb133
             logsave: 1.46.2-2+wb1
             modbus-utils: 1.2.7
-            modemmanager: 1.20.0-1~bpo11+1-wb102
-            modemmanager-dev: 1.20.0-1~bpo11+1-wb102
-            modemmanager-doc: 1.20.0-1~bpo11+1-wb102
+            modemmanager: 1.20.0-1~bpo11+1-wb103
+            modemmanager-dev: 1.20.0-1~bpo11+1-wb103
+            modemmanager-doc: 1.20.0-1~bpo11+1-wb103
             mqtt-logger: 1.8.9
             mqtt-tools: 1.4.1
             network-manager: 1.40.0-1~bpo11+1-wb101
