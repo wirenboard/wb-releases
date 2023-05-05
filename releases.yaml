@@ -717,6 +717,9 @@ staging:
         - "libwbmqtt1-dev"
         - "libwbmqtt1-test-utils"
         - "libwbmqtt1-2*"
+        - "wb-homa-zway"
+        - "wb-mqtt-zway"
+        - "wb-mqtt-lirc"
         - package: "*wb-update-manager"
           version: "*-upgrade*"
         - package: wb-mqtt-homeui
