@@ -524,8 +524,8 @@ releases:
             mrwl3G: 1.20.0
             mrwl3_042: 1.20.0
             mrwm2G: 1.20.0
-            wbmwac: 1.20.0
-            wbmwac_042: 1.20.0
+            wbmwac: 1.19.2      # на данном таргете на версиях старше 1.19.2 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
+            wbmwac_042: 1.19.2  # на данном таргете на версиях старше 1.19.2 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             wbmwacG: 1.20.0
             # WB-MS
             m1w2: 4.29.2
