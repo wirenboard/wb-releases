@@ -707,6 +707,8 @@ staging:
 
         - "flash-simcom-a76xx"
 
+        - "libmodbus*"
+
     exclude:
         - "*-dbgsym"
         - "python*-paho-mqtt"  # ignore stretch backport
