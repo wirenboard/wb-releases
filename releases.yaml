@@ -122,7 +122,7 @@ releases:
             wb-mqtt-knx: 1.12.0
             wb-mqtt-lirc: 1.1.4
             wb-mqtt-logs: 1.4.1
-            wb-mqtt-mbgate: 1.5.4
+            wb-mqtt-mbgate: 1.5.5
             wb-mqtt-metrics: 0.3.0
             wb-mqtt-mhz19: '1.0'
             wb-mqtt-opcua: 1.0.6
