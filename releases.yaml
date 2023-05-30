@@ -74,7 +74,7 @@ releases:
             python3-paho-socket: 0.0.3
             python3-umodbus: 1.0.4-1+wb1
             python3-wb-common: 2.1.1
-            python3-wb-diag-collect: 1.5.7
+            python3-wb-diag-collect: 1.5.9
             python3-wb-mcu-fw-updater: 1.7.1
             python3-wb-mqtt-metrics: 0.3.0
             python3-wb-nm-helper: 1.23.1-wb102
@@ -92,7 +92,7 @@ releases:
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.6.1
             wb-device-manager: 1.5.5
-            wb-diag-collect: 1.5.7
+            wb-diag-collect: 1.5.9
             wb-dt-overlays: 1.6.0+wb1
             wb-essential: 1.17.0
             wb-homa-adc: 2.6.1
@@ -156,15 +156,15 @@ releases:
         wb6/bullseye:
             <<: *packages-wb-2304
 
-            linux-headers-wb6: 5.10.35-wb133+wb100
-            linux-image-wb6: 5.10.35-wb133+wb100
+            linux-headers-wb6: 5.10.35-wb133+wb101
+            linux-image-wb6: 5.10.35-wb133+wb101
             u-boot-wb6: 2:2021.10+wb1.5.0
 
         wb7/bullseye: &packages-wb-2304-wb7-bullseye
             <<: *packages-wb-2304
 
-            linux-headers-wb7: 5.10.35-wb133+wb100
-            linux-image-wb7: 5.10.35-wb133+wb100
+            linux-headers-wb7: 5.10.35-wb133+wb101
+            linux-image-wb7: 5.10.35-wb133+wb101
             u-boot-wb7: 2:2021.10+wb1.5.0
 
     wb-2207:
