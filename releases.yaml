@@ -102,7 +102,7 @@ releases:
             wb-homa-rfsniffer: 1.0.9
             wb-homa-w1: 2.2.5
             wb-homa-zway: 1.0.3+wb2
-            wb-hwconf-manager: 1.57.1
+            wb-hwconf-manager: 1.57.2
             wb-knxd-config: 1.1.2
             wb-mb-explorer: 1.2.8
             wb-mcu-fw-flasher: 1.2.1
