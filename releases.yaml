@@ -28,9 +28,9 @@ releases:
             libext2fs-dev: 1.46.2-2+wb1
             libext2fs2: 1.46.2-2+wb1
             libfdt1: 1.6.0-1
-            libmm-glib-dev: 1.20.0-1~bpo11+1-wb102
-            libmm-glib-doc: 1.20.0-1~bpo11+1-wb102
-            libmm-glib0: 1.20.0-1~bpo11+1-wb102
+            libmm-glib-dev: 1.20.0-1~bpo11+1-wb103
+            libmm-glib-doc: 1.20.0-1~bpo11+1-wb103
+            libmm-glib0: 1.20.0-1~bpo11+1-wb103
             libmodbus5: 3.1.6-wb1
             libmodbus-dev: 3.1.6-wb1
             libnm-dev: 1.40.0-1~bpo11+1-wb101
