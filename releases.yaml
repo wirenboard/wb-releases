@@ -39,9 +39,9 @@ releases:
             libwbmqtt: 1.7.2
             libwbmqtt-dev: 1.7.2
             libwbmqtt0: 1.7.2
-            libwbmqtt1-3: 3.10.0-wb101
-            libwbmqtt1-3-dev: 3.10.0-wb101
-            libwbmqtt1-3-test-utils: 3.10.0-wb101
+            libwbmqtt1-3: 3.10.0-wb102
+            libwbmqtt1-3-dev: 3.10.0-wb102
+            libwbmqtt1-3-test-utils: 3.10.0-wb102
             libwbmqtt1-4: 4.0.0-wb100
             libwbmqtt1-4-dev: 4.0.0-wb100
             libwbmqtt1-4-test-utils: 4.0.0-wb100
