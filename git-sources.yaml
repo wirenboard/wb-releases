@@ -13,6 +13,7 @@ by-package:
     linux-image-wb2: "https://github.com/wirenboard/linux"
     mmc-utils: null  # FIXME
     modbus-utils: "https://github.com/wirenboard/modbus-utils"
+    modbus-utils-rpc: "https://github.com/wirenboard/modbus-utils-rpc"
     mosquitto: "https://github.com/wirenboard/contrib"
     mosquitto-clients: "https://github.com/wirenboard/contrib"
     mqtt-logger: "https://github.com/wirenboard/mqtt-logger"
