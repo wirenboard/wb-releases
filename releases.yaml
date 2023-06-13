@@ -685,6 +685,7 @@ staging:
         - "linux-image-wb?"
         - "linux-libc-dev"
         - "modbus-utils"
+        - "modbus-utils-rpc"
         - "mqtt-logger"
         - "mqtt-tools"
         - "nodejs"
