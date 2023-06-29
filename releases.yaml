@@ -130,7 +130,7 @@ releases:
             wb-mqtt-serial: 2.81.0-wb101
             wb-mqtt-sht1x: '1.0'
             wb-mqtt-smartbus: '1.2'
-            wb-mqtt-smartweb: 1.2.0
+            wb-mqtt-smartweb: 1.4.0
             wb-mqtt-snmp: 1.2.2
             wb-mqtt-spl-meter: 1.1.1
             wb-mqtt-timestamper: 1.10.1
