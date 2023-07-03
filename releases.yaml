@@ -463,10 +463,10 @@ releases:
             msw5GL: 4.29.7
             msw5Gth: 4.29.6
             # WB-MD
-            mdm3: 2.6.5
-            mdm3_042: 2.6.5
-            mdm3_26: 2.6.5
-            mdm3G26: 2.6.5
+            mdm3: 2.6.6
+            mdm3_042: 2.6.6
+            mdm3_26: 2.6.6
+            mdm3G26: 2.6.6
             # WB-MAP
             map3e: 2.3.8
             map3e_36: 2.3.8
@@ -557,10 +557,10 @@ releases:
             msw5GL: 4.29.9
             msw5Gth: 4.29.9
             # WB-MD
-            mdm3: 2.6.5
-            mdm3_042: 2.6.5
-            mdm3_26: 2.6.5
-            mdm3G26: 2.6.5
+            mdm3: 2.6.6
+            mdm3_042: 2.6.6
+            mdm3_26: 2.6.6
+            mdm3G26: 2.6.6
             # WB-MAP
             map3e: 2.6.0
             map3e_36: 2.6.0
