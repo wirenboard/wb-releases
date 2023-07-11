@@ -45,7 +45,7 @@ releases:
             libwbmqtt1-4: 4.0.0-wb100
             libwbmqtt1-4-dev: 4.0.0-wb100
             libwbmqtt1-4-test-utils: 4.0.0-wb100
-            linux-libc-dev: 5.10.35-wb133
+            linux-libc-dev: 5.10.35-wb133+wb102
             logsave: 1.46.2-2+wb1
             modbus-utils: 1.2.7
             modemmanager: 1.20.0-1~bpo11+1-wb103
@@ -156,15 +156,15 @@ releases:
         wb6/bullseye:
             <<: *packages-wb-2304
 
-            linux-headers-wb6: 5.10.35-wb133+wb101
-            linux-image-wb6: 5.10.35-wb133+wb101
+            linux-headers-wb6: 5.10.35-wb133+wb102
+            linux-image-wb6: 5.10.35-wb133+wb102
             u-boot-wb6: 2:2021.10+wb1.5.0
 
         wb7/bullseye: &packages-wb-2304-wb7-bullseye
             <<: *packages-wb-2304
 
-            linux-headers-wb7: 5.10.35-wb133+wb101
-            linux-image-wb7: 5.10.35-wb133+wb101
+            linux-headers-wb7: 5.10.35-wb133+wb102
+            linux-image-wb7: 5.10.35-wb133+wb102
             u-boot-wb7: 2:2021.10+wb1.5.0
 
     wb-2207:
