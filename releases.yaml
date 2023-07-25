@@ -540,18 +540,6 @@ suites:
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
 
-    wb7/stretch:
-        stable: wb-2207-bullseye-transition
-        testing: wb-2207-bullseye-transition
-        unstable: wb-2207-bullseye-transition
-    wb6/stretch:
-        stable: wb-2207-bullseye-transition
-        testing: wb-2207-bullseye-transition
-        unstable: wb-2207-bullseye-transition
-    wb5/stretch:
-        stable: wb-2207
-        testing: wb-2207
-
     firmwares:
         stable: _firmwares_stable
         testing: _firmwares_testing
