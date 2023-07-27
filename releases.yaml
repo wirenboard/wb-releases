@@ -71,6 +71,7 @@ releases:
             python3-paho-socket: 0.0.3-1
             python3-umodbus: 1.0.4-1+wb1
             python3-wb-common: 2.1.2
+            python3-wb-diag-collect: 1.7.1
             python3-wb-mcu-fw-updater: 1.8.2
             python3-wb-mqtt-metrics: 0.3.1
             python3-wb-nm-helper: 1.28.2
@@ -87,7 +88,7 @@ releases:
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.6.2
             wb-device-manager: 1.5.6
-            wb-diag-collect: 1.7.0
+            wb-diag-collect: 1.7.1
             wb-dt-overlays: 1.6.0
             wb-essential: 1.17.3
             wb-homa-adc: 2.6.3
