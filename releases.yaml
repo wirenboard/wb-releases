@@ -247,7 +247,7 @@ releases:
             ss-dev: 2.0-1.46.2-2+wb1
             transcend-sdcard-health: 1.0
             u-boot-tools-wb: 2:2021.10+wb1.5.0
-            wb-ble-tesliot: 1.0.4
+            wb-ble-tesliot: 1.0.8
             wb-cc2652p-flasher: 1.0.0
             wb-configs: 3.13.1-wb106
             wb-daemon-watchdogs: '1.1'
