@@ -80,7 +80,7 @@ releases:
             sensor-tools-scada-client: '1.1'
             serial-tool: 1.2.0
             ss-dev: 2.0-1.46.2-2+wb1
-            u-boot-tools-wb: 2:2021.10+wb1.5.2
+            u-boot-tools-wb: 2:2021.10+wb1.6.0
             wb-ble-tesliot: 1.0.8
             wb-cc2652p-flasher: 1.0.0
             wb-configs: 3.18.5
@@ -151,14 +151,14 @@ releases:
 
             linux-headers-wb6: 5.10.35-wb142
             linux-image-wb6: 5.10.35-wb142
-            u-boot-wb6: 2:2021.10+wb1.5.2
+            u-boot-wb6: 2:2021.10+wb1.6.0
 
         wb7/bullseye:
             <<: *packages-wb-2307
 
             linux-headers-wb7: 5.10.35-wb142
             linux-image-wb7: 5.10.35-wb142
-            u-boot-wb7: 2:2021.10+wb1.5.2
+            u-boot-wb7: 2:2021.10+wb1.6.0
 
     wb-2304:
         packages-common: &packages-wb-2304
