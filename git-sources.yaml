@@ -76,7 +76,7 @@ by-package:
     python-wb-mcu-fw-updater: "https://github.com/wirenboard/wb-mcu-fw-updater"
     python3-json-rpc: "https://github.com/wirenboard/json-rpc"
     python3-mosquitto: "http://github.com/wirenboard/contrib"
-    python3-mqttrpc: "https://github.com/wirenboard/mqtt-rpc"
+    python3-mqttrpc: "https://github.com/wirenboard/python-mqtt-rpc"
     python3-wb-common: "https://github.com/wirenboard/wb-common"
     python3-wb-mcu-fw-updater: "https://github.com/wirenboard/wb-mcu-fw-updater"
     python3-modbus-utils-rpc: "https://github.com/wirenboard/modbus-utils-rpc"
