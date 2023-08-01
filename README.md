@@ -1,5 +1,6 @@
 ## Wiren Board software releases
 
+* [wb-2307 changelog](https://wirenboard.com/statics/release-changelogs/wb-2307/changelog.html)
 * [wb-2304 changelog](https://wirenboard.com/statics/release-changelogs/wb-2304/changelog.html)
 * [wb-2207 changelog](https://wirenboard.com/statics/release-changelogs/wb-2207/changelog.html)
 * [wb-2204 changelog](https://wirenboard.com/statics/release-changelogs/wb-2204/changelog.html)
