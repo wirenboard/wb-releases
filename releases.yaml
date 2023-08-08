@@ -50,7 +50,7 @@ releases:
             modemmanager-dev: 1.20.0-1~bpo11+1-wb105
             modemmanager-doc: 1.20.0-1~bpo11+1-wb105
             mqtt-logger: 1.8.9
-            mqtt-tools: 1.4.1
+            mqtt-tools: 1.4.2
             network-manager: 1.42.4-1~bpo11+1-wb101
             network-manager-config-connectivity-debian: 1.42.4-1~bpo11+1-wb101
             network-manager-dev: 1.42.4-1~bpo11+1-wb101
