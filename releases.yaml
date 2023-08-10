@@ -50,7 +50,7 @@ releases:
             modemmanager-dev: 1.20.0-1~bpo11+1-wb105
             modemmanager-doc: 1.20.0-1~bpo11+1-wb105
             mqtt-logger: 1.8.9
-            mqtt-tools: 1.4.1
+            mqtt-tools: 1.4.2
             network-manager: 1.42.4-1~bpo11+1-wb101
             network-manager-config-connectivity-debian: 1.42.4-1~bpo11+1-wb101
             network-manager-dev: 1.42.4-1~bpo11+1-wb101
@@ -84,7 +84,7 @@ releases:
             u-boot-tools-wb: 2:2021.10+wb1.6.0
             wb-ble-tesliot: 1.0.8
             wb-cc2652p-flasher: 1.0.0
-            wb-configs: 3.18.5
+            wb-configs: 3.18.5-wb100
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.6.2
             wb-device-manager: 1.5.6
@@ -132,7 +132,7 @@ releases:
             wb-mqtt-w1: 2.2.6
             wb-mqtt-zabbix: '0.2'
             wb-nm-helper: 1.29.1
-            wb-rules: 2.18.4
+            wb-rules: 2.18.5
             wb-rules-system: 1.9.6
             wb-suite: 1.17.3
             wb-test-suite: '1.20'
@@ -140,11 +140,11 @@ releases:
             wb-test-suite-dummy: 1.17.3
             wb-update-manager: 1.3.2
             wb-update-notifier: 0.1.0
-            wb-utils: 4.12.0
+            wb-utils: 4.12.0-wb101
             wb-zigbee2mqtt: 1.3.2
             z-way-server: 4.0.2-lws16
             zbw: '1.2'
-            zigbee2mqtt: 1.32.1-wb101
+            zigbee2mqtt: 1.32.2
             zigbee2mqtt-1.18.1: 1.18.1-wb101
 
         wb6/bullseye:
@@ -440,7 +440,7 @@ releases:
             wb-rules-system: 1.8.1
             wb-test-suite-dummy: 1.10.0
             wb-update-manager: 1.2.5-wb1
-            wb-utils: 3.7.0-wb108
+            wb-utils: 3.7.0-wb109
             wb-zigbee2mqtt: 1.1.0
             wpagui: 2.3-1+deb8u4
             wpasupplicant: 2.3-1+deb8u4
