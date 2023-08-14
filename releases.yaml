@@ -850,6 +850,7 @@ staging:
         - "linux-libc-dev"
         - "modbus-utils"
         - "modbus-utils-rpc"
+        - "mplc4-*"
         - "mqtt-logger"
         - "mqtt-tools"
         - "nodejs"
