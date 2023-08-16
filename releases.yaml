@@ -630,21 +630,21 @@ releases:
             mdm3_26: 2.6.6
             mdm3G26: 2.6.6
             # WB-MAP
-            map3e: 2.3.8
-            map3e_36: 2.3.8
-            map3e_031f6: 2.3.8
-            map3eG: 2.3.8
-            map3h: 2.3.8
-            map3h51: 2.3.8
-            map6s: 2.3.8
-            map6s51: 2.3.8
-            map6se: 2.3.8
-            map12e: 2.3.8
-            map12eG: 2.3.8
-            map12h: 2.3.8
-            map3eG16: 2.3.8
-            map6seG16: 2.3.8
-            map6sG16: 2.3.8
+            map3e: 2.6.2
+            map3e_36: 2.6.2
+            map3e_031f6: 2.6.2
+            map3eG: 2.6.2
+            map3h: 2.6.2
+            map3h51: 2.6.2
+            map6s: 2.6.2
+            map6s51: 2.3.8 #таргет не проходит стенд калибровки на прошивке 2.6.2
+            map6se: 2.3.8  #таргет не проходит стенд калибровки на прошивке 2.6.2
+            map12e: 2.6.2
+            map12eG: 2.6.2
+            map12h: 2.6.2
+            map3eG16: 2.6.2
+            map6seG16: 2.6.2
+            map6sG16: 2.6.2
             map6semG16: 2.6.2
             # WB-MRGB
             mrgbw: 3.3.4
@@ -704,21 +704,21 @@ releases:
             msv2-4.0: 4.29.11
             msv2-4.0_gd: 4.29.11
             msv2G42: 4.30.0
-            msw3-48mh: 4.29.11
-            msw3-48mh30: 4.29.11
-            msw3-49: 4.29.11
-            msw3-49th30: 4.29.11
-            msw3-49-467: 4.29.11
-            msw3-49_gd: 4.29.11
-            msw3-49gd_oa: 4.29.11
-            msw3G49th: 4.29.11
-            msw3G419: 4.29.11
-            msw3G419th: 4.29.11
-            msw3Gc: 4.29.11
-            msw3G419L: 4.29.11
-            msw5G: 4.30.0
-            msw5GL: 4.30.0
-            msw5Gth: 4.29.11
+            msw3-48mh: 4.31.0
+            msw3-48mh30: 4.29.11    # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
+            msw3-49: 4.31.0
+            msw3-49th30: 4.31.0
+            msw3-49-467: 4.31.0
+            msw3-49_gd: 4.31.0
+            msw3-49gd_oa: 4.31.0
+            msw3G49th: 4.31.0
+            msw3G419: 4.31.0
+            msw3G419th: 4.31.0
+            msw3Gc: 4.31.0
+            msw3G419L: 4.31.0
+            msw5G: 4.31.0
+            msw5GL: 4.31.0
+            msw5Gth: 4.31.0
             # WB-MD
             mdm3: 2.6.6
             mdm3_042: 2.6.6
@@ -850,6 +850,7 @@ staging:
         - "linux-libc-dev"
         - "modbus-utils"
         - "modbus-utils-rpc"
+        - "mplc4-*"
         - "mqtt-logger"
         - "mqtt-tools"
         - "nodejs"
