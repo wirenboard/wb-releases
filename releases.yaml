@@ -161,6 +161,11 @@ releases:
             linux-image-wb7: 5.10.35-wb142
             u-boot-wb7: 2:2021.10+wb1.6.0
 
+    wb-2307-a70ab64c:
+        wb7/bullseye:
+            <<: *packages-wb-2307
+            wb-mqtt-homeui: 2.75.6-a70ab64c-wb100
+
     wb-2304:
         packages-common: &packages-wb-2304
             atecc-util: 0.4.10
