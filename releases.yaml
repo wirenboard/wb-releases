@@ -155,7 +155,7 @@ releases:
             linux-image-wb6: 5.10.35-wb142
             u-boot-wb6: 2:2021.10+wb1.6.0
 
-        wb7/bullseye:
+        wb7/bullseye: &packages-wb-2307-wb7-bullseye
             <<: *packages-wb-2307
 
             linux-headers-wb7: 5.10.35-wb142
@@ -165,12 +165,12 @@ releases:
 
     wb-2307-a70ab64c:
         wb7/bullseye:
-            <<: *packages-wb-2307
+            <<: *packages-wb-2307-wb7-bullseye
             wb-mqtt-homeui: 2.75.6-a70ab64c-wb100
 
     wb-2307-cb8ea449:
         wb7/bullseye:
-            <<: *packages-wb-2307
+            <<: *packages-wb-2307-wb7-bullseye
             mplc4-oni-plc-w: 1.3.3.14561
             wb-mqtt-homeui: 2.75.6-cb8ea449-wb100
 
