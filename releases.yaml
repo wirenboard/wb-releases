@@ -841,6 +841,7 @@ targets:
 
 staging:
     include:
+        - "task-wb*"
         - "comerr-dev"
         - "e2fsck-static"
         - "e2fsprogs*"
