@@ -780,7 +780,7 @@ releases:
             mio: 1.6.2
             # WB-REF
             ref-df: 1.1.1
-            refu: 1.4.0
+            refu: 1.4.1
 
 suites:
     all:
