@@ -82,6 +82,7 @@ releases:
             sensor-tools-scada-client: '1.1'
             serial-tool: 1.2.0
             ss-dev: 2.0-1.46.2-2+wb1
+            tailscale: 1.48.2
             u-boot-tools-wb: 2:2021.10+wb1.6.0
             wb-ble-tesliot: 1.0.8
             wb-cc2652p-flasher: 1.0.0
