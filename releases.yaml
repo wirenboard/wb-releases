@@ -882,6 +882,7 @@ staging:
         - "rapidscada"
         - "sensor-tools-scada-client"
         - "serial-tool"
+        - "tailscale"
         - "u-boot-tools-wb"
         - "u-boot-wb?"
         - "wb-*"
