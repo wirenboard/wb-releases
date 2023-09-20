@@ -154,15 +154,15 @@ releases:
         wb6/bullseye:
             <<: *packages-wb-2307
 
-            linux-headers-wb6: 5.10.35-wb142
-            linux-image-wb6: 5.10.35-wb142
+            linux-headers-wb6: 5.10.35-wb142+wb101
+            linux-image-wb6: 5.10.35-wb142+wb101
             u-boot-wb6: 2:2021.10+wb1.6.0
 
         wb7/bullseye: &packages-wb-2307-wb7-bullseye
             <<: *packages-wb-2307
 
-            linux-headers-wb7: 5.10.35-wb142
-            linux-image-wb7: 5.10.35-wb142
+            linux-headers-wb7: 5.10.35-wb142+wb101
+            linux-image-wb7: 5.10.35-wb142+wb101
             u-boot-tools-wb: 2:2021.10+wb1.7.0
             u-boot-wb7: 2:2021.10+wb1.7.0
 
