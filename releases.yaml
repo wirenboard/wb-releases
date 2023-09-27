@@ -16,8 +16,8 @@ releases:
             gir1.2-modemmanager-1.0: 1.20.0-1~bpo11+1-wb105
             gir1.2-nm-1.0: 1.42.4-1~bpo11+1-wb101
             hubpower: '1.0'
-            intrahouse: 5.14.0
-            intrascada: 5.14.0
+            intrahouse: 5.15.29
+            intrascada: 5.15.29
             knxd: 0.14.51-1
             knxd-dev: 0.14.51-1
             knxd-examples: 0.11.15-1-wb1
@@ -82,7 +82,7 @@ releases:
             sensor-tools-scada-client: '1.1'
             serial-tool: 1.2.0
             ss-dev: 2.0-1.46.2-2+wb1
-            tailscale: 1.48.2
+            tailscale: 1.50.0
             u-boot-tools-wb: 2:2021.10+wb1.6.0
             wb-ble-tesliot: 1.0.8
             wb-cc2652p-flasher: 1.0.0
