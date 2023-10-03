@@ -134,7 +134,7 @@ releases:
             wb-mqtt-w1: 2.2.6
             wb-mqtt-zabbix: '0.2'
             wb-nm-helper: 1.29.1
-            wb-rules: 2.18.5
+            wb-rules: 2.18.6
             wb-rules-system: 1.9.6
             wb-suite: 1.17.3
             wb-test-suite: '1.20'
