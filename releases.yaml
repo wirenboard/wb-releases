@@ -1,4 +1,184 @@
 releases:
+    wb-2310:
+        packages-common: &packages-wb-2310
+            atecc-util: 0.4.10
+            ca-certificates-contactless: '0.1'
+            cmux: '1.2'
+            comerr-dev: 2.1-1.46.2-2+wb1
+            contactless-keyring: '0.1'
+            e2fsck-static: 1.46.2-2+wb1
+            e2fsprogs: 1.46.2-2+wb1
+            e2fsprogs-l10n: 1.46.2-2+wb1
+            emmcparm: 5.0.0
+            firmware-realtek: 20170823-1~bpo9+1
+            flash-simcom-a76xx: 1.1.0
+            fuse2fs: 1.46.2-2+wb1
+            gir1.2-modemmanager-1.0: 1.20.0-1~bpo11+1-wb105
+            gir1.2-nm-1.0: 1.42.4-1~bpo11+1-wb101
+            hubpower: '1.0'
+            intrahouse: 5.15.29
+            intrascada: 5.15.29
+            knxd: 0.14.51-1
+            knxd-dev: 0.14.51-1
+            knxd-examples: 0.11.15-1-wb1
+            knxd-tools: 0.14.51-1
+            libateccssl: '0.1'
+            libateccssl1.1: 0.2.4
+            libcom-err2: 1.46.2-2+wb1
+            libext2fs-dev: 1.46.2-2+wb1
+            libext2fs2: 1.46.2-2+wb1
+            libfdt1: 1.6.0-1
+            libmm-glib-dev: 1.20.0-1~bpo11+1-wb105
+            libmm-glib-doc: 1.20.0-1~bpo11+1-wb105
+            libmm-glib0: 1.20.0-1~bpo11+1-wb105
+            libmodbus-dev: 3.1.6-wb1
+            libmodbus5: 3.1.6-wb1
+            libnm-dev: 1.42.4-1~bpo11+1-wb101
+            libnm0: 1.42.4-1~bpo11+1-wb101
+            libsigrok4: 0.5.2-4
+            libsigrokdecode4: 0.5.3-4
+            libss2: 1.46.2-2+wb1
+            libwbmqtt1-4: 4.3.0
+            libwbmqtt1-4-dev: 4.3.0
+            libwbmqtt1-4-test-utils: 4.3.0
+            linux-libc-dev: 5.10.35-wb151
+            logsave: 1.46.2-2+wb1
+            mmc-utils: 0+git20180327.b4fe0c8c-1+wb1
+            modbus-utils: 1.2.8
+            modbus-utils-rpc: 1.2.2
+            modemmanager: 1.20.0-1~bpo11+1-wb105
+            modemmanager-dev: 1.20.0-1~bpo11+1-wb105
+            modemmanager-doc: 1.20.0-1~bpo11+1-wb105
+            mqtt-tools: 1.4.2
+            network-manager: 1.42.4-1~bpo11+1-wb101
+            network-manager-config-connectivity-debian: 1.42.4-1~bpo11+1-wb101
+            network-manager-dev: 1.42.4-1~bpo11+1-wb101
+            nodejs: 16.18.1-deb-1nodesource1
+            python-gsmmodem-new: '1:0.11'
+            python-gspread: 1:0.4.1
+            python-mosquitto: 1.3.4-2contactless1
+            python-nrf24: 1.0+1
+            python-wb-io: 1.2.3
+            python3-aioblescan: 0.2.14
+            python3-intelhex: 2.3.0-1
+            python3-json-rpc: 1.9.2.wb1
+            python3-modbus-utils-rpc: 1.1.7
+            python3-mosquitto: 1.3.4-2contactless1
+            python3-mqttrpc: 1.2.2
+            python3-paho-socket: 0.0.3-1
+            python3-umodbus: 1.0.4-1+wb1
+            python3-wb-common: 2.1.2
+            python3-wb-diag-collect: 1.8.2
+            python3-wb-mcu-fw-updater: 1.8.5
+            python3-wb-mqtt-metrics: 0.3.1
+            python3-wb-nm-helper: 1.29.3
+            python3-wb-test-suite-deps: 1.17.4
+            python3-wb-update-manager: 1.3.2
+            python3-zpl: 0.1.10-wb101
+            rapidscada: 6.1.4-1
+            sensor-tools-scada-client: '1.1'
+            serial-tool: 1.2.0
+            sigrok-cli: 0.7.2-1
+            ss-dev: 2.0-1.46.2-2+wb1
+            tailscale: 1.50.0
+            task-wb-base-system: 1.17.4
+            task-wb-common-pkgs: 1.17.4
+            u-boot-tools-wb: 2:2021.10+wb1.7.0
+            wb-ble-tesliot: 1.1.0
+            wb-cc2652p-flasher: 1.0.0
+            wb-configs: 3.19.0
+            wb-daemon-watchdogs: '1.1'
+            wb-demo-kit-configs: 1.6.2
+            wb-device-manager: 1.6.0
+            wb-diag-collect: 1.8.2
+            wb-dt-overlays: 1.6.0+wb1
+            wb-ec-firmware: 1.0.1
+            wb-essential: 1.17.4
+            wb-homa-adc: 2.6.3
+            wb-homa-gpio: 2.12.2
+            wb-homa-ism-radio: 1.17.3
+            wb-homa-rfsniffer: 1.0.9
+            wb-homa-w1: 2.2.6
+            wb-hwconf-manager: 1.58.3
+            wb-knxd-config: 1.1.2
+            wb-mb-explorer: 1.2.8
+            wb-mcu-fw-flasher: 1.2.1
+            wb-mcu-fw-updater: 1.8.5
+            wb-modbus-ext-scanner: 1.2.0
+            wb-mqtt-adc: 2.6.3
+            wb-mqtt-apcsnmp: '0.2'
+            wb-mqtt-bmp085: '1.2'
+            wb-mqtt-co2mon: 1.1.1
+            wb-mqtt-confed: 1.13.1
+            wb-mqtt-dac: 1.2.3
+            wb-mqtt-db: 2.8.9
+            wb-mqtt-db-cli: 1.4.5
+            wb-mqtt-gpio: 2.12.2
+            wb-mqtt-homeui: 2.75.12
+            wb-mqtt-iec104: 1.1.2
+            wb-mqtt-knx: 1.12.2
+            wb-mqtt-logs: 1.4.3
+            wb-mqtt-mbgate: 1.5.6
+            wb-mqtt-metrics: 0.3.1
+            wb-mqtt-mhz19: '1.0'
+            wb-mqtt-opcua: 1.1.1
+            wb-mqtt-rfblinds: 1.0.2
+            wb-mqtt-serial: 2.105.0
+            wb-mqtt-sht1x: '1.0'
+            wb-mqtt-smartbus: '1.2'
+            wb-mqtt-smartweb: 1.4.0
+            wb-mqtt-snmp: 1.2.4
+            wb-mqtt-urri: 1.0.7
+            wb-mqtt-w1: 2.2.6
+            wb-mqtt-zabbix: '0.2'
+            wb-nm-helper: 1.29.3
+            wb-rules: 2.18.6
+            wb-rules-system: 1.9.6
+            wb-suite: 1.17.4
+            wb-test-suite: '1.20'
+            wb-test-suite-deps: 1.12.0
+            wb-test-suite-dummy: 1.17.4
+            wb-update-manager: 1.3.2
+            wb-update-notifier: 0.1.0
+            wb-utils: 4.17.3
+            wb-zigbee2mqtt: 1.3.2
+            webif: '1.5'
+            z-way-server: 4.1.1-lws16
+            z-way4wb: '1.4'
+            zbw: '1.2'
+            zigbee2mqtt: 1.32.2-wb101
+            zigbee2mqtt-1.18.1: 1.18.1-wb102
+
+        wb6/bullseye:
+            <<: *packages-wb-2310
+
+            linux-headers-wb6: 5.10.35-wb151
+            linux-image-wb6: 5.10.35-wb151
+            u-boot-wb6: 2:2021.10+wb1.7.0
+            wb-bootlet-wb6x: 5.10.35-wb150-fs1.2.1-deb11-202308181424
+
+        wb7/bullseye: &packages-wb-2310-wb7-bullseye
+            <<: *packages-wb-2310
+
+            linux-headers-wb7: 5.10.35-wb151
+            linux-image-wb7: 5.10.35-wb151
+            mplc4-wirenboard7: 1.3.3.15223
+            u-boot-tools-wb: 2:2021.10+wb1.7.0
+            u-boot-wb7: 2:2021.10+wb1.7.0
+            wb-bootlet-wb7x: 5.10.35-wb150-fs1.2.1-deb11-202308210945
+
+    wb-2310-a70ab64c:
+        wb7/bullseye:
+            <<: *packages-wb-2310-wb7-bullseye
+            wb-mqtt-homeui: 2.75.6-a70ab64c-wb100
+
+    wb-2310-cb8ea449:
+        wb7/bullseye:
+            <<: *packages-wb-2310-wb7-bullseye
+            mplc4-oni-plc-w: 1.3.3.15475
+            wb-mqtt-homeui: 2.75.6-cb8ea449-wb100
+            wb-utils: 4.12.0-wb105-cb8ea449-1
+
     wb-2307:
         packages-common: &packages-wb-2307
             atecc-util: 0.4.10
