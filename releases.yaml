@@ -49,7 +49,7 @@ releases:
             modemmanager: 1.20.0-1~bpo11+1-wb105
             modemmanager-dev: 1.20.0-1~bpo11+1-wb105
             modemmanager-doc: 1.20.0-1~bpo11+1-wb105
-            mqtt-tools: 1.4.2
+            mqtt-tools: 1.4.3
             network-manager: 1.42.4-1~bpo11+1-wb101
             network-manager-config-connectivity-debian: 1.42.4-1~bpo11+1-wb101
             network-manager-dev: 1.42.4-1~bpo11+1-wb101
@@ -82,7 +82,7 @@ releases:
             task-wb-base-system: 1.17.4
             task-wb-common-pkgs: 1.17.4
             u-boot-tools-wb: 2:2021.10+wb1.7.0
-            wb-ble-tesliot: 1.1.0
+            wb-ble-tesliot: 1.1.1
             wb-cc2652p-flasher: 1.0.0
             wb-configs: 3.19.0
             wb-daemon-watchdogs: '1.1'
@@ -91,7 +91,7 @@ releases:
             wb-diag-collect: 1.8.2
             wb-dt-overlays: 1.6.0+wb1
             wb-ec-firmware: 1.0.2
-            wb-essential: 1.17.4
+            wb-essential: 1.18.0
             wb-firmware-realtek: 1.0.2
             wb-homa-adc: 2.6.3
             wb-homa-gpio: 2.12.2
@@ -130,7 +130,7 @@ releases:
             wb-mqtt-urri: 1.0.7
             wb-mqtt-w1: 2.2.6
             wb-mqtt-zabbix: '0.2'
-            wb-nm-helper: 1.29.3
+            wb-nm-helper: 1.29.4
             wb-rules: 2.18.6
             wb-rules-system: 1.9.6
             wb-suite: 1.17.4
