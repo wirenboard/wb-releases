@@ -151,16 +151,16 @@ releases:
         wb6/bullseye:
             <<: *packages-wb-2310
 
-            linux-headers-wb6: 5.10.35-wb151
-            linux-image-wb6: 5.10.35-wb151
+            linux-headers-wb6: 5.10.35-wb153
+            linux-image-wb6: 5.10.35-wb153
             u-boot-wb6: 2:2021.10+wb1.7.0
             wb-bootlet-wb6x: 5.10.35-wb150-fs1.2.1-deb11-202308181424
 
         wb7/bullseye: &packages-wb-2310-wb7-bullseye
             <<: *packages-wb-2310
 
-            linux-headers-wb7: 5.10.35-wb151
-            linux-image-wb7: 5.10.35-wb151
+            linux-headers-wb7: 5.10.35-wb153
+            linux-image-wb7: 5.10.35-wb153
             mplc4-wirenboard7: 1.3.3.15223
             u-boot-tools-wb: 2:2021.10+wb1.7.0
             u-boot-wb7: 2:2021.10+wb1.7.0
