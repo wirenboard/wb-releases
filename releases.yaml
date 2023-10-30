@@ -70,7 +70,7 @@ releases:
             python3-wb-diag-collect: 1.8.2
             python3-wb-mcu-fw-updater: 1.8.5
             python3-wb-mqtt-metrics: 0.3.1
-            python3-wb-nm-helper: 1.29.4
+            python3-wb-nm-helper: 1.29.5
             python3-wb-test-suite-deps: 1.17.4
             python3-wb-update-manager: 1.3.2
             rapidscada: 6.1.4-1
@@ -84,7 +84,7 @@ releases:
             u-boot-tools-wb: 2:2021.10+wb1.7.0
             wb-ble-tesliot: 1.1.1
             wb-cc2652p-flasher: 1.0.0
-            wb-configs: 3.19.0
+            wb-configs: 3.19.2
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.6.2
             wb-device-manager: 1.6.0
@@ -113,7 +113,7 @@ releases:
             wb-mqtt-db: 2.8.9
             wb-mqtt-db-cli: 1.4.5
             wb-mqtt-gpio: 2.12.3
-            wb-mqtt-homeui: 2.75.12
+            wb-mqtt-homeui: 2.75.14
             wb-mqtt-iec104: 1.1.2
             wb-mqtt-knx: 1.12.2
             wb-mqtt-logs: 1.4.3
@@ -130,7 +130,7 @@ releases:
             wb-mqtt-urri: 1.0.7
             wb-mqtt-w1: 2.2.6
             wb-mqtt-zabbix: '0.2'
-            wb-nm-helper: 1.29.4
+            wb-nm-helper: 1.29.5
             wb-rules: 2.18.6
             wb-rules-system: 1.9.6
             wb-suite: 1.17.4
@@ -151,16 +151,16 @@ releases:
         wb6/bullseye:
             <<: *packages-wb-2310
 
-            linux-headers-wb6: 5.10.35-wb151
-            linux-image-wb6: 5.10.35-wb151
+            linux-headers-wb6: 5.10.35-wb153
+            linux-image-wb6: 5.10.35-wb153
             u-boot-wb6: 2:2021.10+wb1.7.0
             wb-bootlet-wb6x: 5.10.35-wb150-fs1.2.1-deb11-202308181424
 
         wb7/bullseye: &packages-wb-2310-wb7-bullseye
             <<: *packages-wb-2310
 
-            linux-headers-wb7: 5.10.35-wb151
-            linux-image-wb7: 5.10.35-wb151
+            linux-headers-wb7: 5.10.35-wb153
+            linux-image-wb7: 5.10.35-wb153
             mplc4-wirenboard7: 1.3.3.15223
             u-boot-tools-wb: 2:2021.10+wb1.7.0
             u-boot-wb7: 2:2021.10+wb1.7.0
@@ -345,7 +345,7 @@ releases:
     wb-2307-cb8ea449:
         wb7/bullseye:
             <<: *packages-wb-2307-wb7-bullseye
-            mplc4-oni-plc-w: 1.3.3.15475
+            mplc4-oni-plc-w: 1.3.3.15735
             wb-mqtt-homeui: 2.75.6-cb8ea449-wb100
             wb-utils: 4.12.0-wb105-cb8ea449-1
 
@@ -822,17 +822,17 @@ releases:
             # WB-MAP
             map3e: 2.7.1
             map3e16: 2.7.1
-            map3e_36: 2.7.1
+            map3e_36: 2.7.4
             map3e_031f6: 2.7.1
             map3eG: 2.7.1
-            map3h: 2.7.1
-            map3h51: 2.7.1
+            map3h: 2.7.4
+            map3h51: 2.7.4
             map6s: 2.6.2            #таргет не проходит стенд калибровки на прошивке 2.7.1
             map6s51: 2.6.2          #таргет не проходит стенд калибровки на прошивке 2.7.1
             map6se: 2.7.1
             map12e: 2.7.1
             map12eG: 2.7.1
-            map12h: 2.7.1
+            map12h: 2.7.4
             map3eG16: 2.7.3
             map3evG16: 2.7.3
             map6seG16: 2.7.1
@@ -919,24 +919,24 @@ releases:
             mdm3_26: 2.6.6      # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mdm3G26: 2.7.0
             # WB-MAP
-            map3e: 2.7.1
-            map3e16: 2.7.1
-            map3e_36: 2.7.1
-            map3e_031f6: 2.7.1
-            map3eG: 2.7.1
-            map3h: 2.7.1
-            map3h51: 2.7.1
+            map3e: 2.7.4
+            map3e16: 2.7.4
+            map3e_36: 2.7.4
+            map3e_031f6: 2.7.4
+            map3eG: 2.7.4
+            map3h: 2.7.4
+            map3h51: 2.7.4
             map6s: 2.6.3            #таргет не проходит стенд калибровки на прошивке 2.7.1
             map6s51: 2.6.3          #таргет не проходит стенд калибровки на прошивке 2.7.1
-            map6se: 2.7.1
-            map12e: 2.7.1
-            map12eG: 2.7.1
-            map12h: 2.7.1
-            map3eG16: 2.7.3
-            map3evG16: 2.7.3
-            map6seG16: 2.7.1
+            map6se: 2.7.4
+            map12e: 2.7.4
+            map12eG: 2.7.4
+            map12h: 2.7.4
+            map3eG16: 2.7.4
+            map3evG16: 2.7.4
+            map6seG16: 2.7.4
             map6sG16: 2.6.3         #таргет не проходит стенд калибровки на прошивке 2.7.1
-            map6semG16: 2.7.1
+            map6semG16: 2.7.4
             # WB-MRGB
             mrgbw: 3.3.4        # на данном таргете на версиях старше 3.3.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mrgbwG: 3.4.1
