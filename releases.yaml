@@ -961,6 +961,10 @@ suites:
         pool: "@pool.latest"
         staging: "@staging.latest"
 
+    wb8/bullseye:
+        testing: "@unstable.latest"
+        unstable: "@unstable.latest"
+
     wb7/bullseye:
         stable: wb-2310
         testing: "@unstable.latest"
@@ -990,6 +994,10 @@ suites:
         wb-2207: _firmwares_stable
 
 targets:
+    wb8/bullseye:
+        arch: arm64
+        distro: bullseye
+
     wb7/bullseye:
         arch: armhf
         distro: bullseye
@@ -1012,7 +1020,7 @@ targets:
         no_auto_tests: y
 
     all:
-        arch: [armhf, armel, amd64]
+        arch: [arm64, armhf, armel, amd64]
         distro: stretch
         no_auto_tests: y
 
