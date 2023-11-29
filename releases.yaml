@@ -86,7 +86,7 @@ releases:
             wb-cc2652p-flasher: 1.0.0
             wb-configs: 3.19.3
             wb-daemon-watchdogs: '1.1'
-            wb-demo-kit-configs: 1.6.2
+            wb-demo-kit-configs: 1.6.3
             wb-device-manager: 1.6.0
             wb-diag-collect: 1.8.2
             wb-dt-overlays: 1.6.0+wb1
