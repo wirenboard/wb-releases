@@ -637,18 +637,28 @@ releases:
             <<: *packages-wb-2207-stretch
 
             comerr-dev: 2.1-1.43.4-2+wb1
+            curl: 7.52.1-5+deb9u16+wb1
             e2fsck-static: 1.43.4-2+wb1
             e2fslibs: 1.43.4-2+wb1
             e2fslibs-dev: 1.43.4-2+wb1
             e2fsprogs: 1.43.4-2+wb1
             emmcparm: 5.0.0
             flash-simcom-a76xx: 1.0.2
+            frpc: 0.52.3
             fuse2fs: 1.43.4-2+wb1
             gpiod: 1.2-3
             intrahouse: 5.11.40
             intrascada: 5.11.40
             libateccssl1.1: 0.2.3
             libcomerr2: 1.43.4-2+wb1
+            libcurl3-dbg: 7.52.1-5+deb9u16+wb1
+            libcurl3-gnutls: 7.52.1-5+deb9u16+wb1
+            libcurl3-nss: 7.52.1-5+deb9u16+wb1
+            libcurl3: 7.52.1-5+deb9u16+wb1
+            libcurl4-doc: 7.52.1-5+deb9u16+wb1
+            libcurl4-gnutls-dev: 7.52.1-5+deb9u16+wb1
+            libcurl4-nss-dev: 7.52.1-5+deb9u16+wb1
+            libcurl4-openssl-dev: 7.52.1-5+deb9u16+wb1
             libgpiod2: 1.2-3
             libss2: 1.43.4-2+wb1
             libwbmqtt1-3: 3.9.0-wb100
@@ -658,6 +668,7 @@ releases:
             python3-modbus-utils-rpc: 1.0.1
             rapidscada: 6.0.2-1
             ss-dev: 2.0-1.43.4-2+wb1
+            telegraf-wb-cloud-agent: 1.28.4
             wb-demo-kit-configs: 1.6.1
             wb-essential: 1.15.0
             wb-homa-adc: 2.5.0
