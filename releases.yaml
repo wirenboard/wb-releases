@@ -1126,3 +1126,6 @@ staging:
           version: "*-upgrade*"
         - package: wb-mqtt-homeui
           version: "*-upgrade*"
+        - "wb-cloud-agent-curl"  # used only in stretch
+        - package: wb-cloud-agent
+          version: "*-wb*"  # ignore stretch backport
