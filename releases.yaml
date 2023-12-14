@@ -86,7 +86,7 @@ releases:
             u-boot-tools-wb: 2:2021.10+wb1.7.0
             wb-ble-tesliot: 1.1.1
             wb-cc2652p-flasher: 1.0.0
-            wb-cloud-agent: 1.2.5
+            wb-cloud-agent: 1.2.8
             wb-configs: 3.19.3
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.6.3
