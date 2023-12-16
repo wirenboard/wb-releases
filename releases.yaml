@@ -1066,6 +1066,7 @@ staging:
         - "linux-headers-wb?"
         - "linux-image-wb?"
         - "linux-libc-dev"
+        - "mobile-broadband-provider-info"
         - "modbus-utils"
         - "modbus-utils-rpc"
         - "mplc4-*"
