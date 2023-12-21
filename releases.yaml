@@ -162,8 +162,8 @@ releases:
         wb7/bullseye: &packages-wb-2310-wb7-bullseye
             <<: *packages-wb-2310
 
-            linux-headers-wb7: 5.10.35-wb155
-            linux-image-wb7: 5.10.35-wb155
+            linux-headers-wb7: 5.10.35-wb158
+            linux-image-wb7: 5.10.35-wb158
             mplc4-wirenboard7: 1.3.3.15223
             u-boot-tools-wb: 2:2021.10+wb1.7.0
             u-boot-wb7: 2:2021.10+wb1.7.0
