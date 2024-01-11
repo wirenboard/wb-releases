@@ -351,6 +351,7 @@ releases:
             mplc4-oni-plc-w: 1.3.3.15735
             wb-mqtt-homeui: 2.75.6-cb8ea449-wb100
             wb-utils: 4.12.0-wb105-cb8ea449-1
+            wb-mqtt-confed: 1.14.0
 
     wb-2304:
         packages-common: &packages-wb-2304
