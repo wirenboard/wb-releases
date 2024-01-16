@@ -1,7 +1,7 @@
 releases:
     wb-2401:
         packages-common: &packages-wb-2401
-            atecc-util: 0.4.10
+            atecc-util: 0.4.11
             ca-certificates-contactless: '0.1'
             cmux: '1.2'
             comerr-dev: 2.1-1.46.2-2+wb1
@@ -117,7 +117,7 @@ releases:
             wb-mqtt-bmp085: '1.2'
             wb-mqtt-co2mon: 1.1.1
             wb-mqtt-confed: 1.14.0
-            wb-mqtt-dac: 1.2.3
+            wb-mqtt-dac: 1.2.4
             wb-mqtt-db: 2.8.11
             wb-mqtt-db-cli: 1.4.5
             wb-mqtt-gpio: 2.12.6
