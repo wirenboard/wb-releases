@@ -1153,11 +1153,11 @@ suites:
         unstable: "@unstable.latest"
 
     wb7/bullseye:
-        stable: wb-2310
+        stable: wb-2401
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
     wb6/bullseye:
-        stable: wb-2310
+        stable: wb-2401
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
 
