@@ -66,7 +66,6 @@ releases:
             python3-aioblescan: 0.2.14
             python3-intelhex: 2.3.0-1
             python3-json-rpc: 1.9.2.wb1
-            python3-modbus-utils-rpc: 1.1.7
             python3-mosquitto: 1.3.4-2contactless1
             python3-mqttrpc: 1.2.2
             python3-paho-socket: 0.0.3-1
@@ -839,8 +838,8 @@ releases:
             rapidscada: 6.0.2-1
             ss-dev: 2.0-1.43.4-2+wb1
             telegraf-wb-cloud-agent: 1.28.4
-            wb-cloud-agent: 1.2.5-wb100
-            wb-cloud-agent-curl: 1.2.5-wb100
+            wb-cloud-agent: 1.2.5-wb101
+            wb-cloud-agent-curl: 1.2.5-wb101
             wb-demo-kit-configs: 1.6.1
             wb-essential: 1.15.0
             wb-homa-adc: 2.5.0
@@ -970,39 +969,39 @@ releases:
             wbmwac_042: 1.19.2  # на данном таргете на версиях старше 1.19.2 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             wbmwacG: 1.20.3
             # WB-M1W2
-            m1w2: 4.29.11       # на данном таргете, начиная с версии 4.32.0, прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            m1w2-21: 4.29.11    # на данном таргете, начиная с версии 4.32.0, прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            m1w2G21: 4.32.1
+            m1w2: 4.31.0        # на данном таргете, начиная с версии 4.32.0, прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
+            m1w2-21: 4.31.0     # на данном таргете, начиная с версии 4.32.0, прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
+            m1w2G21: 4.32.2
             # WB-MS
             mir: 4.29.11        # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mir64: 4.31.2
-            mir64_gd: 4.31.2
-            mai2cc: 4.31.2
-            ms-33: 4.31.2
-            msv2-4.0: 4.31.2
-            msv2-4.0_gd: 4.31.2
-            msv2G42: 4.31.2
-            msv2G42nlg: 4.31.3
-            msw3-48mh: 4.31.2
+            mir64: 4.31.4
+            mir64_gd: 4.31.4
+            mai2cc: 4.31.4
+            ms-33: 4.31.4
+            msv2-4.0: 4.31.4
+            msv2-4.0_gd: 4.31.4
+            msv2G42: 4.31.4
+            msv2G42nlg: 4.31.4
+            msw3-48mh: 4.31.4
             msw3-48mh30: 4.29.11    # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            msw3-49: 4.31.2
-            msw3-49th30: 4.31.2
-            msw3-49-467: 4.31.2
-            msw3-49_gd: 4.31.2
-            msw3-49gd_oa: 4.31.2
-            msw3G49th: 4.31.2
-            msw3G419: 4.31.2
-            msw3G419th: 4.31.2
-            msw3Gc: 4.31.2
-            msw3G419L: 4.31.2
-            msw5G: 4.31.2
-            msw5GL: 4.31.2
-            msw5Gth: 4.31.2
+            msw3-49: 4.31.4
+            msw3-49th30: 4.31.4
+            msw3-49-467: 4.31.4
+            msw3-49_gd: 4.31.4
+            msw3-49gd_oa: 4.31.4
+            msw3G49th: 4.31.4
+            msw3G419: 4.31.4
+            msw3G419th: 4.31.4
+            msw3Gc: 4.31.4
+            msw3G419L: 4.31.4
+            msw5G: 4.31.4
+            msw5GL: 4.31.4
+            msw5Gth: 4.31.4
             # WB-MD
             mdm3: 2.6.6         # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mdm3_042: 2.6.6     # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mdm3_26: 2.6.6      # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mdm3G26: 2.7.0
+            mdm3G26: 2.7.1
             # WB-MAP
             map3e: 2.7.5
             map3e16: 2.7.5
@@ -1024,23 +1023,23 @@ releases:
             map6semG16: 2.7.5
             # WB-MRGB
             mrgbw: 3.3.4        # на данном таргете на версиях старше 3.3.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mrgbwG: 3.4.1
-            ledG: 3.4.1
+            mrgbwG: 3.4.2
+            ledG: 3.4.2
             # WB-MCM
-            mcm8: 1.6.3
-            mcm8G: 1.6.3
+            mcm8: 1.6.4
+            mcm8G: 1.6.4
             # WB-MAO
             mao4: 2.4.4
             mao4G: 2.4.4
             # WB-MAI
             wb-mai-v10: 1.3.1
-            wb-mai6: 2.0.5
-            wb-mai6-15: 2.0.6
+            wb-mai6: 2.0.7
+            wb-mai6-15: 2.0.7
             # WB-MIO
-            mio: 1.6.2
+            mio: 1.6.3
             # WB-REF
-            ref-df: 1.1.1
-            refu: 1.4.1
+            ref-df: 1.1.2
+            refu: 1.4.2
 
     _firmwares_testing:
         firmwares:
@@ -1153,11 +1152,11 @@ suites:
         unstable: "@unstable.latest"
 
     wb7/bullseye:
-        stable: wb-2310
+        stable: wb-2401
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
     wb6/bullseye:
-        stable: wb-2310
+        stable: wb-2401
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
 
@@ -1300,6 +1299,7 @@ staging:
         - "python-mqttrpc"
         - "python-wb-common"
         - "python-wb-mcu-fw-updater"
+        - "python3-modbus-utils-rpc"
         - "wb-mqtt-spl-meter"
         - "wb-mqtt-timestamper"
         - "wb-homa-zway"
