@@ -170,7 +170,6 @@ releases:
             linux-image-wb7: 5.10.35-wb159
             u-boot-wb7: 2:2021.10+wb1.7.1
             wb-bootlet-wb7x: 5.10.35-wb159-fs1.2.2-deb11-202311241137
-            wb-bootlet-wb7x-factory: 5.10.35-wb159-fs1.2.2-deb11-202311241137
             mplc4-wirenboard7: 1.3.3.15223
 
     wb-2310:
@@ -1301,6 +1300,7 @@ staging:
         - "python-wb-common"
         - "python-wb-mcu-fw-updater"
         - "python3-modbus-utils-rpc"
+        - "wb-bootlet-*factory"
         - "wb-mqtt-spl-meter"
         - "wb-mqtt-timestamper"
         - "wb-homa-zway"
