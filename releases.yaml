@@ -124,7 +124,7 @@ releases:
             wb-mqtt-iec104: 1.1.4
             wb-mqtt-knx: 1.12.4
             wb-mqtt-logs: 1.4.4
-            wb-mqtt-mbgate: 1.5.14
+            wb-mqtt-mbgate: 1.6.0
             wb-mqtt-metrics: 0.3.1
             wb-mqtt-mhz19: '1.0'
             wb-mqtt-opcua: 1.1.2
