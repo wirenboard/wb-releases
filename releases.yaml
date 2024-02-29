@@ -115,7 +115,7 @@ releases:
             wb-mqtt-apcsnmp: '0.2'
             wb-mqtt-bmp085: '1.2'
             wb-mqtt-co2mon: 1.1.1
-            wb-mqtt-confed: 1.14.1
+            wb-mqtt-confed: 1.14.5
             wb-mqtt-dac: 1.2.4
             wb-mqtt-db: 2.8.11
             wb-mqtt-db-cli: 1.4.5
