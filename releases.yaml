@@ -1224,6 +1224,7 @@ staging:
         - "logsave"
         - "ss-dev"
 
+        - "arm-trusted-firmware"
         - "atecc-util"
         - "ca-certificates-contactless"
         - "cmux"
