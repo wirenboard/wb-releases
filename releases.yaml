@@ -1143,7 +1143,7 @@ releases:
             mio: 1.6.3
             # WB-REF
             ref-df: 1.1.2
-            refu: 1.4.2
+            refu: 1.4.3
 
 suites:
     all:
