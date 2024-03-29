@@ -96,7 +96,7 @@ releases:
             wb-demo-kit-configs: 1.7.0
             wb-device-manager: 1.7.0
             wb-diag-collect: 1.8.6
-            wb-dt-overlays: 1.6.0+wb1
+            wb-dt-overlays: 1.6.1
             wb-ec-firmware: 1.2.1
             wb-essential: 1.18.4
             wb-firmware-realtek: 1.0.3
