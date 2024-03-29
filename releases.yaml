@@ -1,7 +1,7 @@
 releases:
 
     wb-2404:
-        _common:
+        packages-common: &packages-wb-2404
             atecc-util: 0.4.11
             ca-certificates-contactless: '0.1'
             cmux: '1.2'
