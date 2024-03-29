@@ -162,8 +162,7 @@ releases:
             u-boot-wb6: 2:2021.10+wb1.7.1
             wb-bootlet-wb6x: 5.10.35-wb164-fs1.2.2-deb11-202311241137
 
-        wb7/bullseye: &packages-wb-2404-wb7-bullseye
-
+        wb7/bullseye:
             <<: *packages-wb-2404
 
             linux-headers-wb7: 5.10.35-wb164
