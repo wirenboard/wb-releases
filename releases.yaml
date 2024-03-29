@@ -72,7 +72,6 @@ releases:
             python3-paho-socket: 0.0.3-1
             python3-umodbus: 1.0.4-1+wb1
             python3-wb-common: 2.1.2
-            python3-wb-diag-collect: 1.8.6
             python3-wb-mcu-fw-updater: 1.10.11
             python3-wb-mqtt-metrics: 0.3.3
             python3-wb-nm-helper: 1.33.1
@@ -1483,6 +1482,9 @@ staging:
         - "wb-mqtt-zway"
         - "wb-mqtt-lirc"
         - "wb-homa-ninja-bridge"
+        - "wb-mqtt-sht1x"
+        - "wb-mqtt-mhz19"
+        - "python3-wb-diag-collect"
         - package: "*wb-update-manager"
           version: "*-upgrade*"
         - package: wb-mqtt-homeui
