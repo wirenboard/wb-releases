@@ -25,7 +25,6 @@ releases:
             knxd-dev: 0.14.51-1
             knxd-examples: 0.11.15-1-wb1
             knxd-tools: 0.14.51-1
-            libateccssl: '0.1'
             libateccssl1.1: 0.2.5
             libcom-err2: 1.46.2-2+wb1
             libext2fs-dev: 1.46.2-2+wb1
@@ -1410,7 +1409,7 @@ staging:
         - "intrascada"
         - "intrahouse"
         - "knxd*"
-        - "libateccssl*"
+        - "libateccssl1.1"
         - "libfdt1"
         - "libwbmqtt*"
         - "linux-headers-wb?"
