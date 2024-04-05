@@ -118,7 +118,6 @@ by-package:
     wb-firmware-realtek: "https://github.com/wirenboard/wb-firmware-realtek"
     wb-homa-adc: "https://github.com/wirenboard/wb-homa-adc"
     wb-homa-gpio: "https://github.com/wirenboard/wb-homa-gpio"
-    wb-homa-ism-radio: null  # FIXME
     wb-homa-ninja-bridge: "https://github.com/wirenboard/wb-homa-ninja-bridge"  # archived
     wb-homa-rfsniffer: "https://github.com/wirenboard/rfsniffer"
     wb-homa-w1: "https://github.com/wirenboard/wb-homa-w1"
@@ -137,7 +136,6 @@ by-package:
     wb-mqtt-db-cli: "https://github.com/wirenboard/wb-mqtt-db-cli"
     wb-mqtt-db: "https://github.com/wirenboard/wb-mqtt-db"
     wb-mqtt-gpio: "https://github.com/wirenboard/wb-homa-gpio"
-    wb-mqtt-homeui-build-deps: null  # FIXME
     wb-mqtt-homeui: "https://github.com/wirenboard/homeui"
     wb-mqtt-iec104: "https://github.com/wirenboard/wb-mqtt-iec104"
     wb-mqtt-knx: "https://github.com/wirenboard/wb-mqtt-knx"
@@ -168,4 +166,3 @@ by-package:
     wb-update-notifier: "https://github.com/wirenboard/wb-update-notifier"
     wb-utils: "https://github.com/wirenboard/wb-utils"
     wb-zigbee2mqtt: "https://github.com/wirenboard/wb-zigbee2mqtt"
-    zigbee2mqtt: "https://github.com/koenkk/zigbee2mqtt"
