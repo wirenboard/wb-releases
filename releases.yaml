@@ -132,7 +132,7 @@ releases:
             wb-mqtt-urri: 1.2.1
             wb-mqtt-w1: 2.2.10
             wb-mqtt-zabbix: '0.2'
-            wb-nm-helper: 1.33.1
+            wb-nm-helper: 1.33.2
             wb-rules: 2.20.1
             wb-rules-system: 1.11.0
             wb-suite: 1.18.4
