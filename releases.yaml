@@ -128,7 +128,7 @@ releases:
             wb-mqtt-serial: 2.117.2
             wb-mqtt-smartbus: '1.2'
             wb-mqtt-smartweb: 1.4.4
-            wb-mqtt-snmp: 1.2.7
+            wb-mqtt-snmp: 1.2.8
             wb-mqtt-urri: 1.2.1
             wb-mqtt-w1: 2.2.10
             wb-mqtt-zabbix: '0.2'
