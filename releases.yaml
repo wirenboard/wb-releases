@@ -168,7 +168,126 @@ releases:
             mplc4-wirenboard7: 1.3.3.15223
 
         wb8/bullseye:
-            <<: *packages-wb-2404
+            # arm64-ready packages here
+            atecc-util: 0.4.11
+            ca-certificates-contactless: '0.1'
+            comerr-dev: 2.1-1.46.2-2+wb1
+            contactless-keyring: '0.1'
+            e2fsck-static: 1.46.2-2+wb1
+            e2fsprogs: 1.46.2-2+wb1
+            e2fsprogs-l10n: 1.46.2-2+wb1
+            emmcparm: 5.0.1
+            firmware-realtek: 20170823-1~bpo9+1
+            flash-simcom-a76xx: 1.1.1
+            frpc: 0.52.3
+            frps: 0.52.3
+            fuse2fs: 1.46.2-2+wb1
+            gir1.2-modemmanager-1.0: 1.20.0-1~bpo11+1-wb108
+            gir1.2-nm-1.0: 1.42.4-1~bpo11+1-wb102
+            knxd: 0.14.51-1
+            knxd-dev: 0.14.51-1
+            knxd-tools: 0.14.51-1
+            libateccssl1.1: 0.2.5
+            libcom-err2: 1.46.2-2+wb1
+            libext2fs-dev: 1.46.2-2+wb1
+            libext2fs2: 1.46.2-2+wb1
+            libmm-glib-dev: 1.20.0-1~bpo11+1-wb108
+            libmm-glib-doc: 1.20.0-1~bpo11+1-wb108
+            libmm-glib0: 1.20.0-1~bpo11+1-wb108
+            libmodbus-dev: 3.1.6-wb2
+            libmodbus5: 3.1.6-wb2
+            libnm-dev: 1.42.4-1~bpo11+1-wb102
+            libnm0: 1.42.4-1~bpo11+1-wb102
+            libss2: 1.46.2-2+wb1
+            libwbmqtt1-4: 4.4.2
+            libwbmqtt1-4-dev: 4.4.2
+            libwbmqtt1-4-test-utils: 4.4.2
+            linux-libc-dev: 5.10.35-wb164
+            logsave: 1.46.2-2+wb1
+            mmc-utils: 0+git20180327.b4fe0c8c-1+wb1
+            mobile-broadband-provider-info: 20230416-1
+            modbus-utils: 1.2.10
+            modbus-utils-rpc: 1.2.2
+            modemmanager: 1.20.0-1~bpo11+1-wb108
+            modemmanager-dev: 1.20.0-1~bpo11+1-wb108
+            modemmanager-doc: 1.20.0-1~bpo11+1-wb108
+            mqtt-tools: 1.4.4
+            network-manager: 1.42.4-1~bpo11+1-wb102
+            network-manager-config-connectivity-debian: 1.42.4-1~bpo11+1-wb102
+            network-manager-dev: 1.42.4-1~bpo11+1-wb102
+            python-gsmmodem-new: '1:0.11'
+            python-gspread: 1:0.4.1
+            python-mosquitto: 1.3.4-2contactless1
+            python-nrf24: 1.0+1
+            python3-aioblescan: 0.2.14
+            python3-intelhex: 2.3.0-1
+            python3-json-rpc: 1.9.2.wb1
+            python3-mosquitto: 1.3.4-2contactless1
+            python3-mqttrpc: 1.2.4
+            python3-paho-socket: 0.0.3-1
+            python3-umodbus: 1.0.4-1+wb1
+            python3-wb-common: 2.1.2
+            python3-wb-mcu-fw-updater: 1.10.12
+            python3-wb-mqtt-metrics: 0.3.3
+            python3-wb-nm-helper: 1.33.3
+            python3-wb-test-suite-deps: 1.18.4
+            python3-wb-update-manager: 1.3.2
+            python3-zpl: 0.1.10-wb101
+            serial-tool: 1.2.0
+            ss-dev: 2.0-1.46.2-2+wb1
+            tailscale: 1.66.1
+            task-wb-base-system: 1.18.4
+            task-wb-common-pkgs: 1.18.4
+            telegraf-wb-cloud-agent: 1.29.1
+            u-boot-tools-wb: 2:2021.10+wb1.7.1
+            wb-ble-tesliot: 1.1.1
+            wb-cc2652p-flasher: 1.0.0
+            wb-cloud-agent: 1.3.3
+            wb-configs: 3.22.1
+            wb-daemon-watchdogs: '1.1'
+            wb-demo-kit-configs: 1.7.1
+            wb-device-manager: 1.7.0
+            wb-diag-collect: 1.8.6
+            wb-dt-overlays: 1.6.1
+            wb-ec-firmware: 1.2.1
+            wb-essential: 1.18.4
+            wb-firmware-realtek: 1.0.3
+            wb-hwconf-manager: 1.58.8
+            wb-knxd-config: 1.1.3
+            wb-mb-explorer: 1.2.8
+            wb-mcu-fw-flasher: 1.3.2
+            wb-mcu-fw-updater: 1.10.12
+            wb-modbus-ext-scanner: 1.2.3
+            wb-mqtt-adc: 2.6.5
+            wb-mqtt-bmp085: '1.2'
+            wb-mqtt-confed: 1.14.6
+            wb-mqtt-dac: 1.2.4
+            wb-mqtt-db: 2.8.13
+            wb-mqtt-db-cli: 1.4.5
+            wb-mqtt-gpio: 2.13.1
+            wb-mqtt-homeui: 2.82.1
+            wb-mqtt-iec104: 1.1.5
+            wb-mqtt-knx: 1.12.7
+            wb-mqtt-logs: 1.4.6
+            wb-mqtt-mbgate: 1.6.0
+            wb-mqtt-metrics: 0.3.3
+            wb-mqtt-opcua: 1.1.2
+            wb-mqtt-rfblinds: 1.0.2
+            wb-mqtt-serial: 2.117.2
+            wb-mqtt-smartweb: 1.4.4
+            wb-mqtt-snmp: 1.2.8
+            wb-mqtt-urri: 1.2.1
+            wb-mqtt-w1: 2.2.10
+            wb-nm-helper: 1.33.3
+            wb-rules: 2.20.1
+            wb-rules-system: 1.11.0
+            wb-suite: 1.18.4
+            wb-test-suite: '1.20'
+            wb-test-suite-deps: 1.12.0
+            wb-test-suite-dummy: 1.18.4
+            wb-update-manager: 1.3.2
+            wb-update-notifier: 0.1.0
+            wb-utils: 4.20.5
 
             linux-headers-wb8: 6.8.0-wb1~exp~feature+wb8+6+8~83~g83bbfdf61472
             linux-image-wb8: 6.8.0-wb1~exp~feature+wb8+6+8~83~g83bbfdf61472
@@ -1370,7 +1489,7 @@ suites:
 
 targets:
     wb8/bullseye:
-        arch: [arm64, armhf]
+        arch: [arm64]
         distro: bullseye
 
     wb7/bullseye:
