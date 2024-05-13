@@ -288,7 +288,7 @@ releases:
             linux-headers-wb8: 6.8.0-wb1~exp~feature+wb8+6+8~84~ge00c15182c6c
             linux-image-wb8: 6.8.0-wb1~exp~feature+wb8+6+8~84~ge00c15182c6c
             linux-libc-dev: 6.8.0-wb1~exp~feature+wb8+6+8~84~ge00c15182c6c
-            wb-bootlet-wb8: 6.8.0-wb1~exp~feature+wb8+6+8~84~ge00c15182c6c-fs1.3.0-deb11-202405021105
+            wb-bootlet-wb8x: 6.8.0-wb1~exp~feature+wb8+6+8~84~ge00c15182c6c-fs1.3.0-deb11-202405021105
 
             u-boot-wb8: 2:2024.01+wb1.0.0~exp~tmp+webconn+wb8+prod+u+boot~65154~gde97eb1c80
             u-boot-tools: 2:2024.01+wb1.0.0~exp~tmp+webconn+wb8+prod+u+boot~65154~gde97eb1c80
