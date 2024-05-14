@@ -119,7 +119,7 @@ releases:
             wb-mqtt-gpio: 2.13.1
             wb-mqtt-homeui: 2.82.1
             wb-mqtt-iec104: 1.1.5
-            wb-mqtt-knx: 1.12.7
+            wb-mqtt-knx: 1.12.8
             wb-mqtt-logs: 1.4.6
             wb-mqtt-mbgate: 1.6.0
             wb-mqtt-metrics: 0.3.3
@@ -264,7 +264,7 @@ releases:
             wb-mqtt-gpio: 2.13.1
             wb-mqtt-homeui: 2.82.1
             wb-mqtt-iec104: 1.1.5
-            wb-mqtt-knx: 1.12.7
+            wb-mqtt-knx: 1.12.8
             wb-mqtt-logs: 1.4.6
             wb-mqtt-mbgate: 1.6.0
             wb-mqtt-metrics: 0.3.3
