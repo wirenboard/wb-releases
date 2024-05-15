@@ -92,7 +92,7 @@ releases:
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.7.1
             wb-device-manager: 1.7.0
-            wb-diag-collect: 1.8.9
+            wb-diag-collect: 1.8.10
             wb-dt-overlays: 1.6.1
             wb-ec-firmware: 1.2.1
             wb-essential: 1.18.4
