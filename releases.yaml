@@ -296,7 +296,7 @@ releases:
 
             wb-hwconf-manager: 1.60.0~exp~feature+wb8+slots~7~g520a26d
             wb-configs: 3.23.0~exp~feature+wb8+for+pseudo+stable~7~g44140c7
-            wb-utils: 4.21.0~exp~feature+wb8~7~g46b7e28
+            wb-utils: 4.21.1~exp~feature+wb8~8~g9b3f395
 
 
     wb-2401:
