@@ -238,7 +238,6 @@ releases:
             task-wb-base-system: 1.18.6
             task-wb-common-pkgs: 1.18.6
             telegraf-wb-cloud-agent: 1.29.1
-            u-boot-tools-wb: 2:2021.10+wb1.7.1
             wb-ble-tesliot: 1.1.1
             wb-cc2652p-flasher: 1.0.0
             wb-cloud-agent: 1.3.3
@@ -290,13 +289,13 @@ releases:
             linux-libc-dev: 6.8.0-wb5~exp~feature+wb8+6+8~103~g9300bad0e86c
             wb-bootlet-wb8x: 6.8.0-wb5~exp~feature+wb8+6+8~103~g9300bad0e86c-fs1.3.1-deb11-202405141557
 
-            u-boot-wb8: 2:2024.01+wb1.0.0~exp~tmp+webconn+wb8+prod+u+boot~65154~gde97eb1c80
-            u-boot-tools: 2:2024.01+wb1.0.0~exp~tmp+webconn+wb8+prod+u+boot~65154~gde97eb1c80
-            u-boot-tools-wb: 2:2024.01+wb1.0.0~exp~tmp+webconn+wb8+prod+u+boot~65154~gde97eb1c80
+            u-boot-wb8: 2:2024.01+wb1.0.0
+            u-boot-tools: 2:2024.01+wb1.0.0
+            u-boot-tools-wb: 2:2024.01+wb1.0.0
 
-            wb-hwconf-manager: 1.60.0~exp~feature+wb8+slots~9~g0bd18fb
-            wb-configs: 3.23.1~exp~feature+wb8+for+pseudo+stable~11~g49b1517
-            wb-utils: 4.21.1~exp~feature+wb8~8~g9b3f395
+            wb-hwconf-manager: 1.60.0
+            wb-configs: 3.23.1
+            wb-utils: 4.21.1
 
 
     wb-2401:
