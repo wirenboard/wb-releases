@@ -39,9 +39,9 @@ releases:
             libsigrok4: 0.5.2-4
             libsigrokdecode4: 0.5.3-4
             libss2: 1.46.2-2+wb1
-            libwbmqtt1-4: 4.4.2
-            libwbmqtt1-4-dev: 4.4.2
-            libwbmqtt1-4-test-utils: 4.4.2
+            libwbmqtt1-4: 4.5.0
+            libwbmqtt1-4-dev: 4.5.0
+            libwbmqtt1-4-test-utils: 4.5.0
             linux-libc-dev: 5.10.35-wb164
             logsave: 1.46.2-2+wb1
             mmc-utils: 0+git20180327.b4fe0c8c-1+wb1
@@ -199,9 +199,9 @@ releases:
             libnm-dev: 1.42.4-1~bpo11+1-wb102
             libnm0: 1.42.4-1~bpo11+1-wb102
             libss2: 1.46.2-2+wb1
-            libwbmqtt1-4: 4.4.2
-            libwbmqtt1-4-dev: 4.4.2
-            libwbmqtt1-4-test-utils: 4.4.2
+            libwbmqtt1-4: 4.5.0
+            libwbmqtt1-4-dev: 4.5.0
+            libwbmqtt1-4-test-utils: 4.5.0
             logsave: 1.46.2-2+wb1
             mmc-utils: 0+git20180327.b4fe0c8c-1+wb1
             mobile-broadband-provider-info: 20230416-1
