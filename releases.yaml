@@ -51,7 +51,7 @@ releases:
             modemmanager: 1.20.0-1~bpo11+1-wb108
             modemmanager-dev: 1.20.0-1~bpo11+1-wb108
             modemmanager-doc: 1.20.0-1~bpo11+1-wb108
-            mplc4-oni-plc-w: 1.3.3.15735
+            mplc4-oni-plc-w: 1.3.5.18656
             mqtt-tools: 1.4.4
             network-manager: 1.42.4-1~bpo11+1-wb102
             network-manager-config-connectivity-debian: 1.42.4-1~bpo11+1-wb102
@@ -165,7 +165,7 @@ releases:
             linux-image-wb7: 5.10.35-wb164
             u-boot-wb7: 2:2021.10+wb1.7.1
             wb-bootlet-wb7x: 5.10.35-wb164-fs1.2.2-deb11-202311241137
-            mplc4-wirenboard7: 1.3.3.15223
+            mplc4-wirenboard7: 1.3.5.18656
 
         wb8/bullseye:
             # arm64-ready packages here
