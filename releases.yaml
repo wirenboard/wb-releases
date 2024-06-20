@@ -39,9 +39,9 @@ releases:
             libsigrok4: 0.5.2-4
             libsigrokdecode4: 0.5.3-4
             libss2: 1.46.2-2+wb1
-            libwbmqtt1-4: 4.4.2
-            libwbmqtt1-4-dev: 4.4.2
-            libwbmqtt1-4-test-utils: 4.4.2
+            libwbmqtt1-4: 4.5.0
+            libwbmqtt1-4-dev: 4.5.0
+            libwbmqtt1-4-test-utils: 4.5.0
             linux-libc-dev: 5.10.35-wb164
             logsave: 1.46.2-2+wb1
             mmc-utils: 0+git20180327.b4fe0c8c-1+wb1
@@ -51,7 +51,7 @@ releases:
             modemmanager: 1.20.0-1~bpo11+1-wb108
             modemmanager-dev: 1.20.0-1~bpo11+1-wb108
             modemmanager-doc: 1.20.0-1~bpo11+1-wb108
-            mplc4-oni-plc-w: 1.3.3.15735
+            mplc4-oni-plc-w: 1.3.5.18656
             mqtt-tools: 1.4.4
             network-manager: 1.42.4-1~bpo11+1-wb102
             network-manager-config-connectivity-debian: 1.42.4-1~bpo11+1-wb102
@@ -80,7 +80,7 @@ releases:
             serial-tool: 1.2.1
             sigrok-cli: 0.7.2-1
             ss-dev: 2.0-1.46.2-2+wb1
-            tailscale: 1.66.4
+            tailscale: 1.68.0
             task-wb-base-system: 1.18.6
             task-wb-common-pkgs: 1.18.6
             telegraf-wb-cloud-agent: 1.29.1
@@ -125,7 +125,7 @@ releases:
             wb-mqtt-metrics: 0.3.3
             wb-mqtt-opcua: 1.1.2
             wb-mqtt-rfblinds: 1.0.2
-            wb-mqtt-serial: 2.117.2-wb101
+            wb-mqtt-serial: 2.118.0-wb100
             wb-mqtt-smartbus: '1.2'
             wb-mqtt-smartweb: 1.4.4
             wb-mqtt-snmp: 1.2.8
@@ -165,7 +165,7 @@ releases:
             linux-image-wb7: 5.10.35-wb164
             u-boot-wb7: 2:2021.10+wb1.7.1
             wb-bootlet-wb7x: 5.10.35-wb164-fs1.2.2-deb11-202311241137
-            mplc4-wirenboard7: 1.3.3.15223
+            mplc4-wirenboard7: 1.3.5.18656
 
         wb8/bullseye:
             # arm64-ready packages here
@@ -199,9 +199,9 @@ releases:
             libnm-dev: 1.42.4-1~bpo11+1-wb102
             libnm0: 1.42.4-1~bpo11+1-wb102
             libss2: 1.46.2-2+wb1
-            libwbmqtt1-4: 4.4.2
-            libwbmqtt1-4-dev: 4.4.2
-            libwbmqtt1-4-test-utils: 4.4.2
+            libwbmqtt1-4: 4.5.0
+            libwbmqtt1-4-dev: 4.5.0
+            libwbmqtt1-4-test-utils: 4.5.0
             logsave: 1.46.2-2+wb1
             mmc-utils: 0+git20180327.b4fe0c8c-1+wb1
             mobile-broadband-provider-info: 20230416-1
@@ -234,7 +234,7 @@ releases:
             python3-zpl: 0.1.10-wb101
             serial-tool: 1.2.1
             ss-dev: 2.0-1.46.2-2+wb1
-            tailscale: 1.66.4
+            tailscale: 1.68.0
             task-wb-base-system: 1.18.6
             task-wb-common-pkgs: 1.18.6
             telegraf-wb-cloud-agent: 1.29.1
@@ -269,7 +269,7 @@ releases:
             wb-mqtt-metrics: 0.3.3
             wb-mqtt-opcua: 1.1.2
             wb-mqtt-rfblinds: 1.0.2
-            wb-mqtt-serial: 2.117.2-wb101
+            wb-mqtt-serial: 2.118.0-wb100
             wb-mqtt-smartweb: 1.4.4
             wb-mqtt-snmp: 1.2.8
             wb-mqtt-urri: 1.2.1
@@ -1274,29 +1274,30 @@ releases:
             m1w2G21: 4.33.1
             # WB-MS
             mir: 4.29.11        # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mir64: 4.31.6
-            mir64_gd: 4.31.6
-            mai2cc: 4.31.6
-            ms-33: 4.31.6
-            msv2-4.0: 4.31.6
-            msv2-4.0_gd: 4.31.6
-            msv2G42: 4.31.6
-            msv2G42nlg: 4.31.6
-            msw3-48mh: 4.31.6
+            mir64: 4.31.7
+            mir64_gd: 4.31.7
+            mai2cc: 4.31.7
+            ms-33: 4.31.7
+            msv2-4.0: 4.31.7
+            msv2-4.0_gd: 4.31.7
+            msv2G42: 4.31.7
+            msv2G42nlg: 4.31.7
+            msw3-48mh: 4.31.7
             msw3-48mh30: 4.29.11    # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            msw3-49: 4.31.6
-            msw3-49th30: 4.31.6
-            msw3-49-467: 4.31.6
-            msw3-49_gd: 4.31.6
-            msw3-49gd_oa: 4.31.6
-            msw3G49th: 4.31.6
-            msw3G419: 4.31.6
-            msw3G419th: 4.31.6
-            msw3Gc: 4.31.6
-            msw3G419L: 4.31.6
-            msw5G: 4.31.6
-            msw5GL: 4.31.6
-            msw5Gth: 4.31.6
+            msw3-49: 4.31.7
+            msw3-49th30: 4.31.7
+            msw3-49-467: 4.31.7
+            msw3-49_gd: 4.31.7
+            msw3-49gd_oa: 4.31.7
+            msw3G49th: 4.31.7
+            msw3G419: 4.31.7
+            msw3G419th: 4.31.7
+            msw3Gc: 4.31.7
+            msw3G419L: 4.31.7
+            msw5G: 4.31.7
+            msw5GL: 4.31.7
+            msw5Gth: 4.31.7
+            msw5Gpb: 4.31.8
             # WB-MD
             mdm3: 2.6.6         # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mdm3_042: 2.6.6     # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
@@ -1400,11 +1401,12 @@ releases:
             msw5G: 4.31.7
             msw5GL: 4.31.7
             msw5Gth: 4.31.7
+            msw5Gpb: 4.31.8
             # WB-MD
             mdm3: 2.6.6         # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mdm3_042: 2.6.6     # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mdm3_26: 2.6.6      # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mdm3G26: 2.7.1
+            mdm3G26: 2.8.0
             # WB-MAP
             map3e: 2.7.5
             map3e16: 2.8.1
@@ -1538,7 +1540,9 @@ staging:
         - "hubpower"
         - "intrascada"
         - "intrahouse"
-        - "knxd*"
+        - "knxd"
+        - "knxd-dev"
+        - "knxd-tools"
         - "libateccssl1.1"
         - "libfdt1"
         - "libwbmqtt*"
