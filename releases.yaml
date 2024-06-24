@@ -284,10 +284,10 @@ releases:
             wb-update-manager: 1.3.2
             wb-update-notifier: 0.1.0
 
-            linux-headers-wb8: 6.8.0-wb7~exp~feature+wb8+6+8~108~gac597084195e
-            linux-image-wb8: 6.8.0-wb7~exp~feature+wb8+6+8~108~gac597084195e
-            linux-libc-dev: 6.8.0-wb7~exp~feature+wb8+6+8~108~gac597084195e
-            wb-bootlet-wb8x: 6.8.0-wb7~exp~feature+wb8+6+8~108~gac597084195e-fs1.3.1-deb11-202405141557
+            linux-headers-wb8: 6.8.0-wb8~exp~feature+wb8+6+8~113~gc9270ac17a6c
+            linux-image-wb8: 6.8.0-wb8~exp~feature+wb8+6+8~113~gc9270ac17a6c
+            linux-libc-dev: 6.8.0-wb8~exp~feature+wb8+6+8~113~gc9270ac17a6c
+            wb-bootlet-wb8x: 6.8.0-wb8~exp~feature+wb8+6+8~113~gc9270ac17a6c-fs1.3.1-deb11-202405141557
 
             u-boot-wb8: 2:2024.01+wb1.0.0
             u-boot-tools: 2:2024.01+wb1.0.0
