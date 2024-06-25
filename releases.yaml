@@ -295,7 +295,7 @@ releases:
 
             wb-hwconf-manager: 1.60.0
             wb-configs: 3.23.1
-            wb-utils: 4.21.1
+            wb-utils: 4.21.2~exp~tmp+vdromanov+wb+2404+wb8+wbgsm~2~g462b06b
 
 
     wb-2401:
