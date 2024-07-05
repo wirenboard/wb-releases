@@ -42,7 +42,7 @@ releases:
             libwbmqtt1-4: 4.5.0
             libwbmqtt1-4-dev: 4.5.0
             libwbmqtt1-4-test-utils: 4.5.0
-            linux-libc-dev: 5.10.35-wb164
+            linux-libc-dev: 5.10.35-wb167
             logsave: 1.46.2-2+wb1
             mmc-utils: 0+git20180327.b4fe0c8c-1+wb1
             mobile-broadband-provider-info: 20230416-1
@@ -94,7 +94,7 @@ releases:
             wb-device-manager: 1.7.0
             wb-diag-collect: 1.8.11
             wb-dt-overlays: 1.6.1
-            wb-ec-firmware: 1.2.1
+            wb-ec-firmware: 1.3.1
             wb-essential: 1.18.6
             wb-firmware-realtek: 1.0.3
             wb-homa-adc: 2.6.5
@@ -153,18 +153,18 @@ releases:
         wb6/bullseye:
             <<: *packages-wb-2404
 
-            linux-headers-wb6: 5.10.35-wb164
-            linux-image-wb6: 5.10.35-wb164
+            linux-headers-wb6: 5.10.35-wb167
+            linux-image-wb6: 5.10.35-wb167
             u-boot-wb6: 2:2021.10+wb1.7.1
-            wb-bootlet-wb6x: 5.10.35-wb164-fs1.2.2-deb11-202311241137
+            wb-bootlet-wb6x: 5.10.35-wb167-fs1.2.3-deb11-202403291409
 
         wb7/bullseye:
             <<: *packages-wb-2404
 
-            linux-headers-wb7: 5.10.35-wb164
-            linux-image-wb7: 5.10.35-wb164
+            linux-headers-wb7: 5.10.35-wb167
+            linux-image-wb7: 5.10.35-wb167
             u-boot-wb7: 2:2021.10+wb1.7.1
-            wb-bootlet-wb7x: 5.10.35-wb164-fs1.2.2-deb11-202311241137
+            wb-bootlet-wb7x: 5.10.35-wb167-fs1.2.3-deb11-202403291409
             mplc4-wirenboard7: 1.3.5.18656
 
         wb8/bullseye:
