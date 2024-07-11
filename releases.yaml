@@ -1521,6 +1521,7 @@ targets:
 staging:
     include:
         - "task-wb*"
+        - "task-wirenboard-*"
         - "comerr-dev"
         - "e2fsck-static"
         - "e2fsprogs*"
