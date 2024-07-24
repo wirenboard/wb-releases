@@ -287,10 +287,10 @@ releases:
             wb-zigbee2mqtt: 1.3.5
             zigbee2mqtt: 1.39.0-wb101
 
-            linux-headers-wb8: 6.8.0-wb12~exp~feature+wb8+6+8~127~g52a272203a80
-            linux-image-wb8: 6.8.0-wb12~exp~feature+wb8+6+8~127~g52a272203a80
-            linux-libc-dev: 6.8.0-wb12~exp~feature+wb8+6+8~127~g52a272203a80
-            wb-bootlet-wb8x: 6.8.0-wb12~exp~feature+wb8+6+8~127~g52a272203a80-fs1.3.1-deb11-202405141557
+            linux-headers-wb8: 6.8.0-wb16~exp~feature+wb8+6+8~136~g0921564ee103
+            linux-image-wb8: 6.8.0-wb16~exp~feature+wb8+6+8~136~g0921564ee103
+            linux-libc-dev: 6.8.0-wb16~exp~feature+wb8+6+8~136~g0921564ee103
+            wb-bootlet-wb8x: 6.8.0-wb16~exp~feature+wb8+6+8~136~g0921564ee103-fs1.3.1-deb11-202405141557
 
             u-boot-wb8: 2:2024.01+wb1.0.0
             u-boot-tools: 2:2024.01+wb1.0.0
