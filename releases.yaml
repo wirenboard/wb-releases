@@ -120,7 +120,7 @@ releases:
             wb-mqtt-homeui: 2.82.1-wb109
             wb-mqtt-iec104: 1.1.7
             wb-mqtt-knx: 1.12.8
-            wb-mqtt-logs: 1.4.6
+            wb-mqtt-logs: 1.4.7
             wb-mqtt-mbgate: 1.6.3
             wb-mqtt-metrics: 0.3.3
             wb-mqtt-opcua: 1.1.4
@@ -265,7 +265,7 @@ releases:
             wb-mqtt-homeui: 2.82.1-wb109
             wb-mqtt-iec104: 1.1.7
             wb-mqtt-knx: 1.12.8
-            wb-mqtt-logs: 1.4.6
+            wb-mqtt-logs: 1.4.7
             wb-mqtt-mbgate: 1.6.3
             wb-mqtt-metrics: 0.3.3
             wb-mqtt-opcua: 1.1.4
