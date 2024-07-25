@@ -52,6 +52,7 @@ by-package:
     serial-tool: "https://github.com/wirenboard/serial_tool"
     task-wb-base-system: "https://github.com/wirenboard/wb-metapackages"
     task-wb-common-pkgs: "https://github.com/wirenboard/wb-metapackages"
+    task-wirenboard-wb8: "https://github.com/wirenboard/wb-metapackages"
     u-boot-tools-wb: null  # FIXME
     u-boot-tools: null  # FIXME
     u-boot-tools: null  # FIXME
