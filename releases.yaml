@@ -1435,8 +1435,8 @@ releases:
             mrgbwG: 3.4.3
             ledG: 3.4.3
             # WB-MCM
-            mcm8: 1.6.4
-            mcm8G: 1.6.4
+            mcm8: 1.6.5
+            mcm8G: 1.6.5
             # WB-MAO
             mao4: 2.4.4         # на данном таргете на версиях старше 2.4.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mao4G: 2.5.1
