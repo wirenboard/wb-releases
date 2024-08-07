@@ -1377,7 +1377,7 @@ suites:
 
 targets:
     wb8/bullseye:
-        arch: [arm64]
+        arch: "arm64/armhf"
         distro: bullseye
 
     wb7/bullseye:
