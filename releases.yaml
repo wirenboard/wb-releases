@@ -174,11 +174,17 @@ releases:
         wb8/bullseye:
             <<: *packages-wb-2407
 
+            linux-headers-wb8: 6.8.0-wb18~exp~feature+wb8+6+8~143~g207ebf6fcc52
+            linux-image-wb8: 6.8.0-wb18~exp~feature+wb8+6+8~143~g207ebf6fcc52
+            linux-libc-dev: 6.8.0-wb18~exp~feature+wb8+6+8~143~g207ebf6fcc52
+            wb-bootlet-wb8x: 6.8.0-wb18~exp~feature+wb8+6+8~143~g207ebf6fcc52-fs1.3.2-deb11-202407251008
+
+            u-boot-tools-wb: 2:2024.01+wb1.0.0
+            u-boot-wb8: 2:2024.01+wb1.0.0
+
             task-wirenboard-wb8: 1.19.0
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
             e2fsprogs-udeb: 1.46.2-2+wb1
-            u-boot-tools-wb: 2:2024.01+wb1.0.0
-            u-boot-wb8: 2:2024.01+wb1.0.0
             zigbee2mqtt: 1.39.0-wb101
             zigbee2mqtt-1.18.1: 1.18.1-wb101
 
