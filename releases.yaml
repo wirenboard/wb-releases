@@ -105,7 +105,7 @@ releases:
             wb-homa-ism-radio: 1.17.3
             wb-homa-rfsniffer: 1.0.9
             wb-homa-w1: 2.2.11
-            wb-hwconf-manager: 1.61.0
+            wb-hwconf-manager: 1.61.1
             wb-knxd-config: 1.1.4
             wb-mb-explorer: 1.2.8
             wb-mcu-fw-flasher: 1.4.0
@@ -368,7 +368,7 @@ releases:
             u-boot-tools: 2:2024.01+wb1.0.0
             u-boot-tools-wb: 2:2024.01+wb1.0.0
 
-            wb-hwconf-manager: 1.60.1
+            wb-hwconf-manager: 1.61.1
             wb-configs: 3.23.1-wb104+2
             wb-utils: 4.21.2-wb100
             task-wirenboard-wb8: 1.19.0
