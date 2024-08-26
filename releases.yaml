@@ -121,12 +121,12 @@ releases:
             wb-mqtt-db-cli: 1.4.6
             wb-mqtt-gpio: 2.15.0
             wb-mqtt-homeui: 2.93.11
-            wb-mqtt-iec104: 1.1.7
+            wb-mqtt-iec104: 1.1.10
             wb-mqtt-knx: 1.13.0
             wb-mqtt-logs: 1.4.7
-            wb-mqtt-mbgate: 1.7.0
+            wb-mqtt-mbgate: 1.7.2
             wb-mqtt-metrics: 0.3.3
-            wb-mqtt-opcua: 1.1.4
+            wb-mqtt-opcua: 1.1.7
             wb-mqtt-rfblinds: 1.0.3
             wb-mqtt-serial: 2.138.1-wb100
             wb-mqtt-smartbus: '1.2'
