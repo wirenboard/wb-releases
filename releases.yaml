@@ -83,7 +83,7 @@ releases:
             serial-tool: 1.2.1
             sigrok-cli: 0.7.2-1
             ss-dev: 2.0-1.46.2-2+wb1
-            tailscale: 1.70.0
+            tailscale: 1.72.1
             task-wb-base-system: 1.19.0
             task-wb-common-pkgs: 1.19.0
             telegraf-wb-cloud-agent: 1.29.1-wb2
