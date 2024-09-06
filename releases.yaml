@@ -1077,6 +1077,8 @@ releases:
             # WB-REF
             ref-df: 1.1.2
             refu: 1.4.3
+            # ONOKOM
+            ok_tcl1b: 0.3.4
 
     _firmwares_testing:
         firmwares:
@@ -1182,6 +1184,8 @@ releases:
             # WB-REF
             ref-df: 1.1.2
             refu: 1.4.3
+            # ONOKOM
+            ok_tcl1b: 0.3.4
 
 suites:
     all:
