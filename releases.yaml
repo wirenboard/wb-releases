@@ -115,7 +115,7 @@ releases:
             wb-mqtt-apcsnmp: '0.2'
             wb-mqtt-bmp085: '1.2'
             wb-mqtt-co2mon: 1.1.2
-            wb-mqtt-confed: 1.14.9
+            wb-mqtt-confed: 1.14.10
             wb-mqtt-dac: 1.2.5
             wb-mqtt-db: 2.8.15
             wb-mqtt-db-cli: 1.4.6
@@ -136,7 +136,7 @@ releases:
             wb-mqtt-w1: 2.2.11
             wb-mqtt-zabbix: '0.2'
             wb-nm-helper: 1.33.8
-            wb-rules: 2.20.15
+            wb-rules: 2.20.16
             wb-rules-system: 1.11.1
             wb-suite: 1.19.0
             wb-test-suite: '1.20'
