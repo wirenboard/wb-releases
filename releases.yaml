@@ -59,7 +59,7 @@ releases:
             network-manager: 1.42.4-1~bpo11+1-wb102
             network-manager-config-connectivity-debian: 1.42.4-1~bpo11+1-wb102
             network-manager-dev: 1.42.4-1~bpo11+1-wb102
-            nodejs: 16.18.1-deb-1nodesource1
+            nodejs: 20.5.1-deb-1nodesource1
             nodejs-16: 16.20.2-deb-1nodesource1
             python-gsmmodem-new: '1:0.11'
             python-gspread: 1:0.4.1
