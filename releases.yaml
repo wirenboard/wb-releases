@@ -187,7 +187,6 @@ releases:
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
             e2fsprogs-udeb: 1.46.2-2+wb1
             zigbee2mqtt: 1.39.0-wb101
-            zigbee2mqtt-1.18.1: 1.18.1-wb101
 
     wb-2404:
         packages-common: &packages-wb-2404
