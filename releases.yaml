@@ -153,7 +153,7 @@ releases:
             z-way4wb: '1.4'
             zbw: '1.2'
             zigbee2mqtt: 1.38.0-wb101
-            zigbee2mqtt-1.18.1: 1.18.1-wb102
+            zigbee2mqtt-1.18.1: 1.18.1-wb103
 
         wb6/bullseye:
             <<: *packages-wb-2407
