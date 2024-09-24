@@ -74,17 +74,17 @@ releases:
             python3-paho-socket: 0.0.3-2
             python3-umodbus: 1.0.4-1+wb1
             python3-wb-common: 2.2.0
-            python3-wb-mcu-fw-updater: 1.11.2
+            python3-wb-mcu-fw-updater: 1.11.3
             python3-wb-mqtt-metrics: 0.3.3
             python3-wb-nm-helper: 1.33.8
             python3-wb-test-suite-deps: 1.19.0
             python3-wb-update-manager: 1.3.5
             python3-zpl: 0.1.10-wb101
-            rapidscada: 6.2.1-1
+            rapidscada: 6.3.0-1
             serial-tool: 1.2.1
             sigrok-cli: 0.7.2-1
             ss-dev: 2.0-1.46.2-2+wb1
-            tailscale: 1.72.1
+            tailscale: 1.74.1
             task-wb-base-system: 1.19.0
             task-wb-common-pkgs: 1.19.0
             telegraf-wb-cloud-agent: 1.29.1-wb2
@@ -110,7 +110,7 @@ releases:
             wb-knxd-config: 1.1.4
             wb-mb-explorer: 1.2.8
             wb-mcu-fw-flasher: 1.4.0
-            wb-mcu-fw-updater: 1.11.2
+            wb-mcu-fw-updater: 1.11.3
             wb-modbus-ext-scanner: 1.2.5
             wb-mqtt-adc: 2.6.5
             wb-mqtt-apcsnmp: '0.2'
@@ -125,7 +125,7 @@ releases:
             wb-mqtt-iec104: 1.1.10
             wb-mqtt-knx: 1.13.0
             wb-mqtt-logs: 1.4.7
-            wb-mqtt-mbgate: 1.7.2
+            wb-mqtt-mbgate: 1.7.2-wb100
             wb-mqtt-metrics: 0.3.3
             wb-mqtt-opcua: 1.1.7
             wb-mqtt-rfblinds: 1.0.3
