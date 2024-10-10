@@ -88,7 +88,7 @@ releases:
             task-wb-base-system: 1.19.0
             task-wb-common-pkgs: 1.19.0
             telegraf-wb-cloud-agent: 1.29.1-wb2
-            u-boot-tools-wb: 2:2021.10+wb1.7.2
+            u-boot-tools-wb: 2:2021.10+wb1.7.3
             wb-ble-tesliot: 1.1.1
             wb-cc2652p-flasher: 1.0.0
             wb-cloud-agent: 1.5.7
@@ -96,7 +96,7 @@ releases:
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.8.2
             wb-device-manager: 1.9.1
-            wb-diag-collect: 1.8.12
+            wb-diag-collect: 1.8.15
             wb-dt-overlays: 1.7.0
             wb-ec-firmware: 1.3.2
             wb-essential: 1.19.0
@@ -168,7 +168,7 @@ releases:
 
             linux-image-wb7: 5.10.35-wb169
             linux-headers-wb7: 5.10.35-wb169
-            u-boot-wb7: 2:2021.10+wb1.7.2
+            u-boot-wb7: 2:2021.10+wb1.7.3
             wb-bootlet-wb7x: 5.10.35-wb169-fs1.3.2-deb11-202407251009
             mplc4-wirenboard7: 1.3.5.18656
 
@@ -180,8 +180,8 @@ releases:
             linux-libc-dev: 6.8.0-wb104
             wb-bootlet-wb8x: 6.8.0-wb104-fs1.3.2-deb11-202407251008
 
-            u-boot-tools-wb: 2:2024.01+wb1.0.0
-            u-boot-wb8: 2:2024.01+wb1.0.0
+            u-boot-tools-wb: 2:2024.01+wb1.0.1
+            u-boot-wb8: 2:2024.01+wb1.0.1
 
             task-wirenboard-wb8: 1.19.0
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
@@ -1075,7 +1075,7 @@ releases:
             # WB-MIO
             mio: 1.6.3
             # WB-REF
-            ref-df: 1.1.2
+            ref-df: 1.1.3
             refu: 1.4.3
             # ONOKOM
             ok_tcl1b: 0.3.4
@@ -1183,7 +1183,7 @@ releases:
             # WB-MIO
             mio: 1.6.4
             # WB-REF
-            ref-df: 1.1.2
+            ref-df: 1.1.3
             refu: 1.4.3
             # ONOKOM
             ok_tcl1b: 0.3.4
