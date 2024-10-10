@@ -163,7 +163,7 @@ releases:
             u-boot-wb6: 2:2021.10+wb1.7.2
             wb-bootlet-wb6x: 5.10.35-wb169-fs1.3.2-deb11-202407161205
 
-        wb7/bullseye:
+        wb7/bullseye: &packages-wb-2407-wb7-bullseye
             <<: *packages-wb-2407
 
             linux-image-wb7: 5.10.35-wb169
@@ -186,6 +186,11 @@ releases:
             task-wirenboard-wb8: 1.19.0
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
             e2fsprogs-udeb: 1.46.2-2+wb1
+
+    wb-2407-a70ab64c:
+        wb7/bullseye:
+            <<: *packages-wb-2407-wb7-bullseye
+            wb-mqtt-homeui: 2.93.11-a70ab64c-wb100
 
     wb-2404:
         packages-common: &packages-wb-2404
