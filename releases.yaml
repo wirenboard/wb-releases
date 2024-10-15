@@ -1194,7 +1194,7 @@ releases:
             mio: 1.6.4
             # WB-REF
             ref-df: 1.1.3
-            refu: 1.4.3
+            refu: 1.4.4
             # ONOKOM
             ok_tcl1b: 0.3.4
 
