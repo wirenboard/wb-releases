@@ -192,6 +192,11 @@ releases:
             <<: *packages-wb-2407-wb7-bullseye
             wb-mqtt-homeui: 2.93.11-a70ab64c-wb100
 
+    wb-2407-e1d931dd:
+        wb7/bullseye:
+            <<: *packages-wb-2407-wb7-bullseye
+            wb-mqtt-homeui: 2.93.11-e1d931dd-001
+
     wb-2404:
         packages-common: &packages-wb-2404
             atecc-util: 0.4.11
