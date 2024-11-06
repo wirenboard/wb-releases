@@ -38,9 +38,6 @@ releases:
             libsigrok4: 0.5.2-4
             libsigrokdecode4: 0.5.3-4
             libss2: 1.46.2-2+wb1
-            libwbmqtt1-4: 4.5.2
-            libwbmqtt1-4-dev: 4.5.2
-            libwbmqtt1-4-test-utils: 4.5.2
             libwbmqtt1-5: 5.3.1
             libwbmqtt1-5-dev: 5.3.1
             libwbmqtt1-5-test-utils: 5.3.1
@@ -1358,6 +1355,7 @@ staging:
         - "libwbmqtt1-test-utils"
         - "libwbmqtt1-2*"
         - "libwbmqtt1-3*"
+        - "libwbmqtt1-4*"
         - "mqtt-logger"
         - "python-json-rpc"
         - "python-mqttrpc"
