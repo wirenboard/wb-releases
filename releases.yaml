@@ -177,10 +177,10 @@ releases:
             linux-headers-wb8: 6.8.0-wb114+wb100
             linux-image-wb8: 6.8.0-wb114+wb100
             linux-libc-dev: 6.8.0-wb114+wb100
-            wb-bootlet-wb8x: 6.8.0-wb114+wb100-fs1.3.4-deb11-202411041234
+            wb-bootlet-wb8x: 6.8.0-wb117-fs1.3.6-deb11-202411060755
 
-            u-boot-tools-wb: 2:2024.01+wb1.0.2
-            u-boot-wb8: 2:2024.01+wb1.0.2
+            u-boot-tools-wb: 2:2024.01+wb1.0.3
+            u-boot-wb8: 2:2024.01+wb1.0.3
 
             task-wirenboard-wb8: 1.19.0
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
