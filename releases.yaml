@@ -18,8 +18,8 @@ releases:
             gir1.2-modemmanager-1.0: 1.20.0-1~bpo11+1-wb108
             gir1.2-nm-1.0: 1.42.4-1~bpo11+1-wb102
             hubpower: '1.0'
-            intrahouse: 5.15.29
-            intrascada: 5.15.29
+            intrahouse: 5.17.67
+            intrascada: 5.17.67
             knxd: 0.14.51-1
             knxd-dev: 0.14.51-1
             knxd-tools: 0.14.51-1
