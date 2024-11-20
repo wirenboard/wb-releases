@@ -18,8 +18,8 @@ releases:
             gir1.2-modemmanager-1.0: 1.20.0-1~bpo11+1-wb108
             gir1.2-nm-1.0: 1.42.4-1~bpo11+1-wb102
             hubpower: '1.0'
-            intrahouse: 5.15.29
-            intrascada: 5.15.29
+            intrahouse: 5.17.67
+            intrascada: 5.17.67
             knxd: 0.14.51-1
             knxd-dev: 0.14.51-1
             knxd-tools: 0.14.51-1
@@ -116,7 +116,7 @@ releases:
             wb-mqtt-db: 2.8.17
             wb-mqtt-db-cli: 1.4.6
             wb-mqtt-gpio: 2.15.1
-            wb-mqtt-homeui: 2.103.3
+            wb-mqtt-homeui: 2.103.3-wb100
             wb-mqtt-iec104: 1.1.12
             wb-mqtt-knx: 1.13.3
             wb-mqtt-logs: 1.4.8
@@ -174,13 +174,13 @@ releases:
         wb8/bullseye:
             <<: *packages-wb-2410
 
-            linux-headers-wb8: 6.8.0-wb114+wb100
-            linux-image-wb8: 6.8.0-wb114+wb100
-            linux-libc-dev: 6.8.0-wb114+wb100
-            wb-bootlet-wb8x: 6.8.0-wb114+wb100-fs1.3.4-deb11-202411041234
+            linux-headers-wb8: 6.8.0-wb114+wb101
+            linux-image-wb8: 6.8.0-wb114+wb101
+            linux-libc-dev: 6.8.0-wb114+wb101
+            wb-bootlet-wb8x: 6.8.0-wb117-fs1.3.6-deb11-202411060755
 
-            u-boot-tools-wb: 2:2024.01+wb1.0.1
-            u-boot-wb8: 2:2024.01+wb1.0.1
+            u-boot-tools-wb: 2:2024.01+wb1.0.3
+            u-boot-wb8: 2:2024.01+wb1.0.3
 
             task-wirenboard-wb8: 1.19.0
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
@@ -367,8 +367,8 @@ releases:
             linux-libc-dev: 6.8.0-wb104
             wb-bootlet-wb8x: 6.8.0-wb104-fs1.3.2-deb11-202407251008
 
-            u-boot-tools-wb: 2:2024.01+wb1.0.1
-            u-boot-wb8: 2:2024.01+wb1.0.1
+            u-boot-tools-wb: 2:2024.01+wb1.0.2
+            u-boot-wb8: 2:2024.01+wb1.0.2
 
             task-wirenboard-wb8: 1.19.0
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
@@ -1026,11 +1026,11 @@ releases:
             msv2-4.0_gd: 4.31.9
             msv2G42: 4.31.9
             msv2G42nlg: 4.31.9
-            msw3-48mh: 4.31.11
+            msw3-48mh: 4.31.9
             msw3-48mh30: 4.29.11    # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            msw3-49: 4.31.11
-            msw3-49th30: 4.31.11
-            msw3-49-467: 4.31.11
+            msw3-49: 4.31.9
+            msw3-49th30: 4.31.9
+            msw3-49-467: 4.31.9
             msw3-49_gd: 4.31.11
             msw3-49gd_oa: 4.31.11
             msw3G49th: 4.31.11
@@ -1134,11 +1134,11 @@ releases:
             msv2-4.0_gd: 4.31.9
             msv2G42: 4.31.9
             msv2G42nlg: 4.31.9
-            msw3-48mh: 4.31.11
+            msw3-48mh: 4.31.9
             msw3-48mh30: 4.29.11    # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            msw3-49: 4.31.11
-            msw3-49th30: 4.31.11
-            msw3-49-467: 4.31.11
+            msw3-49: 4.31.9
+            msw3-49th30: 4.31.9
+            msw3-49-467: 4.31.9
             msw3-49_gd: 4.31.11
             msw3-49gd_oa: 4.31.11
             msw3G49th: 4.31.11
@@ -1167,7 +1167,7 @@ releases:
             map6s51: 2.6.3          #таргет не проходит стенд калибровки на прошивке 2.7.1
             map6se: 2.10.1
             map12e: 2.8.1
-            map12eG: 2.10.1
+            map12eG: 2.8.1
             map12h: 2.7.4
             map3eG16: 2.10.1
             map3evG16: 2.10.1
@@ -1205,14 +1205,14 @@ suites:
     wb8/bullseye:
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
-        stable: wb-2407
+        stable: wb-2410
 
     wb7/bullseye:
-        stable: wb-2407
+        stable: wb-2410
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
     wb6/bullseye:
-        stable: wb-2407
+        stable: wb-2410
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
 
