@@ -38,9 +38,9 @@ releases:
             libsigrok4: 0.5.2-4
             libsigrokdecode4: 0.5.3-4
             libss2: 1.46.2-2+wb1
-            libwbmqtt1-5: 5.3.1
-            libwbmqtt1-5-dev: 5.3.1
-            libwbmqtt1-5-test-utils: 5.3.1
+            libwbmqtt1-5: 5.3.2
+            libwbmqtt1-5-dev: 5.3.2
+            libwbmqtt1-5-test-utils: 5.3.2
             logsave: 1.46.2-2+wb1
             mmc-utils: 0+git20180327.b4fe0c8c-1+wb1
             mobile-broadband-provider-info: 20230416-1
