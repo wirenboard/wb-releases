@@ -159,6 +159,8 @@ releases:
             u-boot-tools-wb: 2:2021.10+wb1.7.3
             wb-bootlet-wb6x: 5.10.35-wb172-fs1.3.4-deb11-202410221540
 
+            wb-ec-firmware: 1.3.2
+
         wb7/bullseye:
             <<: *packages-wb-2410
 
