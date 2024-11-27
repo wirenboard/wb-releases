@@ -100,7 +100,7 @@ releases:
             wb-homa-ism-radio: 1.17.3
             wb-homa-rfsniffer: 1.0.9
             wb-homa-w1: 2.2.13
-            wb-hwconf-manager: 1.63.0
+            wb-hwconf-manager: 1.63.1
             wb-knxd-config: 1.1.5
             wb-mb-explorer: 1.2.8
             wb-mcu-fw-flasher: 1.4.0
