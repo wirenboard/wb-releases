@@ -189,7 +189,7 @@ releases:
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
             e2fsprogs-udeb: 1.46.2-2+wb1
 
-            wb-ec-firmware: 2.0.1
+            wb-ec-firmware: 2.0.2
 
     wb-2407:
         packages-common: &packages-wb-2407
