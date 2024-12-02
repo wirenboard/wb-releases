@@ -115,7 +115,7 @@ releases:
             wb-mqtt-db: 2.8.17
             wb-mqtt-db-cli: 1.4.6
             wb-mqtt-gpio: 2.15.1
-            wb-mqtt-homeui: 2.103.3-wb103
+            wb-mqtt-homeui: 2.103.3-wb104
             wb-mqtt-iec104: 1.1.12
             wb-mqtt-knx: 1.13.3
             wb-mqtt-logs: 1.4.8
