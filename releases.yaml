@@ -180,7 +180,7 @@ releases:
             linux-headers-wb8: 6.8.0-wb114+wb102
             linux-image-wb8: 6.8.0-wb114+wb102
             linux-libc-dev: 6.8.0-wb114+wb102
-            wb-bootlet-wb8x: 6.8.0-wb120-fs1.3.6-deb11-202411060755
+            wb-bootlet-wb8x: 6.8.0-wb120-fs1.3.7-deb11-202412021728
 
             u-boot-tools-wb: 2:2024.01+wb1.0.3
             u-boot-wb8: 2:2024.01+wb1.0.3
