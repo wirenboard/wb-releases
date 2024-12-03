@@ -208,7 +208,7 @@ releases:
             wb-mqtt-homeui: 2.103.3-wb103-cb8ea449-1
             wb-utils: 4.25.1-cb8ea449
             wb-suite: 1.19.0-cb8ea449
-            wb-mqtt-serial: 2.146.0-wb101-cb8ea449
+            wb-mqtt-serial: 2.146.0-wb101-cb8ea449-1
 
     wb-2407:
         packages-common: &packages-wb-2407
