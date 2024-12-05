@@ -177,9 +177,9 @@ releases:
         wb8/bullseye:
             <<: *packages-wb-2410
 
-            linux-headers-wb8: 6.8.0-wb114+wb102
-            linux-image-wb8: 6.8.0-wb114+wb102
-            linux-libc-dev: 6.8.0-wb114+wb102
+            linux-headers-wb8: 6.8.0-wb114+wb103
+            linux-image-wb8: 6.8.0-wb114+wb103
+            linux-libc-dev: 6.8.0-wb114+wb103
             wb-bootlet-wb8x: 6.8.0-wb120-fs1.3.7-deb11-202412021728
 
             u-boot-tools-wb: 2:2024.01+wb1.0.3
