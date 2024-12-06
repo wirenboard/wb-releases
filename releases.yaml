@@ -1338,6 +1338,7 @@ staging:
         - "serial-tool"
         - "tailscale"
         - "telegraf-wb-cloud-agent"
+        - "tm-cpps"
         - "u-boot-tools-wb"
         - "u-boot-wb?"
         - "wb-*"
