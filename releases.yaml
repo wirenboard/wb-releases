@@ -1365,6 +1365,9 @@ staging:
         - "sigrok-cli"
         - "libsigrok*"
 
+        - "libmosquitto*"
+        - "mosquitto*"
+
     exclude:
         - "*-dbgsym"
         - "python*-paho-mqtt"  # ignore stretch backport
