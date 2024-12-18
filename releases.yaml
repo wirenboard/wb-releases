@@ -89,7 +89,7 @@ releases:
             wb-cloud-agent: 1.5.11
             wb-configs: 3.33.0
             wb-daemon-watchdogs: '1.1'
-            wb-demo-kit-configs: 1.8.2
+            wb-demo-kit-configs: 1.9.0
             wb-device-manager: 1.14.1
             wb-diag-collect: 1.8.17
             wb-dt-overlays: 1.7.0
