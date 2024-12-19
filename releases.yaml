@@ -89,7 +89,7 @@ releases:
             wb-cloud-agent: 1.5.11
             wb-configs: 3.33.0
             wb-daemon-watchdogs: '1.1'
-            wb-demo-kit-configs: 1.8.2
+            wb-demo-kit-configs: 1.9.0
             wb-device-manager: 1.14.1
             wb-diag-collect: 1.8.17
             wb-dt-overlays: 1.7.0
@@ -206,7 +206,7 @@ releases:
 
             mplc4-oni-plc-w: 1.3.6.21566
             wb-mqtt-homeui: 2.103.3-wb103-cb8ea449-1
-            wb-utils: 4.25.1-cb8ea449
+            wb-utils: 4.25.1-cb8ea449-1
             wb-suite: 1.19.0-cb8ea449
             wb-mqtt-serial: 2.146.0-wb101-cb8ea449-1
 
@@ -1040,11 +1040,12 @@ releases:
             m1w2-21: 4.31.0     # на данном таргете, начиная с версии 4.32.0, прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             m1w2G21: 4.33.5
             m1w2G3: 4.33.5
+            # WB-MAI2
+            mai2cc: 4.31.9
             # WB-MS
             mir: 4.29.11        # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mir64: 4.31.9
             mir64_gd: 4.31.9
-            mai2cc: 4.31.9
             ms-33: 4.31.9
             msv2-4.0: 4.31.9
             msv2-4.0_gd: 4.31.9
@@ -1148,11 +1149,12 @@ releases:
             m1w2-21: 4.31.0     # на данном таргете, начиная с версии 4.32.0, прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             m1w2G21: 4.33.5
             m1w2G3: 4.33.5
+            # WB-MAI2
+            mai2cc: 4.31.12
             # WB-MS
             mir: 4.29.11        # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mir64: 4.31.9
             mir64_gd: 4.31.9
-            mai2cc: 4.31.9
             ms-33: 4.31.9
             msv2-4.0: 4.31.9
             msv2-4.0_gd: 4.31.9
