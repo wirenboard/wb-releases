@@ -141,8 +141,7 @@ releases:
             wb-nm-helper: 1.34.9
             wb-rules: 2.24.0
             wb-rules-system: 1.12.3
-            wb-scenarios: 1.0.6
-            wb-suite: 1.19.1
+            wb-suite: 1.19.0
             wb-test-suite: '1.20'
             wb-test-suite-deps: 1.12.0
             wb-test-suite-dummy: 1.19.1
