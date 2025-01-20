@@ -1,6 +1,6 @@
 releases:
     wb-2501:
-        packages-common: &packages-wb-2501:
+        packages-common: &packages-wb-2501
             atecc-util: 0.4.11
             ca-certificates-contactless: '0.1'
             cmux: '1.2'
