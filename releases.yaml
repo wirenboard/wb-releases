@@ -184,12 +184,12 @@ releases:
         wb8/bullseye:
             <<: *packages-wb-2501
 
-            linux-libc-dev: 6.8.0-wb125
-            linux-image-wb8: 6.8.0-wb125
-            linux-headers-wb8: 6.8.0-wb125
+            linux-libc-dev: 6.8.0-wb124
+            linux-image-wb8: 6.8.0-wb124
+            linux-headers-wb8: 6.8.0-wb124
             u-boot-wb8: 2:2024.01+wb1.0.3
             u-boot-tools-wb: 2:2024.01+wb1.0.3
-            wb-bootlet-wb8x: 6.8.0-wb125-fs1.3.7-deb11-202412021728
+            wb-bootlet-wb8x: 6.8.0-wb124-fs1.3.7-deb11-202412021728
 
 
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
