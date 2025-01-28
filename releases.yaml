@@ -1434,14 +1434,14 @@ suites:
     wb8/bullseye:
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
-        stable: wb-2410
+        stable: wb-2501
 
     wb7/bullseye:
-        stable: wb-2410
+        stable: wb-2501
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
     wb6/bullseye:
-        stable: wb-2410
+        stable: wb-2501
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
 
