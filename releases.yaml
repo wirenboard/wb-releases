@@ -79,7 +79,7 @@ releases:
             python3-wb-common: 2.2.4
             python3-wb-mcu-fw-updater: 1.11.6
             python3-wb-mqtt-metrics: 0.3.6
-            python3-wb-nm-helper: 1.34.9
+            python3-wb-nm-helper: 1.35.0
             python3-wb-test-suite-deps: 1.19.0
             python3-wb-update-manager: 1.3.5
             python3-zpl: 0.1.10-wb101
