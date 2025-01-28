@@ -79,7 +79,7 @@ releases:
             python3-wb-common: 2.2.4
             python3-wb-mcu-fw-updater: 1.11.6
             python3-wb-mqtt-metrics: 0.3.6
-            python3-wb-nm-helper: 1.34.9
+            python3-wb-nm-helper: 1.35.0
             python3-wb-test-suite-deps: 1.19.0
             python3-wb-update-manager: 1.3.5
             python3-zpl: 0.1.10-wb101
@@ -123,7 +123,7 @@ releases:
             wb-mqtt-db: 2.8.17
             wb-mqtt-db-cli: 1.4.6
             wb-mqtt-gpio: 2.15.2
-            wb-mqtt-homeui: 2.107.5
+            wb-mqtt-homeui: 2.107.7
             wb-mqtt-iec104: 1.1.13
             wb-mqtt-knx: 1.13.3
             wb-mqtt-logs: 1.4.8
@@ -131,14 +131,14 @@ releases:
             wb-mqtt-metrics: 0.3.6
             wb-mqtt-opcua: 1.1.11
             wb-mqtt-rfblinds: 1.0.3
-            wb-mqtt-serial: 2.153.0
+            wb-mqtt-serial: 2.153.3
             wb-mqtt-smartbus: '1.2'
             wb-mqtt-smartweb: 1.4.9
             wb-mqtt-snmp: 1.3.8
             wb-mqtt-urri: 1.2.5
             wb-mqtt-w1: 2.2.14
             wb-mqtt-zabbix: '0.2'
-            wb-nm-helper: 1.34.9
+            wb-nm-helper: 1.35.0
             wb-rules: 2.24.0
             wb-rules-system: 1.12.3
             wb-suite: 1.19.0
