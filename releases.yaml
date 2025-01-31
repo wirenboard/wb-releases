@@ -87,7 +87,7 @@ releases:
             serial-tool: 1.2.1
             sigrok-cli: 0.7.2-1
             ss-dev: 2.0-1.46.2-2+wb1
-            tailscale: 1.78.1
+            tailscale: 1.80.0
             task-wb-base-system: 1.19.0
             task-wb-common-pkgs: 1.19.0  
             telegraf-wb-cloud-agent: 1.29.1-wb2  
@@ -190,7 +190,6 @@ releases:
             u-boot-wb8: 2:2024.01+wb1.0.3
             u-boot-tools-wb: 2:2024.01+wb1.0.3
             wb-bootlet-wb8x: 6.8.0-wb124-fs1.3.7-deb11-202412021728
-
 
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
             e2fsprogs-udeb: 1.46.2-2+wb1
