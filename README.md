@@ -2,6 +2,7 @@
 
 | Release | Changelog | Review |
 | ------- | --------- | ------ |
+| wb-2501 | [changelog](https://wirenboard.com/statics/release-changelogs/wb-2501/changelog.html) | [review](https://wirenboard.com/wiki/Wb-2501) |
 | wb-2410 | [changelog](https://wirenboard.com/statics/release-changelogs/wb-2410/changelog.html) | [review](https://wirenboard.com/wiki/Wb-2410) |
 | wb-2407 | [changelog](https://wirenboard.com/statics/release-changelogs/wb-2407/changelog.html) | [review](https://wirenboard.com/wiki/Wb-2407) |
 | wb-2404 | [changelog](https://wirenboard.com/statics/release-changelogs/wb-2404/changelog.html) | [review](https://wirenboard.com/wiki/Wb-2404) |
