@@ -147,7 +147,7 @@ releases:
             wb-test-suite-dummy: 1.19.0
             wb-update-manager: 1.3.5
             wb-update-notifier: 0.1.0
-            wb-utils: 4.25.2
+            wb-utils: 4.25.3
             wb-welrok: 0.0.9
             wb-zigbee2mqtt: 1.3.5
             webif: '1.5'
