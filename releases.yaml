@@ -1618,6 +1618,8 @@ staging:
         - "libmosquitto*"
         - "mosquitto*"
 
+        - "custom-settings*"
+
     exclude:
         - "*-dbgsym"
         - "python*-paho-mqtt"  # ignore stretch backport
