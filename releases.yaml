@@ -108,7 +108,7 @@ releases:
             wb-homa-ism-radio: 1.17.3
             wb-homa-rfsniffer: 1.0.9
             wb-homa-w1: 2.2.14
-            wb-hwconf-manager: 1.64.1
+            wb-hwconf-manager: 1.66.0
             wb-knxd-config: 1.1.5
             wb-mb-explorer: 1.2.8
             wb-mcu-fw-flasher: 1.4.0
@@ -298,7 +298,7 @@ releases:
             wb-homa-ism-radio: 1.17.3
             wb-homa-rfsniffer: 1.0.9
             wb-homa-w1: 2.2.13
-            wb-hwconf-manager: 1.64.1
+            wb-hwconf-manager: 1.66.0
             wb-knxd-config: 1.1.5
             wb-mb-explorer: 1.2.8
             wb-mcu-fw-flasher: 1.4.0
@@ -403,10 +403,11 @@ releases:
             wb-ec-firmware: 1.3.2
 
             mplc4-oni-plc-w: 1.3.6.21566
-            wb-mqtt-homeui: 2.103.3-wb103-cb8ea449-1
+            wb-mqtt-homeui: 2.103.3-wb103-cb8ea449-2
             wb-utils: 4.25.1-cb8ea449-1
             wb-suite: 1.19.0-cb8ea449
             wb-mqtt-serial: 2.146.0-wb101-cb8ea449-2
+            custom-settings-cb8ea449: 1.0.0
 
     wb-2407:
         packages-common: &packages-wb-2407
