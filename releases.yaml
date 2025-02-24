@@ -171,9 +171,9 @@ releases:
         wb7/bullseye:
             <<: *packages-wb-2501
 
-            linux-libc-dev: 5.10.35-wb173
-            linux-image-wb7: 5.10.35-wb173
-            linux-headers-wb7: 5.10.35-wb173
+            linux-libc-dev: 5.10.35-wb173-wb100
+            linux-image-wb7: 5.10.35-wb173-wb100
+            linux-headers-wb7: 5.10.35-wb173-wb100
             u-boot-wb7: 2:2021.10+wb1.7.3
             u-boot-tools-wb: 2:2021.10+wb1.7.3
             wb-bootlet-wb7x: 5.10.35-wb173-fs1.3.7-deb11-202412021728
