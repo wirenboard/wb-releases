@@ -98,7 +98,7 @@ releases:
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.9.0
             wb-device-manager: 1.16.2
-            wb-diag-collect: 1.8.18
+            wb-diag-collect: 1.9.0
             wb-dt-overlays: 1.7.0
             wb-ec-firmware: 2.0.2
             wb-essential: 1.19.0
@@ -123,7 +123,7 @@ releases:
             wb-mqtt-db: 2.8.17
             wb-mqtt-db-cli: 1.4.6
             wb-mqtt-gpio: 2.15.2
-            wb-mqtt-homeui: 2.107.7-wb100
+            wb-mqtt-homeui: 2.107.7-wb101
             wb-mqtt-iec104: 1.1.13
             wb-mqtt-knx: 1.13.3
             wb-mqtt-logs: 1.4.8
