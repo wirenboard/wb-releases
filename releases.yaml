@@ -100,7 +100,7 @@ releases:
             wb-device-manager: 1.16.2
             wb-diag-collect: 1.9.0-wb100
             wb-dt-overlays: 1.7.0
-            wb-ec-firmware: 2.0.2
+            wb-ec-firmware: 2.0.3
             wb-essential: 1.19.0
             wb-firmware-realtek: 1.0.3
             wb-homa-adc: 2.6.7
