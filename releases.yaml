@@ -407,7 +407,7 @@ releases:
             wb-utils: 4.25.1-cb8ea449-1
             wb-suite: 1.19.0-cb8ea449
             wb-mqtt-serial: 2.146.0-wb101-cb8ea449-2
-            custom-settings-cb8ea449: 1.1.0
+            custom-settings-cb8ea449: 1.1.1
             wb-hwconf-manager: 1.67.0
             wb-mqtt-tlv493: 1.0.0
 
