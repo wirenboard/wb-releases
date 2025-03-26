@@ -1523,6 +1523,18 @@ suites:
         wb-2207: _firmwares_stable
 
 targets:
+    wb8/trixie:
+        arch: "arm64/armhf"
+        distro: trixie
+
+    wb7/trixie:
+        arch: armhf
+        distro: trixie
+
+    wb6/trixie:
+        arch: armhf
+        distro: trixie
+
     wb8/bullseye:
         arch: "arm64/armhf"
         distro: bullseye
