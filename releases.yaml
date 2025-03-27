@@ -1531,10 +1531,6 @@ targets:
         arch: armhf
         distro: trixie
 
-    wb6/trixie:
-        arch: armhf
-        distro: trixie
-
     wb8/bullseye:
         arch: "arm64/armhf"
         distro: bullseye
