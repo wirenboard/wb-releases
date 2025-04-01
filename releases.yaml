@@ -1657,7 +1657,7 @@ staging:
         - "libwbmqtt1-3*"
         - "libwbmqtt1-4*"
         - "mqtt-logger"
-        - "python-json-rpc"
+        - "python*-json-rpc"
         - "python-mqttrpc"
         - "python-wb-common"
         - "python-wb-mcu-fw-updater"
