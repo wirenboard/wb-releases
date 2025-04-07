@@ -1330,9 +1330,9 @@ releases:
             # ONOKOM
             ok_tcl1b: 0.3.6
             ok_tcl3b: 0.4.6
-            ok_aux1b: 0.3.6
-            ok_dk1b: 0.4.1
-            ok_dk5b: 0.4.3
+            ok_aux1b: 0.4.7
+            ok_dk1b: 0.4.7
+            ok_dk5b: 0.4.7
             ok_gr1b: 0.3.8
             ok_gr3b: 0.4.1
             ok_hr1b: 0.3.8
@@ -1342,8 +1342,8 @@ releases:
             ok_md1b: 0.4.6
             ok_md3b: 0.3.9
             ok_mdvrfb: 0.4.3
-            ok_me1b: 0.3.6
-            ok_tn1b: 0.4.1
+            ok_me1b: 0.4.7
+            ok_tn1b: 0.4.7
 
     _firmwares_testing:
         firmwares:
@@ -1469,9 +1469,9 @@ releases:
             # ONOKOM
             ok_tcl1b: 0.3.6
             ok_tcl3b: 0.4.6
-            ok_aux1b: 0.3.6
-            ok_dk1b: 0.4.1
-            ok_dk5b: 0.4.3
+            ok_aux1b: 0.4.7
+            ok_dk1b: 0.4.7
+            ok_dk5b: 0.4.7
             ok_gr1b: 0.3.8
             ok_gr3b: 0.4.1
             ok_hr1b: 0.3.8
@@ -1481,8 +1481,8 @@ releases:
             ok_md1b: 0.4.6
             ok_md3b: 0.3.9
             ok_mdvrfb: 0.4.3
-            ok_me1b: 0.3.6
-            ok_tn1b: 0.4.1
+            ok_me1b: 0.4.7
+            ok_tn1b: 0.4.7
 
 suites:
     all:
