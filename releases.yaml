@@ -76,7 +76,7 @@ releases:
             python3-mqttrpc: 1.2.5
             python3-paho-socket: 0.0.3-2
             python3-umodbus: 1.0.4-1+wb1
-            python3-wb-common: 2.2.4
+            python3-wb-common: 2.2.6
             python3-wb-mcu-fw-updater: 1.11.6
             python3-wb-mqtt-metrics: 0.3.7
             python3-wb-nm-helper: 1.35.0
