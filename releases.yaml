@@ -1591,7 +1591,6 @@ staging:
         - "knxd-dev"
         - "knxd-tools"
         - "libateccssl1.1"
-        - "libfdt1"
         - "libwbmqtt*"
         - "linux-headers-wb?"
         - "linux-image-wb?"
@@ -1647,6 +1646,7 @@ staging:
         - "gpiod"  # ignore stretch backport
         - "libgpiod*"  # ignore stretch backport
         - "wb-configs-stretch"
+        - "libfdt1"  # ignore stretch backport
         - "libwbmqtt"
         - "libwbmqtt-dev"
         - "libwbmqtt0"
