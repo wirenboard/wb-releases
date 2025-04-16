@@ -1669,6 +1669,7 @@ staging:
         - "wb-homa-gpio"
         - "wb-homa-w1"
         - "wb-homa-rfsniffer"
+        - "wb-homa-ism-radio"
         - "wb-homa-zway"
         - "wb-mqtt-zway"
         - "wb-mqtt-lirc"
