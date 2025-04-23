@@ -197,6 +197,28 @@ releases:
 
             tm-cpps: '16402'
 
+    wb-2501-cb8ea449:
+        wb7/bullseye:
+            <<: *packages-wb-2501
+
+            linux-headers-wb7: 5.10.35-wb175
+            linux-image-wb7: 5.10.35-wb175
+            linux-libc-dev: 5.10.35-wb175
+            u-boot-wb7: 2:2021.10+wb1.7.3
+            u-boot-tools-wb: 2:2021.10+wb1.7.3
+            wb-bootlet-wb7x: 5.10.35-wb173-fs1.3.7-deb11-202412021728
+
+            wb-ec-firmware: 2.0.4
+
+            mplc4-oni-plc-w: 1.3.6.21566
+            wb-mqtt-homeui: 2.107.7-wb101-cb8ea449
+            wb-utils: 4.25.3-cb8ea449
+            wb-suite: 1.19.0-cb8ea449
+            wb-mqtt-serial: 2.153.3-wb102-cb8ea449
+            custom-settings-cb8ea449: 1.1.1
+            wb-hwconf-manager: 1.67.1
+            wb-mqtt-tlv493: 1.0.1
+
     wb-2410:
         packages-common: &packages-wb-2410
             atecc-util: 0.4.11
