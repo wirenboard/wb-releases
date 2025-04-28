@@ -33,10 +33,10 @@ releases:
             libmm-glib0: 1.20.0-1~bpo11+1-wb108
             libmodbus-dev: 3.1.6-wb2
             libmodbus5: 3.1.6-wb2
-            libmosquitto-dev: 2.0.20-1-wb101
-            libmosquitto1: 2.0.20-1-wb101
-            libmosquittopp-dev: 2.0.20-1-wb101
-            libmosquittopp1: 2.0.20-1-wb101
+            libmosquitto-dev: 2.0.20-1-wb102
+            libmosquitto1: 2.0.20-1-wb102
+            libmosquittopp-dev: 2.0.20-1-wb102
+            libmosquittopp1: 2.0.20-1-wb102
             libnm-dev: 1.42.4-1~bpo11+1-wb102
             libnm0: 1.42.4-1~bpo11+1-wb102
             libsigrok4: 0.5.2-4
@@ -53,9 +53,9 @@ releases:
             modemmanager: 1.20.0-1~bpo11+1-wb108
             modemmanager-dev: 1.20.0-1~bpo11+1-wb108
             modemmanager-doc: 1.20.0-1~bpo11+1-wb108
-            mosquitto: 2.0.20-1-wb101
-            mosquitto-clients: 2.0.20-1-wb101
-            mosquitto-dev: 2.0.20-1-wb101
+            mosquitto: 2.0.20-1-wb102
+            mosquitto-clients: 2.0.20-1-wb102
+            mosquitto-dev: 2.0.20-1-wb102
             mplc4-oni-plc-w: 1.3.6.21566
             mqtt-tools: 1.4.4
             mqttui: 0.22.0-1
@@ -209,14 +209,6 @@ releases:
             wb-bootlet-wb7x: 5.10.35-wb173-fs1.3.7-deb11-202412021728
 
             wb-ec-firmware: 2.0.4
-
-            libmosquitto-dev: 2.0.20-1-wb102~exp~feature+fix+systemd~135~g24a51492
-            libmosquitto1: 2.0.20-1-wb102~exp~feature+fix+systemd~135~g24a51492
-            libmosquittopp-dev: 2.0.20-1-wb102~exp~feature+fix+systemd~135~g24a51492
-            libmosquittopp1: 2.0.20-1-wb102~exp~feature+fix+systemd~135~g24a51492
-            mosquitto: 2.0.20-1-wb102~exp~feature+fix+systemd~135~g24a51492
-            mosquitto-clients: 2.0.20-1-wb102~exp~feature+fix+systemd~135~g24a51492
-            mosquitto-dev: 2.0.20-1-wb102~exp~feature+fix+systemd~135~g24a51492
 
             mplc4-oni-plc-w: 1.3.6.21566
             wb-mqtt-homeui: 2.107.7-wb101-cb8ea449
