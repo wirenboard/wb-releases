@@ -65,11 +65,6 @@ releases:
             network-manager-dev: 1.42.4-1~bpo11+1-wb103
             nodejs: 20.5.1-deb-1nodesource1
             nodejs-16: 16.20.2-deb-1nodesource1
-            python-gsmmodem-new: '1:0.11'
-            python-gspread: 1:0.4.1
-            python-mosquitto: 1.3.4-2contactless1
-            python-nrf24: 1.0+1
-            python-wb-io: 1.2.3
             python3-aioblescan: 0.2.14
             python3-intelhex: 2.3.0-1
             python3-mosquitto: 1.3.4-2contactless1
@@ -80,7 +75,6 @@ releases:
             python3-wb-mcu-fw-updater: 1.12.1
             python3-wb-mqtt-metrics: 0.3.7
             python3-wb-nm-helper: 1.35.0
-            python3-wb-test-suite-deps: 1.19.2
             python3-wb-update-manager: 1.3.6
             python3-zpl: 0.1.10-wb101
             rapidscada: 6.4.1-1
@@ -88,8 +82,8 @@ releases:
             sigrok-cli: 0.7.2-1
             ss-dev: 2.0-1.46.2-2+wb1
             tailscale: 1.82.0
-            task-wb-base-system: 1.19.2
-            task-wb-common-pkgs: 1.19.2  
+            task-wb-base-system: 1.19.4
+            task-wb-common-pkgs: 1.19.4
             telegraf-wb-cloud-agent: 1.29.1-wb2  
             wb-ble-tesliot: 1.1.2  
             wb-cc2652p-flasher: 1.0.0
@@ -101,7 +95,7 @@ releases:
             wb-diag-collect: 1.9.2
             wb-dt-overlays: 1.7.0
             wb-ec-firmware: 2.0.4
-            wb-essential: 1.19.2
+            wb-essential: 1.19.4
             wb-firmware-realtek: 1.0.3
             wb-homeui-backend: 2.115.9
             wb-hwconf-manager: 1.67.1
@@ -137,12 +131,9 @@ releases:
             wb-mqtt-zabbix: '0.2'
             wb-nm-helper: 1.35.0
             wb-rules: 2.29.0
-            wb-rules-system: 1.12.4
+            wb-rules-system: 1.12.5
             wb-scenarios: 1.2.3
-            wb-suite: 1.19.2
-            wb-test-suite: '1.20'
-            wb-test-suite-deps: 1.12.0
-            wb-test-suite-dummy: 1.19.2
+            wb-suite: 1.19.4
             wb-update-manager: 1.3.6
             wb-update-notifier: 0.1.0
             wb-utils: 4.25.5
@@ -190,7 +181,7 @@ releases:
 
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
             e2fsprogs-udeb: 1.46.2-2+wb1
-            task-wirenboard-wb8: 1.19.2      
+            task-wirenboard-wb8: 1.19.4      
             
             tm-cpps: '16402'
             
