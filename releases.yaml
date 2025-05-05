@@ -83,8 +83,8 @@ releases:
             tailscale: 1.82.0
             task-wb-base-system: 1.19.5
             task-wb-common-pkgs: 1.19.5
-            telegraf-wb-cloud-agent: 1.29.1-wb2  
-            wb-ble-tesliot: 1.1.2  
+            telegraf-wb-cloud-agent: 1.29.1-wb2
+            wb-ble-tesliot: 1.1.2
             wb-cc2652p-flasher: 1.0.0
             wb-cloud-agent: 1.5.14
             wb-configs: 3.38.1
@@ -180,10 +180,10 @@ releases:
 
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
             e2fsprogs-udeb: 1.46.2-2+wb1
-            task-wirenboard-wb8: 1.19.5  
-            
+            task-wirenboard-wb8: 1.19.5
+
             tm-cpps: '16402'
-            
+
     wb-2501:
         packages-common: &packages-wb-2501
             atecc-util: 0.4.11
@@ -1448,8 +1448,8 @@ releases:
             # WB-MWAC
             wbmwac: 1.19.2      # на данном таргете на версиях старше 1.19.2 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             wbmwac_042: 1.19.2  # на данном таргете на версиях старше 1.19.2 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            wbmwacG: 1.21.5
-            mwac0: 1.21.5
+            wbmwacG: 1.21.6
+            mwac0: 1.21.6
             # WB-M1W2
             m1w2: 4.31.0        # на данном таргете, начиная с версии 4.32.0, прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             m1w2-21: 4.31.0     # на данном таргете, начиная с версии 4.32.0, прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
