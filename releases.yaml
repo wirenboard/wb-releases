@@ -57,7 +57,6 @@ releases:
             mosquitto-clients: 2.0.20-1-wb102
             mosquitto-dev: 2.0.20-1-wb102
             mplc4-oni-plc-w: 1.3.6.21566
-            mplc4-wirenboard7: 1.3.6.21566
             mqtt-tools: 1.4.5
             mqttui: 0.22.1-1
             network-manager: 1.42.4-1~bpo11+1-wb103
@@ -81,8 +80,8 @@ releases:
             sigrok-cli: 0.7.2-1
             ss-dev: 2.0-1.46.2-2+wb1
             tailscale: 1.82.0
-            task-wb-base-system: 1.19.5
-            task-wb-common-pkgs: 1.19.5
+            task-wb-base-system: 1.19.6
+            task-wb-common-pkgs: 1.19.6
             telegraf-wb-cloud-agent: 1.29.1-wb2  
             wb-ble-tesliot: 1.1.2  
             wb-cc2652p-flasher: 1.0.0
@@ -94,7 +93,7 @@ releases:
             wb-diag-collect: 1.9.2
             wb-dt-overlays: 1.7.0
             wb-ec-firmware: 2.0.4
-            wb-essential: 1.19.5
+            wb-essential: 1.19.6
             wb-firmware-realtek: 1.0.3
             wb-homeui-backend: 2.115.9
             wb-hwconf-manager: 1.67.1
@@ -106,7 +105,7 @@ releases:
             wb-mqtt-adc: 2.6.7
             wb-mqtt-apcsnmp: '0.2'
             wb-mqtt-bmp085: '1.2'
-            wb-mqtt-co2mon: 1.1.3
+            wb-mqtt-co2mon: 1.1.4
             wb-mqtt-confed: 1.16.2
             wb-mqtt-dac: 1.2.6
             wb-mqtt-db: 2.9.1
@@ -132,7 +131,7 @@ releases:
             wb-rules: 2.29.0
             wb-rules-system: 1.12.5
             wb-scenarios: 1.2.3
-            wb-suite: 1.19.5
+            wb-suite: 1.19.6
             wb-update-manager: 1.3.6
             wb-update-notifier: 0.1.0
             wb-utils: 4.25.5
@@ -167,6 +166,7 @@ releases:
             wb-bootlet-wb7x: 5.10.35-wb175-fs1.3.8-deb11-202502031351
 
             tm-cpps: '16304'
+            mplc4-wirenboard7: 1.3.6.21566
 
         wb8/bullseye:
             <<: *packages-wb-2504
@@ -180,7 +180,7 @@ releases:
 
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
             e2fsprogs-udeb: 1.46.2-2+wb1
-            task-wirenboard-wb8: 1.19.5  
+            task-wirenboard-wb8: 1.19.6  
             
             tm-cpps: '16402'
             
