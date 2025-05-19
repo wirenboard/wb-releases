@@ -1535,6 +1535,7 @@ releases:
             # WB-REF
             ref-df: 1.1.3
             refu: 1.4.4
+            refuGe: 1.4.5
             # ONOKOM
             ok_tcl1b: 0.3.6
             ok_tcl3b: 0.4.6
@@ -1675,7 +1676,8 @@ releases:
             mio: 1.6.6
             # WB-REF
             ref-df: 1.1.3
-            refu: 1.4.4
+            refu: 1.4.5
+            refuGe: 1.4.5
             # ONOKOM
             ok_tcl1b: 0.3.6
             ok_tcl3b: 0.4.6
