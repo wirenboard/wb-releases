@@ -1735,8 +1735,14 @@ suites:
         unstable: _firmwares_testing
 
         wb-2207: _firmwares_stable
-        wb-2501-cb8ea449: _firmwares_stable
+        wb-2304-70549e24: _firmwares_stable
+        wb-2307-cb8ea449: _firmwares_stable
+        wb-2307-a70ab64c: _firmwares_stable
+        wb-2407-e1d931dd: _firmwares_stable
+        wb-2407-a70ab64c: _firmwares_stable
         wb-2410-cb8ea449: _firmwares_stable
+        wb-2501-cb8ea449: _firmwares_stable
+
 
 
 targets:
