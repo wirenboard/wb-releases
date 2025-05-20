@@ -1735,6 +1735,9 @@ suites:
         unstable: _firmwares_testing
 
         wb-2207: _firmwares_stable
+        wb-2501-cb8ea449: _firmwares_stable
+        wb-2410-cb8ea449: _firmwares_stable
+
 
 targets:
     wb8/trixie:
