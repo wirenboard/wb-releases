@@ -82,8 +82,8 @@ releases:
             tailscale: 1.82.0
             task-wb-base-system: 1.19.6
             task-wb-common-pkgs: 1.19.6
-            telegraf-wb-cloud-agent: 1.29.1-wb2  
-            wb-ble-tesliot: 1.1.2  
+            telegraf-wb-cloud-agent: 1.29.1-wb2
+            wb-ble-tesliot: 1.1.2
             wb-cc2652p-flasher: 1.0.0
             wb-cloud-agent: 1.5.14
             wb-configs: 3.38.2
@@ -95,7 +95,7 @@ releases:
             wb-ec-firmware: 2.0.4
             wb-essential: 1.19.6
             wb-firmware-realtek: 1.0.3
-            wb-homeui-backend: &wb-2504_homeui_version 2.115.12
+            wb-homeui-backend: &wb-2504_homeui_version 2.115.12-wb100
             wb-hwconf-manager: 1.67.1
             wb-knxd-config: 1.1.6
             wb-mb-explorer: 1.2.8
@@ -179,10 +179,10 @@ releases:
 
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
             e2fsprogs-udeb: 1.46.2-2+wb1
-            task-wirenboard-wb8: 1.19.6  
-            
+            task-wirenboard-wb8: 1.19.6
+
             tm-cpps: '16402'
-            
+
     wb-2501:
         packages-common: &packages-wb-2501
             atecc-util: 0.4.11
