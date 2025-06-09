@@ -119,7 +119,7 @@ releases:
             wb-mqtt-metrics: 0.3.7
             wb-mqtt-opcua: 1.1.12
             wb-mqtt-rfblinds: 1.0.3
-            wb-mqtt-serial: 2.160.3
+            wb-mqtt-serial: 2.160.3-wb100
             wb-mqtt-smartbus: '1.2'
             wb-mqtt-smartweb: 1.4.10
             wb-mqtt-snmp: 1.4.0
@@ -1443,6 +1443,7 @@ releases:
             mrwl3Ge: 1.21.5
             mr6cpGe: 1.21.5
             mr2mGe: 1.21.7
+            mr2mncGe: 1.21.8
             # WB-MRWM2
             mrwm2G: 1.21.2
             mrwm2Ge: 1.21.3
@@ -1596,6 +1597,7 @@ releases:
             mrwl3Ge: 1.21.7
             mr6cpGe: 1.21.7
             mr2mGe: 1.21.7
+            mr2mncGe: 1.21.8
             # WB-MRWM2
             mrwm2G: 1.21.3
             mrwm2Ge: 1.21.3
