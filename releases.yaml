@@ -1488,6 +1488,11 @@ releases:
             msw5Gth: 4.31.14
             msw5Gpb: 4.31.14
             msv2Gth: 4.31.14
+            msw5Ge: 4.31.15
+            msw5Geth: 4.31.15
+            msw5Gepb: 4.31.15
+            msv2Ge42nlg: 4.31.15
+            msv2Geth: 4.31.15
             # WB-MD
             mdm3: 2.6.6         # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mdm3_042: 2.6.6     # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
@@ -1642,6 +1647,11 @@ releases:
             msw5Gth: 4.31.14
             msw5Gpb: 4.31.14
             msv2Gth: 4.31.14
+            msw5Ge: 4.31.15
+            msw5Geth: 4.31.15
+            msw5Gepb: 4.31.15
+            msv2Ge42nlg: 4.31.15
+            msv2Geth: 4.31.15
             # WB-MD
             mdm3: 2.6.6         # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mdm3_042: 2.6.6     # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
