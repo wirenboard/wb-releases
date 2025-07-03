@@ -1549,6 +1549,8 @@ releases:
             ref-dfGe: 1.1.4
             refu: 1.4.7
             refuGe: 1.4.7
+            # WB-UPS
+            ups-v3: 1.0.0
             # ONOKOM
             ok_tcl1b: 0.3.6
             ok_tcl3b: 0.4.6
@@ -1708,6 +1710,8 @@ releases:
             ref-dfGe: 1.1.4
             refu: 1.4.7
             refuGe: 1.4.7
+            # WB-UPS
+            ups-v3: 1.0.0
             # ONOKOM
             ok_tcl1b: 0.5.0
             ok_tcl3b: 0.4.6
