@@ -1551,6 +1551,7 @@ releases:
             refuGe: 1.4.7
             # WB-UPS
             ups-v3: 1.0.1
+            ups-v3-dlg2: 1.0.2
             # ONOKOM
             ok_tcl1b: 0.5.2
             ok_tcl3b: 0.5.2
@@ -1712,6 +1713,7 @@ releases:
             refuGe: 1.4.7
             # WB-UPS
             ups-v3: 1.0.1
+            ups-v3-dlg2: 1.0.2
             # ONOKOM
             ok_tcl1b: 0.5.2
             ok_tcl3b: 0.5.2
