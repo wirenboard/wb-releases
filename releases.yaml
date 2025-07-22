@@ -28,6 +28,9 @@ releases:
             libcom-err2: 1.46.2-2+wb1
             libext2fs-dev: 1.46.2-2+wb1
             libext2fs2: 1.46.2-2+wb1
+            libmbim-glib4: 1.28.0-1~bpo11+1
+            libmbim-proxy: 1.28.0-1~bpo11+1
+            libmbim-utils: 1.28.0-1~bpo11+1
             libmm-glib-dev: 1.20.0-1~bpo11+1-wb108
             libmm-glib-doc: 1.20.0-1~bpo11+1-wb108
             libmm-glib0: 1.20.0-1~bpo11+1-wb108
@@ -39,6 +42,10 @@ releases:
             libmosquittopp1: 2.0.20-1-wb102
             libnm-dev: 1.42.4-1~bpo11+1-wb103
             libnm0: 1.42.4-1~bpo11+1-wb103
+            libqmi-glib5: 1.32.0-1~bpo11+1
+            libqmi-proxy: 1.32.0-1~bpo11+1
+            libqmi-utils: 1.32.0-1~bpo11+1
+            libqrtr-glib0: 1.2.2-1~bpo11+1
             libsigrok4: 0.5.2-4
             libsigrokdecode4: 0.5.3-4
             libss2: 1.46.2-2+wb1
