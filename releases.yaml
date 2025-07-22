@@ -2065,6 +2065,14 @@ staging:
         - "zbw"
         - "zigbee2mqtt*"
 
+        - "libmbim-glib4"  # bullseye backport
+        - "libmbim-proxy"  # bullseye backport
+        - "libmbim-utils"  # bullseye backport
+        - "libqmi-glib5"   # bullseye backport
+        - "libqmi-proxy"   # bullseye backport
+        - "libqmi-utils"   # bullseye backport
+        - "libqrtr-glib0"  # bullseye backport
+
         - "modemmanager*"
         - "libmm*"
         - "gir*-modemmanager*"
