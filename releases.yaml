@@ -286,7 +286,7 @@ releases:
             wb-ble-tesliot: 1.1.2
             wb-cc2652p-flasher: 1.0.0
             wb-cloud-agent: 1.5.14
-            wb-configs: 3.41.0
+            wb-configs: 3.38.3-wb100
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.10.0
             wb-device-manager: 1.18.2
