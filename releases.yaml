@@ -1950,14 +1950,15 @@ suites:
     wb8/bullseye:
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
-        stable: wb-2504
+        stable: wb-2507
 
     wb7/bullseye:
-        stable: wb-2504
+        stable: wb-2507
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
+
     wb6/bullseye:
-        stable: wb-2504
+        stable: wb-2507
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
 
@@ -1965,10 +1966,12 @@ suites:
         stable: wb-2207-bullseye-transition
         testing: wb-2207-bullseye-transition
         unstable: wb-2207-bullseye-transition
+
     wb6/stretch:
         stable: wb-2207-bullseye-transition
         testing: wb-2207-bullseye-transition
         unstable: wb-2207-bullseye-transition
+
     wb5/stretch:
         stable: wb-2207
         testing: wb-2207
