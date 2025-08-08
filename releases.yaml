@@ -1759,7 +1759,7 @@ releases:
             ups-v3: 1.0.1
             ups-v3-dlg2: 1.0.2
             # Component firmwares
-            co2_sens_ns8: MF1.03D
+            co2_sens_ns8: MF1.01D
             # ONOKOM
             ok_tcl1b: 0.5.2
             ok_tcl3b: 0.5.2
