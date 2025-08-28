@@ -1759,7 +1759,7 @@ releases:
             ups-v3: 1.0.1
             ups-v3-dlg2: 1.0.2
             # Component firmwares
-            co2_sens_ns8: MF1.01D
+            co2_sens_ns8: MF1.03D
             # ONOKOM
             ok_tcl1b: 0.5.2
             ok_tcl3b: 0.5.2
@@ -1787,36 +1787,36 @@ releases:
             # WB-MR
             mr2m: 1.15.2        # на данном таргете на версиях старше 1.15.2 прошивка перестала помещаться в 12K (16K FLASH - 4K bootloader)
             mr2m_k6: 1.20.4     # на данном таргете на версиях старше 1.20.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mr2mG: 1.21.7
+            mr2mG: 1.22.0
             mr3: 1.20.4         # на данном таргете на версиях старше 1.20.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mr3G: 1.21.7
+            mr3G: 1.22.0
             mr6: 1.20.4         # на данном таргете на версиях старше 1.20.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mr6_042: 1.20.4     # на данном таргете на версиях старше 1.20.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mr6G: 1.21.7
+            mr6G: 1.22.0
             mr6c: 1.20.4        # на данном таргете на версиях старше 1.20.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mr6cG: 1.21.7
+            mr6cG: 1.22.0
             mr6c_042: 1.20.4    # на данном таргете на версиях старше 1.20.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mr6cu: 1.21.7
-            mr6cu_042: 1.21.7
-            mr6cuG: 1.21.7
-            mr6cpG: 1.21.7
+            mr6cu: 1.22.0
+            mr6cu_042: 1.22.0
+            mr6cuG: 1.22.0
+            mr6cpG: 1.22.0
             mrps6: 1.20.4       # на данном таргете на версиях старше 1.20.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mrps6G: 1.21.7
+            mrps6G: 1.22.0
             mrwl3: 1.20.4       # на данном таргете на версиях старше 1.20.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mrwl3G: 1.21.7
+            mrwl3G: 1.22.0
             mrwl3_042: 1.20.4   # на данном таргете на версиях старше 1.20.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mr3Ge: 1.21.7
-            mr6Ge: 1.21.7
-            mr6cGe: 1.21.7
-            mr6cuGe: 1.21.7
-            mrps6Ge: 1.21.7
-            mrwl3Ge: 1.21.7
-            mr6cpGe: 1.21.7
-            mr2mGe: 1.21.7
-            mr2mncGe: 1.21.8
+            mr3Ge: 1.22.0
+            mr6Ge: 1.22.0
+            mr6cGe: 1.22.0
+            mr6cuGe: 1.22.0
+            mrps6Ge: 1.22.0
+            mrwl3Ge: 1.22.0
+            mr6cpGe: 1.22.0
+            mr2mGe: 1.22.0
+            mr2mncGe: 1.22.0
             # WB-MRWM2
-            mrwm2G: 1.21.3
-            mrwm2Ge: 1.21.3
+            mrwm2G: 1.22.0
+            mrwm2Ge: 1.22.0
             # WB-MWAC
             wbmwac: 1.19.2      # на данном таргете на версиях старше 1.19.2 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             wbmwac_042: 1.19.2  # на данном таргете на версиях старше 1.19.2 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
@@ -1832,9 +1832,9 @@ releases:
             mai2ccG3: 4.31.14
             # WB-MIR
             mir: 4.29.11        # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mir64: 4.32.2
-            mir64_gd: 4.32.2
-            mir_gdf8: 4.32.2
+            mir64: 4.33.0
+            mir64_gd: 4.33.0
+            mir_gdf8: 4.33.0
             # WB-MS
             ms-33: 4.32.0
             msv2-4.0: 4.32.0
@@ -1898,9 +1898,9 @@ releases:
             ledG: 3.5.6
             ledGe: 3.5.6
             # WB-MCM
-            mcm8: 1.6.8
-            mcm8G: 1.6.8
-            mcm8Ge: 1.6.8
+            mcm8: 1.7.0
+            mcm8G: 1.7.0
+            mcm8Ge: 1.7.0
             # WB-MAO
             mao4: 2.4.4         # на данном таргете на версиях старше 2.4.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mao4G: 2.6.4
@@ -1912,8 +1912,8 @@ releases:
             wb-mai6: 2.1.4
             wb-mai6-15: 2.1.4
             # WB-MIO
-            mio: 1.6.7
-            mioGe: 1.6.7
+            mio: 1.7.0
+            mioGe: 1.7.0
             # WB-REF
             ref-df: 1.1.4
             ref-dfGe: 1.1.4
