@@ -160,24 +160,24 @@ releases:
         wb6/bullseye:
             <<: *packages-wb-2507
 
-            linux-libc-dev: 5.10.35-wb178
-            linux-headers-wb6: 5.10.35-wb178
-            linux-image-wb6: 5.10.35-wb178
+            linux-libc-dev: 5.10.35-wb180
+            linux-headers-wb6: 5.10.35-wb180
+            linux-image-wb6: 5.10.35-wb180
             u-boot-tools-wb: 2:2021.10+wb1.7.6
             u-boot-wb6: 2:2021.10+wb1.7.6
-            wb-bootlet-wb6x: 5.10.35-wb178-fs1.4.0-deb11-202507181844
+            wb-bootlet-wb6x: 5.10.35-wb180-fs1.5.4-deb11-202508111043
 
             tm-cpps: '16304'
 
         wb7/bullseye:
             <<: *packages-wb-2507
 
-            linux-libc-dev: 5.10.35-wb178
-            linux-headers-wb7: 5.10.35-wb178
-            linux-image-wb7: 5.10.35-wb178
+            linux-libc-dev: 5.10.35-wb180
+            linux-headers-wb7: 5.10.35-wb180
+            linux-image-wb7: 5.10.35-wb180
             u-boot-tools-wb: 2:2021.10+wb1.7.6
             u-boot-wb7: 2:2021.10+wb1.7.6
-            wb-bootlet-wb7x: 5.10.35-wb178-fs1.4.0-deb11-202507181844
+            wb-bootlet-wb7x: 5.10.35-wb180-fs1.5.4-deb11-202508111043
 
             tm-cpps: '16304'
             mplc4-wirenboard7: 1.3.6.21566
