@@ -185,9 +185,9 @@ releases:
         wb8/bullseye:
             <<: *packages-wb-2507
 
-            linux-libc-dev: 6.8.0-wb140
-            linux-headers-wb8: 6.8.0-wb140
-            linux-image-wb8: 6.8.0-wb140
+            linux-libc-dev: 6.8.0-wb144
+            linux-headers-wb8: 6.8.0-wb144
+            linux-image-wb8: 6.8.0-wb144
             u-boot-tools-wb: 2:2024.01+wb1.0.4
             u-boot-wb8: 2:2024.01+wb1.0.4
             wb-bootlet-wb8x: 6.8.0-wb140-fs1.4.0-deb11-202507211424
