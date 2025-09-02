@@ -1920,8 +1920,8 @@ releases:
             refu: 1.4.7
             refuGe: 1.4.7
             # WB-UPS
-            ups-v3: 1.0.1
-            ups-v3-dlg2: 1.0.2
+            ups-v3: 1.1.0
+            ups-v3-dlg2: 1.1.0
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
