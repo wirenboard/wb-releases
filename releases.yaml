@@ -169,7 +169,7 @@ releases:
 
             tm-cpps: '16304'
 
-        wb7/bullseye:
+        wb7/bullseye: &packages-wb-2507-wb7-bullseye
             <<: *packages-wb-2507
 
             linux-libc-dev: 5.10.35-wb180
@@ -182,7 +182,7 @@ releases:
             tm-cpps: '16304'
             mplc4-wirenboard7: 1.3.6.21566
 
-        wb8/bullseye:
+        wb8/bullseye: &packages-wb-2507-wb8-bullseye
             <<: *packages-wb-2507
 
             linux-libc-dev: 6.8.0-wb140
@@ -197,6 +197,16 @@ releases:
             task-wirenboard-wb8: 1.19.8
 
             tm-cpps: '16402'
+
+    wb-2507-e1d931dd:
+        wb7/bullseye:
+            <<: *packages-wb-2507-wb7-bullseye
+            wb-mqtt-homeui: 2.117.11-e1d931dd-001
+            wb-homeui-backend: 2.117.11-e1d931dd-001
+        wb8/bullseye:
+            <<: *packages-wb-2507-wb8-bullseye
+            wb-mqtt-homeui: 2.117.11-e1d931dd-001
+            wb-homeui-backend: 2.117.11-e1d931dd-001
 
     wb-2504:
         packages-common: &packages-wb-2504
