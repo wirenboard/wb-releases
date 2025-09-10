@@ -202,12 +202,12 @@ releases:
     wb-2507-e1d931dd:
         wb7/bullseye:
             <<: *packages-wb-2507-wb7-bullseye
-            wb-mqtt-homeui: 2.117.11-e1d931dd-001
-            wb-homeui-backend: 2.117.11-e1d931dd-001
+            wb-mqtt-homeui: 2.117.11-e1d931dd-002
+            wb-homeui-backend: 2.117.11-e1d931dd-002
         wb8/bullseye:
             <<: *packages-wb-2507-wb8-bullseye
-            wb-mqtt-homeui: 2.117.11-e1d931dd-001
-            wb-homeui-backend: 2.117.11-e1d931dd-001
+            wb-mqtt-homeui: 2.117.11-e1d931dd-002
+            wb-homeui-backend: 2.117.11-e1d931dd-002
 
     wb-2504:
         packages-common: &packages-wb-2504
