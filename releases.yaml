@@ -1772,25 +1772,34 @@ releases:
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
-            ok_tcl1b: 0.5.2
-            ok_tcl3b: 0.5.2
-            ok_tcl3c: 0.5.0
-            ok_aux1b: 0.5.2
-            ok_dk1b: 0.5.2
-            ok_dk5b: 0.5.2
-            ok_gr1b: 0.5.2
-            ok_gr3b: 0.5.2
-            ok_gr3c: 0.5.2
-            ok_hr1b: 0.5.2
-            ok_hs3b: 0.5.2
-            ok_hs5b: 0.5.2
+            ok_tcl1b: 0.5.4
+            ok_tcl3b: 0.5.4
+            ok_tcl3c: 0.5.4
+            ok_tcl6b: 0.5.4
+            ok_aux1b: 0.5.4
+            ok_dk1b: 0.5.4
+            ok_dk5b: 0.5.4
+            ok_gr1b: 0.5.4
+            ok_gr3b: 0.5.4
+            ok_gr3c: 0.5.4
+            ok_grp3b: 0.5.4
+            ok_grp3c: 0.5.4
+            ok_hr1b: 0.5.4
+            ok_hs3b: 0.5.4
+            ok_hs3c: 0.5.4
+            ok_hs5b: 0.5.4
             ok_hs6b: 0.4.5
+            ok_hsvrfb: 0.5.4
             ok_md1b: 0.4.6
-            ok_md3b: 0.5.2
-            ok_mdvrfb: 0.5.2
-            ok_me1b: 0.5.2
+            ok_md3b: 0.5.4
+            ok_md3b: 0.5.4
+            ok_mdvrfb: 0.5.4
+            ok_mdvrfc: 0.5.4
+            ok_cgvrfb: 0.5.4
+            ok_cgvrfc: 0.5.4
+            ok_me1b: 0.5.4
             ok_tn1b: 0.4.7
-            ok_ht1b: 0.5.2
+            ok_ht1b: 0.5.4
             ok_mh2b: 0.5.2
 
     _firmwares_testing:
@@ -1936,25 +1945,34 @@ releases:
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
-            ok_tcl1b: 0.5.2
-            ok_tcl3b: 0.5.2
-            ok_tcl3c: 0.5.0
-            ok_aux1b: 0.5.2
-            ok_dk1b: 0.5.2
-            ok_dk5b: 0.5.2
-            ok_gr1b: 0.5.2
-            ok_gr3b: 0.5.2
-            ok_gr3c: 0.5.2
-            ok_hr1b: 0.5.2
-            ok_hs3b: 0.5.2
-            ok_hs5b: 0.5.2
+            ok_tcl1b: 0.5.4
+            ok_tcl3b: 0.5.4
+            ok_tcl3c: 0.5.4
+            ok_tcl6b: 0.5.4
+            ok_aux1b: 0.5.4
+            ok_dk1b: 0.5.4
+            ok_dk5b: 0.5.4
+            ok_gr1b: 0.5.4
+            ok_gr3b: 0.5.4
+            ok_gr3c: 0.5.4
+            ok_grp3b: 0.5.4
+            ok_grp3c: 0.5.4
+            ok_hr1b: 0.5.4
+            ok_hs3b: 0.5.4
+            ok_hs3c: 0.5.4
+            ok_hs5b: 0.5.4
             ok_hs6b: 0.4.5
+            ok_hsvrfb: 0.5.4
             ok_md1b: 0.4.6
-            ok_md3b: 0.5.2
-            ok_mdvrfb: 0.5.2
-            ok_me1b: 0.5.2
+            ok_md3b: 0.5.4
+            ok_md3b: 0.5.4
+            ok_mdvrfb: 0.5.4
+            ok_mdvrfc: 0.5.4
+            ok_cgvrfb: 0.5.4
+            ok_cgvrfc: 0.5.4
+            ok_me1b: 0.5.4
             ok_tn1b: 0.4.7
-            ok_ht1b: 0.5.2
+            ok_ht1b: 0.5.4
             ok_mh2b: 0.5.2
 
 suites:
