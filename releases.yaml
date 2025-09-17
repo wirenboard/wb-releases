@@ -1769,6 +1769,8 @@ releases:
             # WB-UPS
             ups-v3: 1.0.1
             ups-v3-dlg2: 1.0.2
+            # WB-MGE
+            mge_v3: 1.0.0-rc6
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
@@ -1942,6 +1944,8 @@ releases:
             # WB-UPS
             ups-v3: 1.1.0
             ups-v3-dlg2: 1.1.0
+            # WB-MGE
+            mge_v3: 1.0.0-rc6
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
