@@ -95,7 +95,7 @@ releases:
             tailscale: 1.84.0
             task-wb-base-system: 1.19.8
             task-wb-common-pkgs: 1.19.8
-            telegraf-wb-cloud-agent: 1.29.1-wb2
+            telegraf-wb-cloud-agent: 1.29.1-wb3
             wb-ble-tesliot: 1.1.3
             wb-cc2652p-flasher: 1.0.0
             wb-cloud-agent: 1.6.5
