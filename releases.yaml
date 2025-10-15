@@ -299,7 +299,7 @@ releases:
             tailscale: 1.84.0
             task-wb-base-system: 1.19.6
             task-wb-common-pkgs: 1.19.6
-            telegraf-wb-cloud-agent: 1.29.1-wb3
+            telegraf-wb-cloud-agent: 1.29.1-wb2
             wb-ble-tesliot: 1.1.2
             wb-cc2652p-flasher: 1.0.0
             wb-cloud-agent: 1.5.14
@@ -491,7 +491,7 @@ releases:
             tailscale: 1.82.0
             task-wb-base-system: 1.19.0
             task-wb-common-pkgs: 1.19.0
-            telegraf-wb-cloud-agent: 1.29.1-wb3
+            telegraf-wb-cloud-agent: 1.29.1-wb2
             wb-ble-tesliot: 1.1.1
             wb-cc2652p-flasher: 1.0.0
             wb-cloud-agent: 1.5.12
@@ -704,7 +704,7 @@ releases:
             tailscale: 1.78.1
             task-wb-base-system: 1.19.0
             task-wb-common-pkgs: 1.19.0
-            telegraf-wb-cloud-agent: 1.29.1-wb3
+            telegraf-wb-cloud-agent: 1.29.1-wb2
             wb-ble-tesliot: 1.1.1
             wb-cc2652p-flasher: 1.0.0
             wb-cloud-agent: 1.5.11
@@ -922,7 +922,7 @@ releases:
             tailscale: 1.76.6
             task-wb-base-system: 1.19.0
             task-wb-common-pkgs: 1.19.0
-            telegraf-wb-cloud-agent: 1.29.1-wb3
+            telegraf-wb-cloud-agent: 1.29.1-wb2
             u-boot-tools-wb: 2:2021.10+wb1.7.3
             wb-ble-tesliot: 1.1.1
             wb-cc2652p-flasher: 1.0.0
