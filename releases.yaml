@@ -598,6 +598,15 @@ releases:
 
             tm-cpps: '16402'
 
+    wb-2507-cb8ea449:
+        wb8/bullseye:
+            <<: *packages-wb-2507-wb8-bullseye
+
+            wb-mqtt-homeui: 2.117.11-wb101-cb8ea449
+            wb-utils: 4.26.2-cb8ea449
+            wb-mqtt-serial: 2.180.2-wb101-cb8ea449
+            wb-suite: 1.19.8-cb8ea449
+
     wb-2501-cb8ea449:
         wb7/bullseye:
             <<: *packages-wb-2501
@@ -2026,6 +2035,7 @@ suites:
         wb-2407-a70ab64c: _firmwares_stable
         wb-2410-cb8ea449: _firmwares_stable
         wb-2501-cb8ea449: _firmwares_stable
+        wb-2507-cb8ea449: _firmwares_stable
 
 
 
