@@ -603,6 +603,7 @@ releases:
             <<: *packages-wb-2507-wb8-bullseye
 
             wb-mqtt-homeui: 2.117.11-wb101-cb8ea449
+            wb-homeui-backend: 2.117.11-wb101-cb8ea449
             wb-utils: 4.26.2-cb8ea449
             wb-mqtt-serial: 2.180.2-wb101-cb8ea449
             wb-suite: 1.19.8-cb8ea449
