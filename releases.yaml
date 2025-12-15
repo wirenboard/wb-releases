@@ -1782,7 +1782,7 @@ releases:
             ups-v3: 1.1.0
             ups-v3-dlg2: 1.1.0
             # WB-MGE
-            mge_v3: 1.0.3
+            mge_v3: 1.0.4
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
@@ -1958,7 +1958,7 @@ releases:
             ups-v3: 1.1.0
             ups-v3-dlg2: 1.1.0
             # WB-MGE
-            mge_v3: 1.0.3
+            mge_v3: 1.0.4
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
