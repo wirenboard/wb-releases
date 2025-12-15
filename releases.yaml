@@ -1779,8 +1779,8 @@ releases:
             refu: 1.4.7
             refuGe: 1.4.7
             # WB-UPS
-            ups-v3: 1.1.0
-            ups-v3-dlg2: 1.1.0
+            ups-v3: 1.2.0
+            ups-v3-dlg2: 1.2.0
             # WB-MGE
             mge_v3: 1.0.4
             # Component firmwares
@@ -1955,8 +1955,8 @@ releases:
             refu: 1.4.7
             refuGe: 1.4.7
             # WB-UPS
-            ups-v3: 1.1.0
-            ups-v3-dlg2: 1.1.0
+            ups-v3: 1.2.0
+            ups-v3-dlg2: 1.2.0
             # WB-MGE
             mge_v3: 1.0.4
             # Component firmwares
