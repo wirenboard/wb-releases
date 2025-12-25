@@ -1771,8 +1771,8 @@ releases:
             wb-mai6-15: 2.1.5
             wb-mai6-15Ge: 2.2.1
             # WB-MIO
-            mio: 1.7.0
-            mioGe: 1.7.0
+            mio: 1.7.1
+            mioGe: 1.7.1
             # WB-REF
             ref-df: 1.1.4
             ref-dfGe: 1.1.4
