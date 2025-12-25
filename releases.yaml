@@ -1950,10 +1950,10 @@ releases:
             mio: 1.7.1
             mioGe: 1.7.1
             # WB-REF
-            ref-df: 1.1.4
-            ref-dfGe: 1.1.4
-            refu: 1.4.7
-            refuGe: 1.4.7
+            ref-df: 1.2.0
+            ref-dfGe: 1.2.0
+            refu: 1.5.0
+            refuGe: 1.5.0
             # WB-UPS
             ups-v3: 1.3.0
             ups-v3-dlg2: 1.3.0
