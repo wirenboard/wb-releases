@@ -132,7 +132,7 @@ releases:
             wb-mqtt-metrics: 0.3.7
             wb-mqtt-opcua: 1.1.12
             wb-mqtt-rfblinds: 1.0.4
-            wb-mqtt-serial: 2.180.2-wb103
+            wb-mqtt-serial: 2.180.2-wb104
             wb-mqtt-smartbus: '1.2'
             wb-mqtt-smartweb: 1.4.11
             wb-mqtt-snmp: 1.4.0
@@ -336,7 +336,7 @@ releases:
             wb-mqtt-metrics: 0.3.7
             wb-mqtt-opcua: 1.1.12
             wb-mqtt-rfblinds: 1.0.3
-            wb-mqtt-serial: 2.160.3-wb102
+            wb-mqtt-serial: 2.160.3-wb103
             wb-mqtt-smartbus: '1.2'
             wb-mqtt-smartweb: 1.4.10
             wb-mqtt-snmp: 1.4.0
