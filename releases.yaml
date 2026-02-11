@@ -99,8 +99,8 @@ releases:
             sigrok-cli: 0.7.2-1
             ss-dev: 2.0-1.46.2-2+wb1
             tailscale: 1.94.1
-            task-wb-base-system: 1.20.5
-            task-wb-common-pkgs: 1.20.5
+            task-wb-base-system: 1.20.6
+            task-wb-common-pkgs: 1.20.6
             telegraf-wb-cloud-agent: 1.29.1-wb4
             wb-ble-tesliot: 1.1.3
             wb-cc2652p-flasher: 1.1.0
@@ -112,7 +112,7 @@ releases:
             wb-diag-collect: 1.9.4
             wb-dt-overlays: 1.7.0
             wb-ec-firmware: 2.0.5
-            wb-essential: 1.20.5
+            wb-essential: 1.20.6
             wb-firmware-realtek: 1.0.4
             wb-homeui-backend: 2.172.0
             wb-hwconf-manager: 1.71.0
@@ -151,7 +151,7 @@ releases:
             wb-rules: 2.38.5
             wb-rules-system: 1.13.1
             wb-scenarios: 1.6.4
-            wb-suite: 1.20.5
+            wb-suite: 1.20.6
             wb-update-manager: 1.3.7
             wb-update-notifier: 0.1.0
             wb-utils: 4.27.5
@@ -200,8 +200,8 @@ releases:
             u-boot-wb8: 2:2024.01+wb1.0.6
             u-boot-tools-wb: 2:2024.01+wb1.0.6
             tm-cpps: '16402'
-            wb-hdmi: 1.20.5
-            task-wirenboard-wb8: 1.20.5
+            wb-hdmi: 1.20.6
+            task-wirenboard-wb8: 1.20.6
 
     wb-2507:
         packages-common: &packages-wb-2507
