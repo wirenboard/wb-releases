@@ -136,7 +136,7 @@ releases:
             wb-mqtt-logs: 1.5.5
             wb-mqtt-mbgate: 1.8.8
             wb-mqtt-metrics: 0.3.8
-            wb-mqtt-opcua: 1.2.1
+            wb-mqtt-opcua: 1.2.1  # TODO: fix bug before stable
             wb-mqtt-rfblinds: 1.0.4
             wb-mqtt-serial: 2.224.0
             wb-mqtt-smartbus: '1.2'
