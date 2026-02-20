@@ -1767,9 +1767,9 @@ releases:
             map3eG16e2: 2.12.2
             # WB-MRGB
             mrgbw: 3.3.4        # на данном таргете на версиях старше 3.3.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mrgbwG: 3.6.0
-            ledG: 3.6.0
-            ledGe: 3.6.0
+            mrgbwG: 3.6.1
+            ledG: 3.6.1
+            ledGe: 3.6.1
             # WB-MCM
             mcm8: 1.8.0
             mcm8G: 1.8.0
