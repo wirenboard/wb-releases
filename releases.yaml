@@ -614,11 +614,12 @@ releases:
         wb8/bullseye:
             <<: *packages-wb-2507-wb8-bullseye
 
-            custom-settings-cb8ea449: 1.1.2
+            custom-settings-cb8ea449: 1.1.4
+            wb-hwconf-manager: 1.67.1-cb8ea449-wb8-3
             wb-mqtt-homeui: 2.117.11-wb101-cb8ea449
             wb-homeui-backend: 2.117.11-wb101-cb8ea449
             wb-utils: 4.26.2-cb8ea449-1
-            wb-mqtt-serial: 2.180.2-wb101-cb8ea449-wb8
+            wb-mqtt-serial: 2.180.2-wb101-cb8ea449-wb8-1
             wb-suite: 1.19.8-cb8ea449
 
     wb-2501-cb8ea449:
