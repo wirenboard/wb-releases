@@ -114,7 +114,7 @@ releases:
             wb-essential: 1.20.6
             wb-firmware-realtek: 1.0.4
             wb-homeui-backend: 2.172.0-wb100
-            wb-hwconf-manager: 1.71.0
+            wb-hwconf-manager: 1.71.1
             wb-knxd-config: 1.1.6
             wb-mb-explorer: 1.2.9
             wb-mcu-fw-flasher: 1.6.1
