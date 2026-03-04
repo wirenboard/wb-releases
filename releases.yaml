@@ -192,10 +192,10 @@ releases:
 
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
             e2fsprogs-udeb: 1.46.2-2+wb1
-            linux-image-wb8: 6.8.0-wb150
-            linux-headers-wb8: 6.8.0-wb150
-            linux-libc-dev: 6.8.0-wb150
-            wb-bootlet-wb8x: 6.8.0-wb150-fs1.5.4-deb11-202601190209
+            linux-image-wb8: 6.8.0-wb153
+            linux-headers-wb8: 6.8.0-wb153
+            linux-libc-dev: 6.8.0-wb153
+            wb-bootlet-wb8x: 6.8.0-wb153-fs1.5.4-deb11-202601190209
             u-boot-wb8: 2:2024.01+wb1.0.6
             u-boot-tools-wb: 2:2024.01+wb1.0.6
             tm-cpps: '16402'
