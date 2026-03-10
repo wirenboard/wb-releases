@@ -1951,9 +1951,9 @@ releases:
             ledG: 3.7.0
             ledGe: 3.7.0
             # WB-MCM
-            mcm8: 1.8.0
-            mcm8G: 1.8.0
-            mcm8Ge: 1.8.0
+            mcm8: 1.8.1
+            mcm8G: 1.8.1
+            mcm8Ge: 1.8.1
             # WB-MAO
             mao4: 2.4.4         # на данном таргете на версиях старше 2.4.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mao4G: 2.8.0
