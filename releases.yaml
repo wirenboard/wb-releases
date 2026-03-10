@@ -1730,9 +1730,9 @@ releases:
             msw5Gth: 4.35.1
             msw5Gpb: 4.35.1
             msv2Gth: 4.35.1
-            msw5Ge: 4.35.2
-            msw5Geth: 4.35.1
-            msw5Gepb: 4.35.1
+            msw5Ge: 4.35.3
+            msw5Geth: 4.35.3
+            msw5Gepb: 4.35.3
             msv2Ge42nlg: 4.35.1
             msv2Geth: 4.35.1
             # WB-MD
@@ -1909,9 +1909,9 @@ releases:
             msw5Gth: 4.35.1
             msw5Gpb: 4.35.1
             msv2Gth: 4.35.1
-            msw5Ge: 4.35.2
-            msw5Geth: 4.35.1
-            msw5Gepb: 4.35.1
+            msw5Ge: 4.35.3
+            msw5Geth: 4.35.3
+            msw5Gepb: 4.35.3
             msv2Ge42nlg: 4.35.1
             msv2Geth: 4.35.1
             # WB-MD
