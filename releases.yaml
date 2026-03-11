@@ -227,9 +227,9 @@ releases:
             hubpower: '1.0'
             intrahouse: 5.17.67
             intrascada: 5.17.67
-            knxd: 0.14.51-1
-            knxd-dev: 0.14.51-1
-            knxd-tools: 0.14.51-1
+            knxd: 0.14.74-1+wb100
+            knxd-dev: 0.14.74-1+wb100
+            knxd-tools: 0.14.74-1+wb100
             libateccssl1.1: 0.2.6
             libcom-err2: 1.46.2-2+wb1
             libext2fs-dev: 1.46.2-2+wb1
