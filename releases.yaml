@@ -2017,17 +2017,17 @@ suites:
         staging: "@staging.latest"
 
     wb8/bullseye:
-        stable: wb-2507
+        stable: wb-2602
         testing: wb-2602
         unstable: "@unstable.latest"
 
     wb7/bullseye:
-        stable: wb-2507
+        stable: wb-2602
         testing: wb-2602
         unstable: "@unstable.latest"
 
     wb6/bullseye:
-        stable: wb-2507
+        stable: wb-2602
         testing: wb-2602
         unstable: "@unstable.latest"
 
