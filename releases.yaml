@@ -113,7 +113,7 @@ releases:
             wb-ec-firmware: 2.0.5
             wb-essential: 1.20.6
             wb-firmware-realtek: 1.0.4
-            wb-homeui-backend: 2.172.0-wb101
+            wb-homeui-backend: 2.172.0-wb102
             wb-hwconf-manager: 1.71.1
             wb-knxd-config: 1.1.6
             wb-mb-explorer: 1.2.9
@@ -130,7 +130,7 @@ releases:
             wb-mqtt-db: 2.9.1
             wb-mqtt-db-cli: 1.4.8
             wb-mqtt-gpio: 2.16.3
-            wb-mqtt-homeui: 2.172.0-wb101
+            wb-mqtt-homeui: 2.172.0-wb102
             wb-mqtt-iec104: 1.1.14
             wb-mqtt-knx: 1.13.4
             wb-mqtt-logs: 1.5.5
