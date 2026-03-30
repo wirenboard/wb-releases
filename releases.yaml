@@ -104,7 +104,7 @@ releases:
             wb-ble-tesliot: 1.1.3
             wb-cc2652p-flasher: 1.1.0
             wb-cloud-agent: 1.6.12
-            wb-configs: 3.49.1
+            wb-configs: 3.50.0
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.10.1
             wb-device-manager: 1.25.4
@@ -153,7 +153,7 @@ releases:
             wb-suite: 1.20.6
             wb-update-manager: 1.3.7
             wb-update-notifier: 0.1.0
-            wb-utils: 4.27.5
+            wb-utils: 4.27.6
             wb-welrok: 0.0.20
             wb-zigbee2mqtt: 1.4.1
             webif: '1.5'
@@ -182,8 +182,8 @@ releases:
             linux-headers-wb7: 5.10.35-wb181
             linux-libc-dev: 5.10.35-wb181
             wb-bootlet-wb7x: 5.10.35-wb181-fs1.5.4-deb11-202601190208
-            u-boot-wb7: 2:2021.10+wb1.7.8
-            u-boot-tools-wb: 2:2021.10+wb1.7.8
+            u-boot-wb7: 2:2025.04+wb1.0.0
+            u-boot-tools-wb: 2:2025.04+wb1.0.0
             tm-cpps: '16304'
             mplc4-wirenboard7: 1.3.6.21566
 
@@ -196,8 +196,8 @@ releases:
             linux-headers-wb8: 6.8.0-wb153
             linux-libc-dev: 6.8.0-wb153
             wb-bootlet-wb8x: 6.8.0-wb153-fs1.5.4-deb11-202601190209
-            u-boot-wb8: 2:2024.01+wb1.0.6
-            u-boot-tools-wb: 2:2024.01+wb1.0.6
+            u-boot-wb8: 2:2025.04+wb1.0.0
+            u-boot-tools-wb: 2:2025.04+wb1.0.0
             tm-cpps: '16402'
             wb-hdmi: 1.20.6
             task-wirenboard-wb8: 1.20.6
