@@ -182,8 +182,8 @@ releases:
             linux-headers-wb7: 5.10.35-wb181
             linux-libc-dev: 5.10.35-wb181
             wb-bootlet-wb7x: 5.10.35-wb181-fs1.5.4-deb11-202601190208
-            u-boot-wb7: 2:2021.10+wb1.7.8
-            u-boot-tools-wb: 2:2021.10+wb1.7.8
+            u-boot-wb7: 2:2025.04+wb1.0.0
+            u-boot-tools-wb: 2:2025.04+wb1.0.0
             tm-cpps: '16304'
             mplc4-wirenboard7: 1.3.6.21566
 
@@ -196,8 +196,8 @@ releases:
             linux-headers-wb8: 6.8.0-wb153
             linux-libc-dev: 6.8.0-wb153
             wb-bootlet-wb8x: 6.8.0-wb153-fs1.5.4-deb11-202601190209
-            u-boot-wb8: 2:2024.01+wb1.0.6
-            u-boot-tools-wb: 2:2024.01+wb1.0.6
+            u-boot-wb8: 2:2025.04+wb1.0.0
+            u-boot-tools-wb: 2:2025.04+wb1.0.0
             tm-cpps: '16402'
             wb-hdmi: 1.20.6
             task-wirenboard-wb8: 1.20.6
