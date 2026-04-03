@@ -1713,6 +1713,10 @@ releases:
             msv2-4.0_gd: 4.35.1
             msv2G42: 4.35.1
             msv2G42nlg: 4.35.1
+            msv2Gth: 4.35.1
+            msv2Ge42nlg: 4.35.1
+            msv2Geth: 4.35.1
+            # WB-MSW
             msw3-48mh: 4.35.1
             msw3-48mh30: 4.29.11    # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             msw3-49: 4.35.1
@@ -1729,12 +1733,9 @@ releases:
             msw5GL: 4.35.2
             msw5Gth: 4.35.1
             msw5Gpb: 4.35.1
-            msv2Gth: 4.35.1
             msw5Ge: 4.35.3
             msw5Geth: 4.35.3
             msw5Gepb: 4.35.3
-            msv2Ge42nlg: 4.35.1
-            msv2Geth: 4.35.1
             # WB-MD
             mdm3: 2.6.6         # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mdm3_042: 2.6.6     # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
@@ -1892,6 +1893,10 @@ releases:
             msv2-4.0_gd: 4.35.1
             msv2G42: 4.35.1
             msv2G42nlg: 4.35.1
+            msv2Gth: 4.35.1
+            msv2Ge42nlg: 4.35.1
+            msv2Geth: 4.35.1
+            # WB-MSW
             msw3-48mh: 4.35.1
             msw3-48mh30: 4.29.11    # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             msw3-49: 4.35.1
@@ -1908,12 +1913,9 @@ releases:
             msw5GL: 4.35.2
             msw5Gth: 4.35.1
             msw5Gpb: 4.35.1
-            msv2Gth: 4.35.1
             msw5Ge: 4.35.3
             msw5Geth: 4.35.3
             msw5Gepb: 4.35.3
-            msv2Ge42nlg: 4.35.1
-            msv2Geth: 4.35.1
             # WB-MD
             mdm3: 2.6.6         # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mdm3_042: 2.6.6     # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
