@@ -1700,13 +1700,13 @@ releases:
             m1w2G21: 4.34.0
             m1w2G3: 4.34.0
             # WB-MAI2
-            mai2cc: 4.33.0
-            mai2ccG3: 4.33.0
+            mai2cc: 4.33.1
+            mai2ccG3: 4.33.1
             # WB-MIR
             mir: 4.29.11        # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            mir64: 4.34.0
-            mir64_gd: 4.34.0
-            mir_gdf8: 4.34.0
+            mir64: 4.34.1
+            mir64_gd: 4.34.1
+            mir_gdf8: 4.34.1
             # WB-MS
             ms-33: 4.35.1
             msv2-4.0: 4.35.1
@@ -1773,9 +1773,10 @@ releases:
             ledG: 3.6.1
             ledGe: 3.6.1
             # WB-MCM
-            mcm8: 1.8.1
-            mcm8G: 1.8.1
-            mcm8Ge: 1.8.1
+            mcm8: 1.8.3
+            mcm8G: 1.8.3
+            mcm8Ge: 1.8.3
+            mcm8Gec: 1.8.3
             # WB-MAO
             mao4: 2.4.4         # на данном таргете на версиях старше 2.4.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mao4G: 2.8.0
@@ -1953,9 +1954,10 @@ releases:
             ledG: 3.7.1
             ledGe: 3.7.1
             # WB-MCM
-            mcm8: 1.8.2
-            mcm8G: 1.8.2
-            mcm8Ge: 1.8.2
+            mcm8: 1.8.3
+            mcm8G: 1.8.3
+            mcm8Ge: 1.8.3
+            mcm8Gec: 1.8.3
             # WB-MAO
             mao4: 2.4.4         # на данном таргете на версиях старше 2.4.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mao4G: 2.8.1
