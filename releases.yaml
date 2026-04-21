@@ -1901,25 +1901,25 @@ releases:
             msv2Ge42nlg: 4.36.0
             msv2Geth: 4.36.0
             # WB-MSW
-            msw3-48mh: 4.35.1
+            msw3-48mh: 4.35.5
             msw3-48mh30: 4.29.11    # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            msw3-49: 4.35.1
-            msw3-49th30: 4.35.1
-            msw3-49-467: 4.35.1
-            msw3-49_gd: 4.35.1
-            msw3-49gd_oa: 4.35.1
-            msw3G49th: 4.35.1
-            msw3G419: 4.35.1
-            msw3G419th: 4.35.1
-            msw3Gc: 4.35.1
-            msw3G419L: 4.35.1
-            msw5G: 4.35.2
-            msw5GL: 4.35.2
-            msw5Gth: 4.35.1
-            msw5Gpb: 4.35.1
-            msw5Ge: 4.35.3
-            msw5Geth: 4.35.3
-            msw5Gepb: 4.35.3
+            msw3-49: 4.35.5
+            msw3-49th30: 4.35.5
+            msw3-49-467: 4.35.5
+            msw3-49_gd: 4.35.5
+            msw3-49gd_oa: 4.35.5
+            msw3G49th: 4.35.5
+            msw3G419: 4.35.5
+            msw3G419th: 4.35.5
+            msw3Gc: 4.35.5
+            msw3G419L: 4.35.5
+            msw5G: 4.35.5
+            msw5GL: 4.35.5
+            msw5Gth: 4.35.5
+            msw5Gpb: 4.35.5
+            msw5Ge: 4.35.5
+            msw5Geth: 4.35.5
+            msw5Gepb: 4.35.5
             # WB-MD
             mdm3: 2.6.6         # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mdm3_042: 2.6.6     # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
