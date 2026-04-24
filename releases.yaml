@@ -164,7 +164,7 @@ releases:
             zigbee2mqtt-1.18.1: 1.18.1-wb103
             zigbee2mqtt-2.1.1: 2.1.1-wb101
 
-        wb6/bullseye:
+        wb6/bullseye: &packages-wb-2602-armhf-wb6-bullseye
             <<: *packages-wb-2602
 
             linux-image-wb6: 5.10.35-wb181
@@ -175,7 +175,7 @@ releases:
             u-boot-tools-wb: 2:2021.10+wb1.7.8
             tm-cpps: '16304'
 
-        wb7/bullseye:
+        wb7/bullseye: &packages-wb-2602-armhf-wb7-bullseye
             <<: *packages-wb-2602
 
             linux-image-wb7: 5.10.35-wb181
@@ -187,7 +187,7 @@ releases:
             tm-cpps: '16304'
             mplc4-wirenboard7: 1.3.6.21566
 
-        wb8/bullseye:
+        wb8/bullseye: &packages-wb-2602-arm64-wb8-bullseye
             <<: *packages-wb-2602
 
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
@@ -1652,6 +1652,25 @@ releases:
         wb7/stretch:
             <<: *packages-wb-2207-armhf-wb7-stretch
             <<: *packages-wb-2207-bullseye-transition
+
+    wb-2602-trixie-transition:
+        packages-common-trixie-transition: &packages-wb-2602-trixie-transition
+            python3-wb-update-manager: 1.3.7-upgrade1
+            wb-update-manager: 1.3.7-upgrade1
+            wb-homeui-backend: 2.172.0-wb110-upgrade1
+            wb-mqtt-homeui: 2.172.0-wb110-upgrade1
+
+        wb6/bullseye:
+            <<: *packages-wb-2602-armhf-wb6-bullseye
+            <<: *packages-wb-2602-trixie-transition
+
+        wb7/bullseye:
+            <<: *packages-wb-2602-armhf-wb7-bullseye
+            <<: *packages-wb-2602-trixie-transition
+
+        wb8/bullseye:
+            <<: *packages-wb-2602-arm64-wb8-bullseye
+            <<: *packages-wb-2602-trixie-transition
 
     _firmwares_stable:
         firmwares:
