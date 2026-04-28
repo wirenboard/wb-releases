@@ -1803,6 +1803,8 @@ releases:
             ups-v3-dlg2: 1.3.1
             # WB-MGE
             mge_v3: 1.1.0
+            # WB-WALLSWITCH-ESL
+            wallswGe: 1.0.1
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
@@ -1986,6 +1988,8 @@ releases:
             ups-v3-dlg2: 1.3.1
             # WB-MGE
             mge_v3: 1.1.1
+            # WB-WALLSWITCH-ESL
+            wallswGe: 1.0.1
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
