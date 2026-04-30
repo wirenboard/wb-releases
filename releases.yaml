@@ -1657,8 +1657,6 @@ releases:
         packages-common-trixie-transition: &packages-wb-2602-trixie-transition
             python3-wb-update-manager: 1.3.7-upgrade1
             wb-update-manager: 1.3.7-upgrade1
-            wb-homeui-backend: 2.172.0-wb110-upgrade1
-            wb-mqtt-homeui: 2.172.0-wb110-upgrade1
 
         wb6/bullseye:
             <<: *packages-wb-2602-armhf-wb6-bullseye
