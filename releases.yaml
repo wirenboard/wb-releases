@@ -1686,7 +1686,7 @@ releases:
             mr2mGe: 1.23.0
             mr2mncGe: 1.23.0
             mr7gGe: 1.24.1
-            mr6Gemz: 1.26.1
+            mr6Gemz: 1.26.2
             # WB-MRWM2
             mrwm2G: 1.23.2
             mrwm2Ge: 1.23.2
@@ -1871,7 +1871,7 @@ releases:
             mr2mGe: 1.26.0
             mr2mncGe: 1.26.0
             mr7gGe: 1.26.0
-            mr6Gemz: 1.26.1
+            mr6Gemz: 1.26.2
             # WB-MRWM2
             mrwm2G: 1.23.2
             mrwm2Ge: 1.23.2
