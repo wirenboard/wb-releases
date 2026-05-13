@@ -153,7 +153,6 @@ releases:
             wb-rules-system: 1.13.5
             wb-scenarios: 1.9.0
             wb-suite: 1.20.9
-            wb-sway-kiosk: 1.5+wb103
             wb-update-manager: 1.4.0
             wb-update-notifier: 0.1.1
             wb-utils: 4.27.8
@@ -205,6 +204,7 @@ releases:
             wb-hdmi: 1.20.9
             wb-hdmi-wayland: 1.20.9
             wb-sway: 1.5+wb103
+            wb-sway-kiosk: 1.5+wb103
             task-wirenboard-wb8: 1.20.9
 
     wb-2602:
