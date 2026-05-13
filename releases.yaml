@@ -128,7 +128,7 @@ releases:
             wb-mqtt-co2mon: 1.1.4
             wb-mqtt-confed: 1.16.7
             wb-mqtt-dac: 1.2.6
-            wb-mqtt-dali: 1.11.1
+            wb-mqtt-dali: 1.11.2
             wb-mqtt-db: 2.9.3
             wb-mqtt-db-cli: 1.4.8
             wb-mqtt-gpio: 2.16.3
@@ -154,7 +154,7 @@ releases:
             wb-rules-system: 1.13.5
             wb-scenarios: 1.9.0
             wb-suite: 1.20.9
-            wb-sway-kiosk: 1.5+wb102
+            wb-sway-kiosk: 1.5+wb103
             wb-update-manager: 1.4.0
             wb-update-notifier: 0.1.1
             wb-utils: 4.27.8
@@ -186,8 +186,8 @@ releases:
             linux-headers-wb7: 5.10.35-wb182
             linux-libc-dev: 5.10.35-wb182
             wb-bootlet-wb7x: 5.10.35-wb182-fs1.5.4-deb11-202512150209
-            u-boot-wb7: 2:2025.04+wb1.1.2
-            u-boot-tools-wb: 2:2025.04+wb1.1.2
+            u-boot-wb7: 2:2025.04+wb1.1.3
+            u-boot-tools-wb: 2:2025.04+wb1.1.3
             tm-cpps: '16304'
             mplc4-wirenboard7: 1.3.6.21566
 
@@ -200,12 +200,12 @@ releases:
             linux-image-wb8: 6.8.0-wb157
             linux-libc-dev: 6.8.0-wb157
             wb-bootlet-wb8x: 6.8.0-wb157-fs1.5.5-deb11-202604271428
-            u-boot-wb8: 2:2025.04+wb1.1.2
-            u-boot-tools-wb: 2:2025.04+wb1.1.2
+            u-boot-wb8: 2:2025.04+wb1.1.3
+            u-boot-tools-wb: 2:2025.04+wb1.1.3
             tm-cpps: '16402'
             wb-hdmi: 1.20.9
             wb-hdmi-wayland: 1.20.9
-            wb-sway: 1.5+wb102
+            wb-sway: 1.5+wb103
             task-wirenboard-wb8: 1.20.9
 
     wb-2602:
