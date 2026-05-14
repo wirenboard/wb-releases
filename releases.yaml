@@ -1757,28 +1757,28 @@ releases:
             # WB-MAP
             map3e: 2.7.5            # нет в наличии устройства для проверок новых прошивок
             map3e16: 2.8.1          # нет в наличии устройства для проверок новых прошивок
-            map3e_36: 2.12.3
-            map3e_031f6: 2.12.3
-            map3eG: 2.12.3
+            map3e_36: 2.12.4
+            map3e_031f6: 2.12.4
+            map3eG: 2.12.4
             map3h: 2.7.4            # нет в наличии устройства для проверок новых прошивок
-            map3h51: 2.12.3
-            map6s: 2.12.3
-            map6s51: 2.12.3
-            map6se: 2.12.3
+            map3h51: 2.12.4
+            map6s: 2.12.4
+            map6s51: 2.12.4
+            map6se: 2.12.4
             map12e: 2.8.1           # нет в наличии устройства для проверок новых прошивок
-            map12eG: 2.12.3
-            map12h: 2.12.3
-            map3eG16: 2.12.3
-            map3evG16: 2.12.3
-            map6seG16: 2.12.3
-            map6sG16: 2.12.3
-            map6semG16: 2.12.3
-            map3eG16e: 2.12.3
-            map3evG16e: 2.12.3
-            map6semG16e: 2.12.3
-            map12eGe: 2.12.3
-            map3etG16e: 2.12.3
-            map3eG16e2: 2.12.3
+            map12eG: 2.12.4
+            map12h: 2.12.4
+            map3eG16: 2.12.4
+            map3evG16: 2.12.4
+            map6seG16: 2.12.4
+            map6sG16: 2.12.4
+            map6semG16: 2.12.4
+            map3eG16e: 2.12.4
+            map3evG16e: 2.12.4
+            map6semG16e: 2.12.4
+            map12eGe: 2.12.4
+            map3etG16e: 2.12.4
+            map3eG16e2: 2.12.4
             # WB-MRGB
             mrgbw: 3.3.4        # на данном таргете на версиях старше 3.3.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mrgbwG: 3.7.1
@@ -1789,6 +1789,7 @@ releases:
             mcm8G: 1.8.3
             mcm8Ge: 1.8.3
             mcm8Gec: 1.8.3
+            mcm8Gehv: 1.9.0
             # WB-MAO
             mao4: 2.4.4         # на данном таргете на версиях старше 2.4.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mao4G: 2.8.1
@@ -1916,25 +1917,25 @@ releases:
             msv2Ge42nlg: 4.37.0
             msv2Geth: 4.37.0
             # WB-MSW
-            msw3-48mh: 4.36.0
+            msw3-48mh: 4.37.0
             msw3-48mh30: 4.29.11    # на данном таргете на версиях старше 4.29.11 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
-            msw3-49: 4.36.0
-            msw3-49th30: 4.36.0
-            msw3-49-467: 4.36.0
-            msw3-49_gd: 4.36.0
-            msw3-49gd_oa: 4.36.0
-            msw3G49th: 4.36.0
-            msw3G419: 4.36.0
-            msw3G419th: 4.36.0
-            msw3Gc: 4.36.0
-            msw3G419L: 4.36.0
-            msw5G: 4.36.0
-            msw5GL: 4.36.0
-            msw5Gth: 4.36.0
-            msw5Gpb: 4.36.0
-            msw5Ge: 4.36.0
-            msw5Geth: 4.36.0
-            msw5Gepb: 4.36.0
+            msw3-49: 4.37.0
+            msw3-49th30: 4.37.0
+            msw3-49-467: 4.37.0
+            msw3-49_gd: 4.37.0
+            msw3-49gd_oa: 4.37.0
+            msw3G49th: 4.37.0
+            msw3G419: 4.37.0
+            msw3G419th: 4.37.0
+            msw3Gc: 4.37.0
+            msw3G419L: 4.37.0
+            msw5G: 4.37.0
+            msw5GL: 4.37.0
+            msw5Gth: 4.37.0
+            msw5Gpb: 4.37.0
+            msw5Ge: 4.37.0
+            msw5Geth: 4.37.0
+            msw5Gepb: 4.37.0
             # WB-MD
             mdm3: 2.6.6         # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mdm3_042: 2.6.6     # на данном таргете на версиях старше 2.6.6 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
@@ -1972,10 +1973,11 @@ releases:
             ledG: 3.7.1
             ledGe: 3.7.1
             # WB-MCM
-            mcm8: 1.8.3
-            mcm8G: 1.8.3
-            mcm8Ge: 1.8.3
-            mcm8Gec: 1.8.3
+            mcm8: 1.9.0
+            mcm8G: 1.9.0
+            mcm8Ge: 1.9.0
+            mcm8Gec: 1.9.0
+            mcm8Gehv: 1.9.0
             # WB-MAO
             mao4: 2.4.4         # на данном таргете на версиях старше 2.4.4 прошивка перестала помещаться в 25K (32K FLASH - 4K bootloader - 3 flashfs)
             mao4G: 2.8.1
@@ -1989,8 +1991,8 @@ releases:
             wb-mai6-15: 2.3.3
             wb-mai6-15Ge: 2.3.3
             # WB-MIO
-            mio: 1.8.2
-            mioGe: 1.8.2
+            mio: 1.8.3
+            mioGe: 1.8.3
             # WB-REF
             ref-df: 1.2.1
             ref-dfGe: 1.2.1
