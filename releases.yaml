@@ -2259,20 +2259,32 @@ suites:
         pool: "@pool.latest"
         staging: "@staging.latest"
 
-    wb8/bullseye:
-        stable: wb-2602
+    wb8/trixie:
         testing: "@unstable.latest"
         unstable: "@unstable.latest"
+
+    wb7/trixie:
+        testing: "@unstable.latest"
+        unstable: "@unstable.latest"
+
+    wb6/trixie:
+        testing: "@unstable.latest"
+        unstable: "@unstable.latest"
+
+    wb8/bullseye:
+        stable: wb-2606
+        testing: wb-2606-trixie-transition
+        unstable: wb-2606-trixie-transition
 
     wb7/bullseye:
-        stable: wb-2602
-        testing: "@unstable.latest"
-        unstable: "@unstable.latest"
+        stable: wb-2606
+        testing: wb-2606-trixie-transition
+        unstable: wb-2606-trixie-transition
 
     wb6/bullseye:
-        stable: wb-2602
-        testing: "@unstable.latest"
-        unstable: "@unstable.latest"
+        stable: wb-2606
+        testing: wb-2606-trixie-transition
+        unstable: wb-2606-trixie-transition
 
     wb7/stretch:
         stable: wb-2207-bullseye-transition
@@ -2311,6 +2323,10 @@ targets:
         distro: trixie
 
     wb7/trixie:
+        arch: armhf
+        distro: trixie
+
+    wb6/trixie:
         arch: armhf
         distro: trixie
 
