@@ -6,7 +6,6 @@ releases:
             cmux: '1.2'
             comerr-dev: 2.1-1.46.2-2+wb1
             contactless-keyring: '0.1'
-            custom-settings-cb8ea449: 1.1.4
             e2fsck-static: 1.46.2-2+wb1
             e2fsprogs: 1.46.2-2+wb1
             e2fsprogs-l10n: 1.46.2-2+wb1
