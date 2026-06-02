@@ -2032,7 +2032,7 @@ releases:
             # WB-DALI
             dali3G: 1.0.0
             # WB-WALLSWITCH-ESL
-            wallswGe: 1.0.1
+            wallswGe: 1.0.2
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
@@ -2220,7 +2220,7 @@ releases:
             # WB-DALI
             dali3G: 1.0.0
             # WB-WALLSWITCH-ESL
-            wallswGe: 1.0.1
+            wallswGe: 1.0.2
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
