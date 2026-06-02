@@ -2401,6 +2401,11 @@ staging:
         - "zbw"
         - "zigbee2mqtt*"
 
+        - "docker-ce"
+        - "docker-ce-cli"
+        - "containerd.io"
+        - "docker-compose-plugin"
+
         - "gir1.2-mbim-1.0"  # bullseye backport
         - "gir1.2-qmi-1.0"   # bullseye backport
         - "gir1.2-qrtr-1.0"  # bullseye backport
