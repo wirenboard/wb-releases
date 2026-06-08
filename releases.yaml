@@ -1992,8 +1992,8 @@ releases:
             wb-mai6-15: 2.3.3
             wb-mai6-15Ge: 2.3.3
             # WB-MIO
-            mio: 1.8.2
-            mioGe: 1.8.2
+            mio: 1.8.3
+            mioGe: 1.8.3
             # WB-REF
             ref-df: 1.2.1
             ref-dfGe: 1.2.1
