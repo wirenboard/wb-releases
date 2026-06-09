@@ -2104,8 +2104,8 @@ releases:
             mrwm2G: 1.24.1
             mrwm2Ge: 1.24.1
             # WB-MWAC
-            wbmwacG: 1.24.1
-            mwac0: 1.24.1
+            wbmwacG: 1.25.0
+            mwac0: 1.25.0
             # WB-M1W2
             m1w2G21: 4.35.2
             m1w2G3: 4.35.2
