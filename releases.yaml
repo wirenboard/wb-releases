@@ -2293,17 +2293,17 @@ suites:
 
     wb8/bullseye:
         stable: wb-2606
-        testing: wb-2606 # wb-2606-trixie-transition
+        testing: wb-2606-trixie-transition
         unstable: wb-2606-trixie-transition
 
     wb7/bullseye:
         stable: wb-2606
-        testing: wb-2606 # wb-2606-trixie-transition
+        testing: wb-2606-trixie-transition
         unstable: wb-2606-trixie-transition
 
     wb6/bullseye:
         stable: wb-2606
-        testing: wb-2606 # wb-2606-trixie-transition
+        testing: wb-2606-trixie-transition
         unstable: wb-2606-trixie-transition
 
     wb7/stretch:
