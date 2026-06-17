@@ -2173,7 +2173,7 @@ releases:
             ledG: 3.7.1
             ledGe: 3.7.1
             # WB-MCM
-            mcm8: 1.10.0
+            mcm8: 1.9.1
             mcm8G: 1.10.0
             mcm8Ge: 1.10.0
             mcm8Gec: 1.10.0
