@@ -2174,10 +2174,10 @@ releases:
             ledGe: 3.7.1
             # WB-MCM
             mcm8: 1.9.1
-            mcm8G: 1.10.0
-            mcm8Ge: 1.10.0
-            mcm8Gec: 1.10.0
-            mcm8Gehv: 1.10.0
+            mcm8G: 1.10.1
+            mcm8Ge: 1.10.1
+            mcm8Gec: 1.10.1
+            mcm8Gehv: 1.10.1
             # WB-MAO
             mao4G: 2.8.1
             mao4G-C: 2.8.1
