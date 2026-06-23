@@ -2148,26 +2148,26 @@ releases:
             mdm3G26: 2.11.1
             mdm3G26e: 2.11.1
             # WB-MAP
-            map3e_36: 2.12.4
-            map3e_031f6: 2.12.4
-            map3eG: 2.12.4
-            map3h51: 2.12.4
-            map6s: 2.12.4
-            map6s51: 2.12.4
-            map6se: 2.12.4
-            map12eG: 2.12.4
-            map12h: 2.12.4
-            map3eG16: 2.12.4
-            map3evG16: 2.12.4
-            map6seG16: 2.12.4
-            map6sG16: 2.12.4
-            map6semG16: 2.12.4
-            map3eG16e: 2.12.4
-            map3evG16e: 2.12.4
-            map6semG16e: 2.12.4
-            map12eGe: 2.12.4
-            map3etG16e: 2.12.4
-            map3eG16e2: 2.12.4
+            map3e_36: 2.13.1
+            map3e_031f6: 2.13.1
+            map3eG: 2.13.1
+            map3h51: 2.13.1
+            map6s: 2.13.1
+            map6s51: 2.13.1
+            map6se: 2.13.1
+            map12eG: 2.13.1
+            map12h: 2.13.1
+            map3eG16: 2.13.1
+            map3evG16: 2.13.1
+            map6seG16: 2.13.1
+            map6sG16: 2.13.1
+            map6semG16: 2.13.1
+            map3eG16e: 2.13.1
+            map3evG16e: 2.13.1
+            map6semG16e: 2.13.1
+            map12eGe: 2.13.1
+            map3etG16e: 2.13.1
+            map3eG16e2: 2.13.1
             # WB-MRGB
             mrgbwG: 3.7.1
             ledG: 3.7.1
