@@ -155,7 +155,7 @@ releases:
             wb-suite: 1.20.9
             wb-update-manager: 1.4.0
             wb-update-notifier: 0.1.1
-            wb-utils: 4.27.8
+            wb-utils: 4.27.8-wb100
             wb-welrok: 0.0.20
             wb-zigbee2mqtt: 1.4.2
             webif: '1.5'
