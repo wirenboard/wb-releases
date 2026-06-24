@@ -1863,8 +1863,8 @@ releases:
 
     wb-2606-trixie-transition:
         packages-common-trixie-transition: &packages-wb-2606-trixie-transition
-            python3-wb-update-manager: 1.4.0-upgrade4
-            wb-update-manager: 1.4.0-upgrade4
+            python3-wb-update-manager: 1.4.0-upgrade5
+            wb-update-manager: 1.4.0-upgrade5
 
         wb6/bullseye:
             <<: *packages-wb-2606-armhf-wb6-bullseye
