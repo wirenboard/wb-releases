@@ -2734,17 +2734,6 @@ suites:
         testing: _bootloaders_testing
         unstable: _bootloaders_testing
 
-        wb-2207: _bootloaders_stable
-        wb-2304-70549e24: _bootloaders_stable
-        wb-2307-cb8ea449: _bootloaders_stable
-        wb-2307-a70ab64c: _bootloaders_stable
-        wb-2407-e1d931dd: _bootloaders_stable
-        wb-2407-a70ab64c: _bootloaders_stable
-        wb-2410-cb8ea449: _bootloaders_stable
-        wb-2501-cb8ea449: _bootloaders_stable
-        wb-2507-cb8ea449: _bootloaders_stable
-
-
 
 targets:
     wb8/trixie:
