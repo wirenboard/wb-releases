@@ -1881,71 +1881,71 @@ releases:
     _firmwares_stable:
         firmwares:
             # WB-MR
-            mr2mG: 1.26.3
-            mr3G: 1.26.3
-            mr6G: 1.26.3
-            mr6cG: 1.26.3
-            mr6cu: 1.26.3
-            mr6cu_042: 1.26.3
-            mr6cuG: 1.26.3
-            mr6cpG: 1.26.3
-            mrps6G: 1.26.3
-            mrwl3G: 1.26.3
-            mr3Ge: 1.26.3
-            mr6Ge: 1.26.3
-            mr6cGe: 1.26.3
-            mr6cuGe: 1.26.3
-            mrps6Ge: 1.26.3
-            mrwl3Ge: 1.26.3
-            mr6cpGe: 1.26.3
-            mr2mGe: 1.26.3
-            mr2mncGe: 1.26.3
-            mr7gGe: 1.26.3
-            mr6Gemz: 1.26.3
+            mr2mG: 1.26.4
+            mr3G: 1.26.4
+            mr6G: 1.26.4
+            mr6cG: 1.26.4
+            mr6cu: 1.26.4
+            mr6cu_042: 1.26.4
+            mr6cuG: 1.26.4
+            mr6cpG: 1.26.4
+            mrps6G: 1.26.4
+            mrwl3G: 1.26.4
+            mr3Ge: 1.26.4
+            mr6Ge: 1.26.4
+            mr6cGe: 1.26.4
+            mr6cuGe: 1.26.4
+            mrps6Ge: 1.26.4
+            mrwl3Ge: 1.26.4
+            mr6cpGe: 1.26.4
+            mr2mGe: 1.26.4
+            mr2mncGe: 1.26.4
+            mr7gGe: 1.26.4
+            mr6Gemz: 1.26.4
             # WB-MRWM2
-            mrwm2G: 1.24.0
-            mrwm2Ge: 1.24.0
+            mrwm2G: 1.24.1
+            mrwm2Ge: 1.24.1
             # WB-MWAC
             wbmwacG: 1.24.1
             mwac0: 1.24.1
             # WB-M1W2
-            m1w2G21: 4.35.1
-            m1w2G3: 4.35.1
+            m1w2G21: 4.35.2
+            m1w2G3: 4.35.2
             # WB-MAI2
             mai2cc: 4.33.1
             mai2ccG3: 4.33.1
             # WB-MIR
-            mir64: 4.35.0
-            mir64_gd: 4.35.0
-            mir_gdf8: 4.35.0
+            mir64: 4.35.1
+            mir64_gd: 4.35.1
+            mir_gdf8: 4.35.1
             # WB-MS
-            ms-33: 4.37.0
-            msv2-4.0: 4.37.0
-            msv2-4.0_gd: 4.37.0
-            msv2G42: 4.37.0
-            msv2G42nlg: 4.37.0
-            msv2Gth: 4.37.0
-            msv2Ge42nlg: 4.37.0
-            msv2Geth: 4.37.0
+            ms-33: 4.37.1
+            msv2-4.0: 4.37.1
+            msv2-4.0_gd: 4.37.1
+            msv2G42: 4.37.1
+            msv2G42nlg: 4.37.1
+            msv2Gth: 4.37.1
+            msv2Ge42nlg: 4.37.1
+            msv2Geth: 4.37.1
             # WB-MSW
-            msw3-48mh: 4.37.0
-            msw3-49: 4.37.0
-            msw3-49th30: 4.37.0
-            msw3-49-467: 4.37.0
-            msw3-49_gd: 4.37.0
-            msw3-49gd_oa: 4.37.0
-            msw3G49th: 4.37.0
-            msw3G419: 4.37.0
-            msw3G419th: 4.37.0
-            msw3Gc: 4.37.0
-            msw3G419L: 4.37.0
-            msw5G: 4.37.0
-            msw5GL: 4.37.0
-            msw5Gth: 4.37.0
-            msw5Gpb: 4.37.0
-            msw5Ge: 4.37.0
-            msw5Geth: 4.37.0
-            msw5Gepb: 4.37.0
+            msw3-48mh: 4.37.1
+            msw3-49: 4.37.1
+            msw3-49th30: 4.37.1
+            msw3-49-467: 4.37.1
+            msw3-49_gd: 4.37.1
+            msw3-49gd_oa: 4.37.1
+            msw3G49th: 4.37.1
+            msw3G419: 4.37.1
+            msw3G419th: 4.37.1
+            msw3Gc: 4.37.1
+            msw3G419L: 4.37.1
+            msw5G: 4.37.1
+            msw5GL: 4.37.1
+            msw5Gth: 4.37.1
+            msw5Gpb: 4.37.1
+            msw5Ge: 4.37.1
+            msw5Geth: 4.37.1
+            msw5Gepb: 4.37.1
             # WB-MD
             mdm3G26: 2.11.1
             mdm3G26e: 2.11.1
@@ -1975,11 +1975,11 @@ releases:
             ledG: 3.7.1
             ledGe: 3.7.1
             # WB-MCM
-            mcm8: 1.9.0
-            mcm8G: 1.9.0
-            mcm8Ge: 1.9.0
-            mcm8Gec: 1.9.0
-            mcm8Gehv: 1.9.0
+            mcm8: 1.9.1
+            mcm8G: 1.9.1
+            mcm8Ge: 1.9.1
+            mcm8Gec: 1.9.1
+            mcm8Gehv: 1.9.1
             # WB-MAO
             mao4G: 2.8.1
             mao4G-C: 2.8.1
