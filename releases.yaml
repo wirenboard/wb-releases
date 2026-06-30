@@ -2195,8 +2195,8 @@ releases:
             # WB-REF
             ref-df: 1.2.1
             ref-dfGe: 1.2.1
-            refu: 1.5.1
-            refuGe: 1.5.1
+            refu: 1.6.0
+            refuGe: 1.6.0
             # WB-UPS
             ups-v3: 1.4.0
             ups-v3-dlg2: 1.4.0
