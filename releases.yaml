@@ -2110,8 +2110,8 @@ releases:
             m1w2G21: 4.35.2
             m1w2G3: 4.35.2
             # WB-MAI2
-            mai2cc: 4.33.1
-            mai2ccG3: 4.33.1
+            mai2cc: 4.33.2
+            mai2ccG3: 4.33.2
             # WB-MIR
             mir64: 4.35.1
             mir64_gd: 4.35.1
