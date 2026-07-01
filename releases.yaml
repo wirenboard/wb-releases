@@ -2198,8 +2198,8 @@ releases:
             refu: 1.6.0
             refuGe: 1.6.0
             # WB-UPS
-            ups-v3: 1.4.0
-            ups-v3-dlg2: 1.4.0
+            ups-v3: 1.4.1
+            ups-v3-dlg2: 1.4.1
             # WB-MGE
             mge_v3: 1.1.1
             # WB-DALI
