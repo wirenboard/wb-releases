@@ -2113,18 +2113,18 @@ releases:
             mai2cc: 4.33.2
             mai2ccG3: 4.33.2
             # WB-MIR
-            mir64: 4.35.1
-            mir64_gd: 4.35.1
-            mir_gdf8: 4.35.1
+            mir64: 4.35.2
+            mir64_gd: 4.35.2
+            mir_gdf8: 4.35.2
             # WB-MS
-            ms-33: 4.37.1
-            msv2-4.0: 4.37.1
-            msv2-4.0_gd: 4.37.1
-            msv2G42: 4.37.1
-            msv2G42nlg: 4.37.1
-            msv2Gth: 4.37.1
-            msv2Ge42nlg: 4.37.1
-            msv2Geth: 4.37.1
+            ms-33: 4.37.2
+            msv2-4.0: 4.37.2
+            msv2-4.0_gd: 4.37.2
+            msv2G42: 4.37.2
+            msv2G42nlg: 4.37.2
+            msv2Gth: 4.37.2
+            msv2Ge42nlg: 4.37.2
+            msv2Geth: 4.37.2
             # WB-MSW
             msw3-48mh: 4.37.2
             msw3-49: 4.37.2
