@@ -2101,11 +2101,11 @@ releases:
             mr7gGe: 1.26.4
             mr6Gemz: 1.26.4
             # WB-MRWM2
-            mrwm2G: 1.24.1
-            mrwm2Ge: 1.24.1
+            mrwm2G: 1.24.2
+            mrwm2Ge: 1.24.2
             # WB-MWAC
-            wbmwacG: 1.25.0
-            mwac0: 1.25.0
+            wbmwacG: 1.25.1
+            mwac0: 1.25.1
             # WB-M1W2
             m1w2G21: 4.35.3
             m1w2G3: 4.35.3
@@ -2190,8 +2190,8 @@ releases:
             wb-mai6-15: 2.4.2
             wb-mai6-15Ge: 2.4.2
             # WB-MIO
-            mio: 1.8.3
-            mioGe: 1.8.3
+            mio: 1.8.4
+            mioGe: 1.8.4
             # WB-REF
             ref-df: 1.2.1
             ref-dfGe: 1.2.1
