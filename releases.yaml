@@ -2045,6 +2045,7 @@ releases:
             ok_cm3d: 26.07.01
             ok_gr5b: 26.07.01
             ok_tb1b: 26.07.01
+            ok_air3c: 26.07.01
 
             # Deprecated
             mr2m: 1.15.2
@@ -2248,6 +2249,7 @@ releases:
             ok_cm3d: 26.07.01
             ok_gr5b: 26.07.01
             ok_tb1b: 26.07.01
+            ok_air3c: 26.07.01
 
             # Deprecated
             mr2m: 1.15.2
