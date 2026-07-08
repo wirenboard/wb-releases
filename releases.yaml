@@ -1901,7 +1901,7 @@ releases:
             mr2mGe: 1.26.4
             mr2mncGe: 1.26.4
             mr7gGe: 1.26.4
-            mr6Gemz: 1.26.4
+            mr6Gemz: 1.26.5
             # WB-MRWM2
             mrwm2G: 1.24.1
             mrwm2Ge: 1.24.1
@@ -2085,27 +2085,27 @@ releases:
     _firmwares_testing:
         firmwares:
             # WB-MR
-            mr2mG: 1.26.4
-            mr3G: 1.26.4
-            mr6G: 1.26.4
-            mr6cG: 1.26.4
-            mr6cu: 1.26.4
-            mr6cu_042: 1.26.4
-            mr6cuG: 1.26.4
-            mr6cpG: 1.26.4
-            mrps6G: 1.26.4
-            mrwl3G: 1.26.4
-            mr3Ge: 1.26.4
-            mr6Ge: 1.26.4
-            mr6cGe: 1.26.4
-            mr6cuGe: 1.26.4
-            mrps6Ge: 1.26.4
-            mrwl3Ge: 1.26.4
-            mr6cpGe: 1.26.4
-            mr2mGe: 1.26.4
-            mr2mncGe: 1.26.4
-            mr7gGe: 1.26.4
-            mr6Gemz: 1.26.4
+            mr2mG: 1.26.5
+            mr3G: 1.26.5
+            mr6G: 1.26.5
+            mr6cG: 1.26.5
+            mr6cu: 1.26.5
+            mr6cu_042: 1.26.5
+            mr6cuG: 1.26.5
+            mr6cpG: 1.26.5
+            mrps6G: 1.26.5
+            mrwl3G: 1.26.5
+            mr3Ge: 1.26.5
+            mr6Ge: 1.26.5
+            mr6cGe: 1.26.5
+            mr6cuGe: 1.26.5
+            mrps6Ge: 1.26.5
+            mrwl3Ge: 1.26.5
+            mr6cpGe: 1.26.5
+            mr2mGe: 1.26.5
+            mr2mncGe: 1.26.5
+            mr7gGe: 1.26.5
+            mr6Gemz: 1.26.5
             # WB-MRWM2
             mrwm2G: 1.24.2
             mrwm2Ge: 1.24.2
