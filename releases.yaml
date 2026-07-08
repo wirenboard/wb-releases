@@ -2045,6 +2045,7 @@ releases:
             ok_cm3d: 26.07.01
             ok_gr5b: 26.07.01
             ok_tb1b: 26.07.01
+            ok_air3c: 26.07.01
 
             # Deprecated
             mr2m: 1.15.2
@@ -2248,6 +2249,7 @@ releases:
             ok_cm3d: 26.07.01
             ok_gr5b: 26.07.01
             ok_tb1b: 26.07.01
+            ok_air3c: 26.07.01
 
             # Deprecated
             mr2m: 1.15.2
@@ -2436,7 +2438,7 @@ releases:
             ok_hsvrfb: 1.5.7
             ok_md1b: 1.4.9
             ok_md3b: 1.4.9
-            ok_md3b: 1.4.9
+            ok_md3c: 1.5.7
             ok_mdvrfb: 1.4.9
             ok_mdvrfc: 1.5.7
             ok_cgvrfb: 1.4.9
@@ -2445,6 +2447,12 @@ releases:
             ok_tn1b: 1.4.9
             ok_ht1b: 1.4.9
             ok_mh2b: 1.4.9
+            ok_auxvrfc: 1.5.7
+            ok_cm1d: 1.5.7
+            ok_cm3d: 1.5.7
+            ok_gr5b: 1.5.7
+            ok_tb1b: 1.5.7
+            ok_air3c: 1.5.7
 
             # Deprecated
             mr2m: 1.4.9
@@ -2632,7 +2640,7 @@ releases:
             ok_hsvrfb: 1.5.7
             ok_md1b: 1.4.9
             ok_md3b: 1.4.9
-            ok_md3b: 1.4.9
+            ok_md3c: 1.5.7
             ok_mdvrfb: 1.4.9
             ok_mdvrfc: 1.5.7
             ok_cgvrfb: 1.4.9
@@ -2641,6 +2649,12 @@ releases:
             ok_tn1b: 1.4.9
             ok_ht1b: 1.4.9
             ok_mh2b: 1.4.9
+            ok_auxvrfc: 1.5.7
+            ok_cm1d: 1.5.7
+            ok_cm3d: 1.5.7
+            ok_gr5b: 1.5.7
+            ok_tb1b: 1.5.7
+            ok_air3c: 1.5.7
 
             # Deprecated
             mr2m: 1.4.9
