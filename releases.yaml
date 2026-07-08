@@ -2450,6 +2450,7 @@ releases:
             ok_cm3d: 1.5.7
             ok_gr5b: 1.5.7
             ok_tb1b: 1.5.7
+            ok_air3c: 1.5.7
 
             # Deprecated
             mr2m: 1.4.9
@@ -2651,6 +2652,7 @@ releases:
             ok_cm3d: 1.5.7
             ok_gr5b: 1.5.7
             ok_tb1b: 1.5.7
+            ok_air3c: 1.5.7
 
             # Deprecated
             mr2m: 1.4.9
