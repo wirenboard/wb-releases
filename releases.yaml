@@ -2199,8 +2199,8 @@ releases:
             mio: 1.8.4
             mioGe: 1.8.4
             # WB-REF
-            ref-df: 1.2.1
-            ref-dfGe: 1.2.1
+            ref-df: 1.3.0
+            ref-dfGe: 1.3.0
             refu: 1.6.0
             refuGe: 1.6.0
             # WB-UPS
