@@ -1,7 +1,7 @@
 releases:
     wb-2606:
         packages-common: &packages-wb-2606
-            atecc-util: 0.4.13
+            atecc-util: 0.4.13-wb100
             ca-certificates-contactless: '0.1'
             cmux: '1.2'
             comerr-dev: 2.1-1.46.2-2+wb1
@@ -26,7 +26,7 @@ releases:
             knxd: 0.14.74-1+wb100
             knxd-dev: 0.14.74-1+wb100
             knxd-tools: 0.14.74-1+wb100
-            libateccssl1.1: 0.2.6
+            libateccssl1.1: 0.2.6-wb100
             libcom-err2: 1.46.2-2+wb1
             libext2fs-dev: 1.46.2-2+wb1
             libext2fs2: 1.46.2-2+wb1
@@ -57,9 +57,9 @@ releases:
             libsigrokcxx4: 0.5.2-3+wb100
             libsigrokdecode4: 0.5.3-4
             libss2: 1.46.2-2+wb1
-            libwbmqtt1-5: 5.6.0
-            libwbmqtt1-5-dev: 5.6.0
-            libwbmqtt1-5-test-utils: 5.6.0
+            libwbmqtt1-5: 5.6.0-wb100
+            libwbmqtt1-5-dev: 5.6.0-wb100
+            libwbmqtt1-5-test-utils: 5.6.0-wb100
             logsave: 1.46.2-2+wb1
             mmc-utils: 0+git20180327.b4fe0c8c-1+wb1
             mobile-broadband-provider-info: 20230416-1
@@ -125,7 +125,7 @@ releases:
             wb-mqtt-apcsnmp: '0.2'
             wb-mqtt-bmp085: '1.2'
             wb-mqtt-co2mon: 1.1.4
-            wb-mqtt-confed: 1.16.7
+            wb-mqtt-confed: 1.16.7-wb100
             wb-mqtt-dac: 1.2.6
             wb-mqtt-dali: 1.12.0
             wb-mqtt-db: 2.9.3
@@ -149,7 +149,7 @@ releases:
             wb-mqtt-zabbix: '0.2'
             wb-mqtt-zigbee: 1.4.3
             wb-nm-helper: 1.37.1
-            wb-rules: 2.40.0
+            wb-rules: 2.40.0-wb100
             wb-rules-system: 1.13.5
             wb-scenarios: 1.9.0
             wb-suite: 1.20.9
