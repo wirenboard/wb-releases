@@ -2151,8 +2151,8 @@ releases:
             msw5Geth: 4.37.2
             msw5Gepb: 4.37.2
             # WB-MD
-            mdm3G26: 2.11.1
-            mdm3G26e: 2.11.1
+            mdm3G26: 2.12.1
+            mdm3G26e: 2.12.1
             # WB-MAP
             map3e_36: 2.13.1
             map3e_031f6: 2.13.1
@@ -2175,9 +2175,9 @@ releases:
             map3etG16e: 2.13.1
             map3eG16e2: 2.13.1
             # WB-MRGB
-            mrgbwG: 3.7.1
-            ledG: 3.7.1
-            ledGe: 3.7.1
+            mrgbwG: 3.8.1
+            ledG: 3.8.1
+            ledGe: 3.8.1
             # WB-MCM
             mcm8: 1.9.1
             mcm8G: 1.10.2
@@ -2185,11 +2185,11 @@ releases:
             mcm8Gec: 1.10.2
             mcm8Gehv: 1.10.2
             # WB-MAO
-            mao4G: 2.8.1
-            mao4G-C: 2.8.1
-            mao4Ge: 2.8.1
-            mao4Ge-C: 2.8.1
-            mao4Gemz: 2.8.2
+            mao4G: 2.9.1
+            mao4G-C: 2.9.1
+            mao4Ge: 2.9.1
+            mao4Ge-C: 2.9.1
+            mao4Gemz: 2.9.1
             # WB-MAI
             wb-mai-v10: 1.3.1
             wb-mai6: 2.4.2
