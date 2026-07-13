@@ -1,7 +1,7 @@
 releases:
     wb-2606:
         packages-common: &packages-wb-2606
-            atecc-util: 0.4.13
+            atecc-util: 0.4.13-wb100
             ca-certificates-contactless: '0.1'
             cmux: '1.2'
             comerr-dev: 2.1-1.46.2-2+wb1
@@ -26,7 +26,7 @@ releases:
             knxd: 0.14.74-1+wb100
             knxd-dev: 0.14.74-1+wb100
             knxd-tools: 0.14.74-1+wb100
-            libateccssl1.1: 0.2.6
+            libateccssl1.1: 0.2.6-wb100
             libcom-err2: 1.46.2-2+wb1
             libext2fs-dev: 1.46.2-2+wb1
             libext2fs2: 1.46.2-2+wb1
@@ -39,10 +39,10 @@ releases:
             libmm-glib0: 1.20.0-1~bpo11+1-wb108
             libmodbus-dev: 3.1.6-wb2
             libmodbus5: 3.1.6-wb2
-            libmosquitto-dev: 2.0.20-1-wb102
-            libmosquitto1: 2.0.20-1-wb102
-            libmosquittopp-dev: 2.0.20-1-wb102
-            libmosquittopp1: 2.0.20-1-wb102
+            libmosquitto-dev: 2.0.20-1-wb103
+            libmosquitto1: 2.0.20-1-wb103
+            libmosquittopp-dev: 2.0.20-1-wb103
+            libmosquittopp1: 2.0.20-1-wb103
             libnm-dev: 1.42.4-1~bpo11+1-wb103
             libnm0: 1.42.4-1~bpo11+1-wb103
             libqmi-glib-dev: 1.32.0-1~bpo11+1
@@ -57,9 +57,9 @@ releases:
             libsigrokcxx4: 0.5.2-3+wb100
             libsigrokdecode4: 0.5.3-4
             libss2: 1.46.2-2+wb1
-            libwbmqtt1-5: 5.6.0
-            libwbmqtt1-5-dev: 5.6.0
-            libwbmqtt1-5-test-utils: 5.6.0
+            libwbmqtt1-5: 5.6.0-wb102
+            libwbmqtt1-5-dev: 5.6.0-wb102
+            libwbmqtt1-5-test-utils: 5.6.0-wb102
             logsave: 1.46.2-2+wb1
             mmc-utils: 0+git20180327.b4fe0c8c-1+wb1
             mobile-broadband-provider-info: 20230416-1
@@ -68,9 +68,9 @@ releases:
             modemmanager: 1.20.0-1~bpo11+1-wb108
             modemmanager-dev: 1.20.0-1~bpo11+1-wb108
             modemmanager-doc: 1.20.0-1~bpo11+1-wb108
-            mosquitto: 2.0.20-1-wb102
-            mosquitto-clients: 2.0.20-1-wb102
-            mosquitto-dev: 2.0.20-1-wb102
+            mosquitto: 2.0.20-1-wb103
+            mosquitto-clients: 2.0.20-1-wb103
+            mosquitto-dev: 2.0.20-1-wb103
             mplc4-oni-plc-w: 1.3.6.21566
             mqtt-tools: 1.4.5
             mqttui: 0.23.0-1
@@ -103,7 +103,7 @@ releases:
             wb-ble-tesliot: 1.1.3
             wb-cc2652p-flasher: 1.1.0
             wb-cli: 1.8.5
-            wb-cloud-agent: 1.7.2
+            wb-cloud-agent: 1.8.1-wb100
             wb-configs: 3.50.2
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.11.0
@@ -113,7 +113,7 @@ releases:
             wb-ec-firmware: 2.1.1
             wb-essential: 1.20.9
             wb-firmware-realtek: 1.0.4
-            wb-homeui-backend: 2.208.1
+            wb-homeui-backend: 2.208.1-wb101
             wb-hwconf-manager: 1.71.6
             wb-knxd-config: 1.1.6
             wb-mb-explorer: 1.2.9
@@ -121,17 +121,17 @@ releases:
             wb-mcu-fw-updater: 1.14.4
             wb-modbus-ext-scanner: 1.4.0
             wb-mqtt-adc: 2.7.1
-            wb-mqtt-alice: 0.10.0
+            wb-mqtt-alice: 0.10.0+wb100
             wb-mqtt-apcsnmp: '0.2'
             wb-mqtt-bmp085: '1.2'
             wb-mqtt-co2mon: 1.1.4
-            wb-mqtt-confed: 1.16.7
+            wb-mqtt-confed: 1.16.7-wb100
             wb-mqtt-dac: 1.2.6
             wb-mqtt-dali: 1.12.0
             wb-mqtt-db: 2.9.3
             wb-mqtt-db-cli: 1.4.8
             wb-mqtt-gpio: 2.16.3
-            wb-mqtt-homeui: 2.208.1
+            wb-mqtt-homeui: 2.208.1-wb101
             wb-mqtt-iec104: 1.2.0
             wb-mqtt-knx: 1.13.4
             wb-mqtt-logs: 1.5.5
@@ -139,7 +139,7 @@ releases:
             wb-mqtt-metrics: 0.5.0
             wb-mqtt-opcua: 1.3.1
             wb-mqtt-rfblinds: 1.0.4
-            wb-mqtt-serial: 2.248.1-wb100
+            wb-mqtt-serial: 2.248.1-wb101
             wb-mqtt-smartbus: '1.2'
             wb-mqtt-smartweb: 1.5.0
             wb-mqtt-snmp: 1.5.0
@@ -149,13 +149,13 @@ releases:
             wb-mqtt-zabbix: '0.2'
             wb-mqtt-zigbee: 1.4.3
             wb-nm-helper: 1.37.1
-            wb-rules: 2.40.0
+            wb-rules: 2.40.0-wb100
             wb-rules-system: 1.13.5
             wb-scenarios: 1.9.0
             wb-suite: 1.20.9
             wb-update-manager: 1.4.0
             wb-update-notifier: 0.1.1
-            wb-utils: 4.27.8
+            wb-utils: 4.27.8-wb100
             wb-welrok: 0.0.20
             wb-zigbee2mqtt: 1.4.2
             webif: '1.5'
@@ -184,8 +184,8 @@ releases:
             linux-headers-wb7: 5.10.35-wb182
             linux-libc-dev: 5.10.35-wb182
             wb-bootlet-wb7x: 5.10.35-wb182-fs1.5.4-deb11-202512150209
-            u-boot-wb7: 2:2025.04+wb1.1.3
-            u-boot-tools-wb: 2:2025.04+wb1.1.3
+            u-boot-wb7: 2:2025.04+wb1.1.5-wb101
+            u-boot-tools-wb: 2:2025.04+wb1.1.5-wb101
             tm-cpps: '16304'
             mplc4-wirenboard7: 1.3.6.21566
 
@@ -194,12 +194,12 @@ releases:
 
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
             e2fsprogs-udeb: 1.46.2-2+wb1
-            linux-headers-wb8: 6.8.0-wb158
-            linux-image-wb8: 6.8.0-wb158
-            linux-libc-dev: 6.8.0-wb158
-            wb-bootlet-wb8x: 6.8.0-wb158-fs1.5.5-deb11-202604271428
-            u-boot-wb8: 2:2025.04+wb1.1.3
-            u-boot-tools-wb: 2:2025.04+wb1.1.3
+            linux-headers-wb8: 6.8.0-wb160
+            linux-image-wb8: 6.8.0-wb160
+            linux-libc-dev: 6.8.0-wb160
+            wb-bootlet-wb8x: 6.8.0-wb160-fs1.5.5-deb11-202604271428
+            u-boot-wb8: 2:2025.04+wb1.1.5-wb101
+            u-boot-tools-wb: 2:2025.04+wb1.1.5-wb101
             tm-cpps: '16402'
             wb-hdmi: 1.20.9
             wb-hdmi-wayland: 1.20.9
@@ -1863,8 +1863,8 @@ releases:
 
     wb-2606-trixie-transition:
         packages-common-trixie-transition: &packages-wb-2606-trixie-transition
-            python3-wb-update-manager: 1.4.0-upgrade2
-            wb-update-manager: 1.4.0-upgrade2
+            python3-wb-update-manager: 1.4.0-upgrade7
+            wb-update-manager: 1.4.0-upgrade7
 
         wb6/bullseye:
             <<: *packages-wb-2606-armhf-wb6-bullseye
@@ -1879,204 +1879,6 @@ releases:
             <<: *packages-wb-2606-trixie-transition
 
     _firmwares_stable:
-        firmwares:
-            # WB-MR
-            mr2mG: 1.23.0
-            mr3G: 1.23.0
-            mr6G: 1.23.0
-            mr6cG: 1.23.0
-            mr6cu: 1.23.0
-            mr6cu_042: 1.23.0
-            mr6cuG: 1.23.0
-            mr6cpG: 1.23.0
-            mrps6G: 1.23.0
-            mrwl3G: 1.23.0
-            mr3Ge: 1.23.0
-            mr6Ge: 1.23.0
-            mr6cGe: 1.23.0
-            mr6cuGe: 1.23.0
-            mrps6Ge: 1.23.0
-            mrwl3Ge: 1.23.0
-            mr6cpGe: 1.23.0
-            mr2mGe: 1.23.0
-            mr2mncGe: 1.23.0
-            mr7gGe: 1.24.1
-            mr6Gemz: 1.26.2
-            # WB-MRWM2
-            mrwm2G: 1.23.2
-            mrwm2Ge: 1.23.2
-            # WB-MWAC
-            wbmwacG: 1.23.0
-            mwac0: 1.23.0
-            # WB-M1W2
-            m1w2G21: 4.35.1
-            m1w2G3: 4.35.1
-            # WB-MAI2
-            mai2cc: 4.33.1
-            mai2ccG3: 4.33.1
-            # WB-MIR
-            mir64: 4.35.0
-            mir64_gd: 4.35.0
-            mir_gdf8: 4.35.0
-            # WB-MS
-            ms-33: 4.35.1
-            msv2-4.0: 4.35.1
-            msv2-4.0_gd: 4.35.1
-            msv2G42: 4.35.1
-            msv2G42nlg: 4.35.1
-            msv2Gth: 4.35.1
-            msv2Ge42nlg: 4.35.1
-            msv2Geth: 4.35.1
-            # WB-MSW
-            msw3-48mh: 4.35.5
-            msw3-49: 4.35.5
-            msw3-49th30: 4.35.5
-            msw3-49-467: 4.35.5
-            msw3-49_gd: 4.35.5
-            msw3-49gd_oa: 4.35.5
-            msw3G49th: 4.35.5
-            msw3G419: 4.35.5
-            msw3G419th: 4.35.5
-            msw3Gc: 4.35.5
-            msw3G419L: 4.35.5
-            msw5G: 4.35.5
-            msw5GL: 4.35.5
-            msw5Gth: 4.35.5
-            msw5Gpb: 4.35.5
-            msw5Ge: 4.35.5
-            msw5Geth: 4.35.5
-            msw5Gepb: 4.35.5
-            # WB-MD
-            mdm3G26: 2.11.1
-            mdm3G26e: 2.11.1
-            # WB-MAP
-            map3e_36: 2.12.3
-            map3e_031f6: 2.12.3
-            map3eG: 2.12.3
-            map3h51: 2.12.3
-            map6s: 2.12.3
-            map6s51: 2.12.3
-            map6se: 2.12.3
-            map12eG: 2.12.3
-            map12h: 2.12.3
-            map3eG16: 2.12.3
-            map3evG16: 2.12.3
-            map6seG16: 2.12.3
-            map6sG16: 2.12.3
-            map6semG16: 2.12.3
-            map3eG16e: 2.12.3
-            map3evG16e: 2.12.3
-            map6semG16e: 2.12.3
-            map12eGe: 2.12.3
-            map3etG16e: 2.12.3
-            map3eG16e2: 2.12.3
-            # WB-MRGB
-            mrgbwG: 3.7.1
-            ledG: 3.7.1
-            ledGe: 3.7.1
-            # WB-MCM
-            mcm8: 1.8.3
-            mcm8G: 1.8.3
-            mcm8Ge: 1.8.3
-            mcm8Gec: 1.8.3
-            mcm8Gehv: 1.9.0
-            # WB-MAO
-            mao4G: 2.8.1
-            mao4G-C: 2.8.1
-            mao4Ge: 2.8.1
-            mao4Ge-C: 2.8.1
-            mao4Gemz: 2.8.2
-            # WB-MAI
-            wb-mai-v10: 1.3.1
-            wb-mai6: 2.3.3
-            wb-mai6-15: 2.3.3
-            wb-mai6-15Ge: 2.3.3
-            # WB-MIO
-            mio: 1.8.2
-            mioGe: 1.8.2
-            # WB-REF
-            ref-df: 1.2.1
-            ref-dfGe: 1.2.1
-            refu: 1.5.1
-            refuGe: 1.5.1
-            # WB-UPS
-            ups-v3: 1.3.1
-            ups-v3-dlg2: 1.3.1
-            # WB-MGE
-            mge_v3: 1.1.0
-            # WB-DALI
-            dali3G: 1.0.0
-            # WB-WALLSWITCH-ESL
-            wallswGe: 1.0.2
-            # Component firmwares
-            co2_sens_ns8: MF1.03D
-            # ONOKOM
-            ok_tcl1b: 0.5.4
-            ok_tcl3b: 0.5.4
-            ok_tcl3c: 0.5.4
-            ok_tcl6b: 0.5.4
-            ok_aux1b: 0.5.4
-            ok_dk1b: 0.5.4
-            ok_dk5b: 0.5.4
-            ok_gr1b: 0.5.4
-            ok_gr3b: 0.5.4
-            ok_gr3c: 0.5.4
-            ok_grp3b: 0.5.4
-            ok_grp3c: 0.5.4
-            ok_hr1b: 0.5.4
-            ok_hs3b: 0.5.4
-            ok_hs3c: 0.5.4
-            ok_hs5b: 0.5.4
-            ok_hs6b: 0.4.5
-            ok_hsvrfb: 0.5.4
-            ok_md1b: 0.4.6
-            ok_md3b: 0.5.4
-            ok_md3b: 0.5.4
-            ok_mdvrfb: 0.5.4
-            ok_mdvrfc: 0.5.4
-            ok_cgvrfb: 0.5.4
-            ok_cgvrfc: 0.5.4
-            ok_me1b: 0.5.4
-            ok_tn1b: 0.4.7
-            ok_ht1b: 0.5.4
-            ok_mh2b: 0.5.2
-
-            # Deprecated firmwares
-            mr2m: 1.15.2
-            mr2m_k6: 1.20.4
-            mr3: 1.20.4
-            mr6: 1.20.4
-            mr6_042: 1.20.4
-            mr6c: 1.20.4
-            mr6c_042: 1.20.4
-            mrps6: 1.20.4
-            mrwl3: 1.20.4
-            mrwl3_042: 1.20.4
-            # WB-MWAC
-            wbmwac: 1.19.2
-            wbmwac_042: 1.19.2
-            # WB-M1W2
-            m1w2: 4.31.0
-            m1w2-21: 4.31.0
-            # WB-MIR
-            mir: 4.29.11
-            # WB-MSW
-            msw3-48mh30: 4.29.11
-            # WB-MD
-            mdm3: 2.6.6
-            mdm3_042: 2.6.6
-            mdm3_26: 2.6.6
-            # WB-MAP
-            map3e: 2.7.5
-            map3e16: 2.8.1
-            map3h: 2.7.4
-            map12e: 2.8.1
-            # WB-MRGB
-            mrgbw: 3.3.4
-            # WB-MAO
-            mao4: 2.4.4
-
-    _firmwares_testing:
         firmwares:
             # WB-MR
             mr2mG: 1.26.4
@@ -2099,13 +1901,13 @@ releases:
             mr2mGe: 1.26.4
             mr2mncGe: 1.26.4
             mr7gGe: 1.26.4
-            mr6Gemz: 1.26.4
+            mr6Gemz: 1.26.5
             # WB-MRWM2
             mrwm2G: 1.24.1
             mrwm2Ge: 1.24.1
             # WB-MWAC
-            wbmwacG: 1.24.1
-            mwac0: 1.24.1
+            wbmwacG: 1.25.0
+            mwac0: 1.25.0
             # WB-M1W2
             m1w2G21: 4.35.2
             m1w2G3: 4.35.2
@@ -2201,7 +2003,7 @@ releases:
             ups-v3: 1.3.2
             ups-v3-dlg2: 1.3.2
             # WB-MGE
-            mge_v3: 1.1.1
+            mge_v3: 1.1.0
             # WB-DALI
             dali3G: 1.0.0
             # WB-WALLSWITCH-ESL
@@ -2209,37 +2011,43 @@ releases:
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
-            ok_tcl1b: 0.5.4
-            ok_tcl3b: 0.5.4
-            ok_tcl3c: 0.5.4
-            ok_tcl6b: 0.5.4
-            ok_aux1b: 0.5.4
-            ok_dk1b: 0.5.4
-            ok_dk5b: 0.5.4
-            ok_gr1b: 0.5.4
-            ok_gr3b: 0.5.4
-            ok_gr3c: 0.5.4
-            ok_grp3b: 0.5.4
-            ok_grp3c: 0.5.4
-            ok_hr1b: 0.5.4
-            ok_hs3b: 0.5.4
-            ok_hs3c: 0.5.4
-            ok_hs5b: 0.5.4
-            ok_hs6b: 0.4.5
-            ok_hsvrfb: 0.5.4
-            ok_md1b: 0.4.6
-            ok_md3b: 0.5.4
-            ok_md3b: 0.5.4
-            ok_mdvrfb: 0.5.4
-            ok_mdvrfc: 0.5.4
-            ok_cgvrfb: 0.5.4
-            ok_cgvrfc: 0.5.4
-            ok_me1b: 0.5.4
-            ok_tn1b: 0.4.7
-            ok_ht1b: 0.5.4
-            ok_mh2b: 0.5.2
+            ok_tcl1b: 26.07.01
+            ok_tcl3b: 26.07.01
+            ok_tcl3c: 26.07.01
+            ok_tcl6b: 26.07.01
+            ok_aux1b: 26.07.01
+            ok_dk1b: 26.07.01
+            ok_dk5b: 26.07.01
+            ok_gr1b: 26.07.01
+            ok_gr3b: 26.07.01
+            ok_gr3c: 26.07.01
+            ok_grp3b: 26.07.01
+            ok_grp3c: 26.07.01
+            ok_hr1b: 26.07.01
+            ok_hs3b: 26.07.01
+            ok_hs3c: 26.07.01
+            ok_hs5b: 26.07.01
+            ok_hs6b: 26.07.01
+            ok_hsvrfb: 26.07.01
+            ok_md1b: 26.07.01
+            ok_md3b: 26.07.01
+            ok_md3c: 26.07.01
+            ok_mdvrfb: 26.07.01
+            ok_mdvrfc: 26.07.01
+            ok_cgvrfb: 26.07.01
+            ok_cgvrfc: 26.07.01
+            ok_me1b: 26.07.01
+            ok_tn1b: 26.07.01
+            ok_ht1b: 26.07.01
+            ok_mh2b: 26.07.01
+            ok_auxvrfc: 26.07.01
+            ok_cm1d: 26.07.01
+            ok_cm3d: 26.07.01
+            ok_gr5b: 26.07.01
+            ok_tb1b: 26.07.01
+            ok_air3c: 26.07.01
 
-            # Deprecated firmwares
+            # Deprecated
             mr2m: 1.15.2
             mr2m_k6: 1.20.4
             mr3: 1.20.4
@@ -2274,6 +2082,616 @@ releases:
             # WB-MAO
             mao4: 2.4.4
 
+    _firmwares_testing:
+        firmwares:
+            # WB-MR
+            mr2mG: 1.26.5
+            mr3G: 1.26.5
+            mr6G: 1.26.5
+            mr6cG: 1.26.5
+            mr6cu: 1.26.5
+            mr6cu_042: 1.26.5
+            mr6cuG: 1.26.5
+            mr6cpG: 1.26.5
+            mrps6G: 1.26.5
+            mrwl3G: 1.26.5
+            mr3Ge: 1.26.5
+            mr6Ge: 1.26.5
+            mr6cGe: 1.26.5
+            mr6cuGe: 1.26.5
+            mrps6Ge: 1.26.5
+            mrwl3Ge: 1.26.5
+            mr6cpGe: 1.26.5
+            mr2mGe: 1.26.5
+            mr2mncGe: 1.26.5
+            mr7gGe: 1.26.5
+            mr6Gemz: 1.26.5
+            # WB-MRWM2
+            mrwm2G: 1.24.2
+            mrwm2Ge: 1.24.2
+            # WB-MWAC
+            wbmwacG: 1.25.1
+            mwac0: 1.25.1
+            # WB-M1W2
+            m1w2G21: 4.35.3
+            m1w2G3: 4.35.3
+            # WB-MAI2
+            mai2cc: 4.33.2
+            mai2ccG3: 4.33.2
+            # WB-MIR
+            mir64: 4.35.2
+            mir64_gd: 4.35.2
+            mir_gdf8: 4.35.2
+            # WB-MS
+            ms-33: 4.37.2
+            msv2-4.0: 4.37.2
+            msv2-4.0_gd: 4.37.2
+            msv2G42: 4.37.2
+            msv2G42nlg: 4.37.2
+            msv2Gth: 4.37.2
+            msv2Ge42nlg: 4.37.2
+            msv2Geth: 4.37.2
+            # WB-MSW
+            msw3-48mh: 4.37.2
+            msw3-49: 4.37.2
+            msw3-49th30: 4.37.2
+            msw3-49-467: 4.37.2
+            msw3-49_gd: 4.37.2
+            msw3-49gd_oa: 4.37.2
+            msw3G49th: 4.37.2
+            msw3G419: 4.37.2
+            msw3G419th: 4.37.2
+            msw3Gc: 4.37.2
+            msw3G419L: 4.37.2
+            msw5G: 4.37.2
+            msw5GL: 4.37.2
+            msw5Gth: 4.37.2
+            msw5Gpb: 4.37.2
+            msw5Ge: 4.37.2
+            msw5Geth: 4.37.2
+            msw5Gepb: 4.37.2
+            # WB-MD
+            mdm3G26: 2.11.1
+            mdm3G26e: 2.11.1
+            # WB-MAP
+            map3e_36: 2.13.1
+            map3e_031f6: 2.13.1
+            map3eG: 2.13.1
+            map3h51: 2.13.1
+            map6s: 2.13.1
+            map6s51: 2.13.1
+            map6se: 2.13.1
+            map12eG: 2.13.1
+            map12h: 2.13.1
+            map3eG16: 2.13.1
+            map3evG16: 2.13.1
+            map6seG16: 2.13.1
+            map6sG16: 2.13.1
+            map6semG16: 2.13.1
+            map3eG16e: 2.13.1
+            map3evG16e: 2.13.1
+            map6semG16e: 2.13.1
+            map12eGe: 2.13.1
+            map3etG16e: 2.13.1
+            map3eG16e2: 2.13.1
+            # WB-MRGB
+            mrgbwG: 3.7.1
+            ledG: 3.7.1
+            ledGe: 3.7.1
+            # WB-MCM
+            mcm8: 1.9.1
+            mcm8G: 1.10.2
+            mcm8Ge: 1.10.2
+            mcm8Gec: 1.10.2
+            mcm8Gehv: 1.10.2
+            # WB-MAO
+            mao4G: 2.8.1
+            mao4G-C: 2.8.1
+            mao4Ge: 2.8.1
+            mao4Ge-C: 2.8.1
+            mao4Gemz: 2.8.2
+            # WB-MAI
+            wb-mai-v10: 1.3.1
+            wb-mai6: 2.4.2
+            wb-mai6-15: 2.4.2
+            wb-mai6-15Ge: 2.4.2
+            # WB-MIO
+            mio: 1.8.4
+            mioGe: 1.8.4
+            # WB-REF
+            ref-df: 1.3.0
+            ref-dfGe: 1.3.0
+            refu: 1.6.0
+            refuGe: 1.6.0
+            # WB-UPS
+            ups-v3: 1.4.1
+            ups-v3-dlg2: 1.4.1
+            # WB-MGE
+            mge_v3: 1.1.1
+            # WB-DALI
+            dali3G: 1.0.0
+            # WB-WALLSWITCH-ESL
+            wallswGe: 1.0.2
+            # Component firmwares
+            co2_sens_ns8: MF1.03D
+            # ONOKOM
+            ok_tcl1b: 26.07.01
+            ok_tcl3b: 26.07.01
+            ok_tcl3c: 26.07.01
+            ok_tcl6b: 26.07.01
+            ok_aux1b: 26.07.01
+            ok_dk1b: 26.07.01
+            ok_dk5b: 26.07.01
+            ok_gr1b: 26.07.01
+            ok_gr3b: 26.07.01
+            ok_gr3c: 26.07.01
+            ok_grp3b: 26.07.01
+            ok_grp3c: 26.07.01
+            ok_hr1b: 26.07.01
+            ok_hs3b: 26.07.01
+            ok_hs3c: 26.07.01
+            ok_hs5b: 26.07.01
+            ok_hs6b: 26.07.01
+            ok_hsvrfb: 26.07.01
+            ok_md1b: 26.07.01
+            ok_md3b: 26.07.01
+            ok_md3c: 26.07.01
+            ok_mdvrfb: 26.07.01
+            ok_mdvrfc: 26.07.01
+            ok_cgvrfb: 26.07.01
+            ok_cgvrfc: 26.07.01
+            ok_me1b: 26.07.01
+            ok_tn1b: 26.07.01
+            ok_ht1b: 26.07.01
+            ok_mh2b: 26.07.01
+            ok_auxvrfc: 26.07.01
+            ok_cm1d: 26.07.01
+            ok_cm3d: 26.07.01
+            ok_gr5b: 26.07.01
+            ok_tb1b: 26.07.01
+            ok_air3c: 26.07.01
+
+            # Deprecated
+            mr2m: 1.15.2
+            mr2m_k6: 1.20.4
+            mr3: 1.20.4
+            mr6: 1.20.4
+            mr6_042: 1.20.4
+            mr6c: 1.20.4
+            mr6c_042: 1.20.4
+            mrps6: 1.20.4
+            mrwl3: 1.20.4
+            mrwl3_042: 1.20.4
+            # WB-MWAC
+            wbmwac: 1.19.2
+            wbmwac_042: 1.19.2
+            # WB-M1W2
+            m1w2: 4.31.0
+            m1w2-21: 4.31.0
+            # WB-MIR
+            mir: 4.29.11
+            # WB-MSW
+            msw3-48mh30: 4.29.11
+            # WB-MD
+            mdm3: 2.6.6
+            mdm3_042: 2.6.6
+            mdm3_26: 2.6.6
+            # WB-MAP
+            map3e: 2.7.5
+            map3e16: 2.8.1
+            map3h: 2.7.4
+            map12e: 2.8.1
+            # WB-MRGB
+            mrgbw: 3.3.4
+            # WB-MAO
+            mao4: 2.4.4
+
+
+    _bootloaders_stable:
+        bootloaders:
+            # WB-MR
+            mr2mG: 1.4.9
+            mr3G: 1.4.9
+            mr6G: 1.4.9
+            mr6cG: 1.4.9
+            mr6cu: 1.4.9
+            mr6cu_042: 1.4.9
+            mr6cuG: 1.4.9
+            mr6cpG: 1.4.9
+            mrps6G: 1.4.9
+            mrwl3G: 1.4.9
+            mr3Ge: 1.5.7
+            mr6Ge: 1.5.7
+            mr6cGe: 1.5.7
+            mr6cuGe: 1.5.7
+            mrps6Ge: 1.5.7
+            mrwl3Ge: 1.5.7
+            mr6cpGe: 1.5.7
+            mr2mGe: 1.5.7
+            mr2mncGe: 1.5.7
+            mr7gGe: 1.5.7
+            mr6Gemz: 1.5.7
+            # WB-MRWM2
+            mrwm2G: 1.4.9
+            mrwm2Ge: 1.5.7
+            # WB-MWAC
+            wbmwacG: 1.4.9
+            mwac0: 1.5.7
+            # WB-M1W2
+            m1w2G21: 1.5.7
+            m1w2G3: 1.5.7
+            # WB-MAI2
+            mai2cc: 1.4.9
+            mai2ccG3: 1.5.7
+            # WB-MIR
+            mir64: 1.4.9
+            mir64_gd: 1.4.9
+            mir_gdf8: 1.5.7
+            # WB-MS
+            ms-33: 1.4.9
+            msv2-4.0: 1.4.9
+            msv2-4.0_gd: 1.4.9
+            msv2G42: 1.4.9
+            msv2G42nlg: 1.4.9
+            msv2Gth: 1.4.9
+            msv2Ge42nlg: 1.5.7
+            msv2Geth: 1.5.7
+            # WB-MSW
+            msw3-48mh: 1.4.9
+            msw3-49: 1.4.9
+            msw3-49th30: 1.4.9
+            msw3-49-467: 1.4.9
+            msw3-49_gd: 1.4.9
+            msw3-49gd_oa: 1.4.9
+            msw3G49th: 1.4.9
+            msw3G419: 1.4.9
+            msw3G419th: 1.4.9
+            msw3Gc: 1.4.9
+            msw3G419L: 1.4.9
+            msw5G: 1.4.9
+            msw5GL: 1.4.9
+            msw5Gth: 1.4.9
+            msw5Gpb: 1.4.9
+            msw5Ge: 1.5.7
+            msw5Geth: 1.5.7
+            msw5Gepb: 1.5.7
+            # WB-MD
+            mdm3G26: 1.4.9
+            mdm3G26e: 1.5.7
+            # WB-MAP
+            map3e_36: 1.4.9
+            map3e_031f6: 1.4.9
+            map3eG: 1.4.9
+            map3h51: 1.4.9
+            map6s: 1.4.9
+            map6s51: 1.4.9
+            map6se: 1.4.9
+            map12eG: 1.4.9
+            map12h: 1.4.9
+            map3eG16: 1.4.9
+            map3evG16: 1.4.9
+            map6seG16: 1.4.9
+            map6sG16: 1.4.9
+            map6semG16: 1.4.9
+            map3eG16e: 1.5.5
+            map3evG16e: 1.5.7
+            map6semG16e: 1.5.7
+            map12eGe: 1.5.7
+            map3etG16e: 1.5.7
+            map3eG16e2: 1.5.7
+            # WB-MRGB
+            mrgbwG: 1.4.9
+            ledG: 1.4.9
+            ledGe: 1.5.7
+            # WB-MCM
+            mcm8: 1.5.7
+            mcm8G: 1.5.7
+            mcm8Ge: 1.5.7
+            mcm8Gec: 1.5.7
+            mcm8Gehv: 1.5.7
+            # WB-MAO
+            mao4G: 1.4.9
+            mao4G-C: 1.4.9
+            mao4Ge: 1.5.7
+            mao4Ge-C: 1.5.5
+            mao4Gemz: 1.5.7
+            # WB-MAI
+            wb-mai-v10: 1.3.0
+            wb-mai6: 1.5.7
+            wb-mai6-15: 1.5.7
+            wb-mai6-15Ge: 1.5.7
+            # WB-MIO
+            mio: 1.4.9
+            mioGe: 1.5.7
+            # WB-REF
+            ref-df: 1.4.9
+            ref-dfGe: 1.5.5
+            refu: 1.4.9
+            refuGe: 1.5.7
+            # WB-UPS
+            ups-v3: 1.5.7
+            ups-v3-dlg2: 1.5.7
+            # WB-MGE
+            mge_v3: 1.0.0
+            # WB-DALI
+            dali3G: 1.5.7
+            # WB-WALLSWITCH-ESL
+            wallswGe: 1.5.7
+            # ONOKOM
+            ok_tcl1b: 1.5.7
+            ok_tcl3b: 1.4.9
+            ok_tcl3c: 1.4.9
+            ok_tcl6b: 1.5.7
+            ok_aux1b: 1.4.9
+            ok_dk1b: 1.4.9
+            ok_dk5b: 1.4.9
+            ok_gr1b: 1.4.9
+            ok_gr3b: 1.4.9
+            ok_gr3c: 1.4.9
+            ok_grp3b: 1.4.9
+            ok_grp3c: 1.5.7
+            ok_hr1b: 1.4.9
+            ok_hs3b: 1.4.9
+            ok_hs3c: 1.5.7
+            ok_hs5b: 1.4.9
+            ok_hs6b: 1.4.9
+            ok_hsvrfb: 1.5.7
+            ok_md1b: 1.4.9
+            ok_md3b: 1.4.9
+            ok_md3c: 1.5.7
+            ok_mdvrfb: 1.4.9
+            ok_mdvrfc: 1.5.7
+            ok_cgvrfb: 1.4.9
+            ok_cgvrfc: 1.5.7
+            ok_me1b: 1.4.9
+            ok_tn1b: 1.4.9
+            ok_ht1b: 1.4.9
+            ok_mh2b: 1.4.9
+            ok_auxvrfc: 1.5.7
+            ok_cm1d: 1.5.7
+            ok_cm3d: 1.5.7
+            ok_gr5b: 1.5.7
+            ok_tb1b: 1.5.7
+            ok_air3c: 1.5.7
+
+            # Deprecated
+            mr2m: 1.4.9
+            mr2m_k6: 1.4.9
+            mr3: 1.4.7
+            mr6: 1.4.7
+            mr6_042: 1.4.7
+            mr6c: 1.4.7
+            mr6c_042: 1.4.7
+            mrps6: 1.4.7
+            mrwl3: 1.4.7
+            mrwl3_042: 1.4.7
+            # WB-MWAC
+            wbmwac: 1.4.9
+            wbmwac_042: 1.4.9
+            # WB-M1W2
+            m1w2: 1.4.9
+            m1w2-21: 1.4.9
+            # WB-MIR
+            mir: 1.4.9
+            # WB-MSW
+            msw3-48mh30: 1.4.9
+            # WB-MD
+            mdm3: 1.4.9
+            mdm3_042: 1.4.9
+            mdm3_26: 1.4.9
+            # WB-MAP
+            map3e: 1.4.9
+            map3e16: 1.4.9
+            map3h: 1.4.9
+            map12e: 1.4.9
+            # WB-MRGB
+            mrgbw: 1.4.9
+            # WB-MAO
+            mao4: 1.4.9
+
+    _bootloaders_testing:
+        bootloaders:
+            # WB-MR
+            mr2mG: 1.4.9
+            mr3G: 1.4.9
+            mr6G: 1.4.9
+            mr6cG: 1.4.9
+            mr6cu: 1.4.9
+            mr6cu_042: 1.4.9
+            mr6cuG: 1.4.9
+            mr6cpG: 1.4.9
+            mrps6G: 1.4.9
+            mrwl3G: 1.4.9
+            mr3Ge: 1.5.7
+            mr6Ge: 1.5.7
+            mr6cGe: 1.5.7
+            mr6cuGe: 1.5.7
+            mrps6Ge: 1.5.7
+            mrwl3Ge: 1.5.7
+            mr6cpGe: 1.5.7
+            mr2mGe: 1.5.7
+            mr2mncGe: 1.5.7
+            mr7gGe: 1.5.7
+            mr6Gemz: 1.5.7
+            # WB-MRWM2
+            mrwm2G: 1.4.9
+            mrwm2Ge: 1.5.7
+            # WB-MWAC
+            wbmwacG: 1.4.9
+            mwac0: 1.5.7
+            # WB-M1W2
+            m1w2G21: 1.5.7
+            m1w2G3: 1.5.7
+            # WB-MAI2
+            mai2cc: 1.4.9
+            mai2ccG3: 1.5.7
+            # WB-MIR
+            mir64: 1.4.9
+            mir64_gd: 1.4.9
+            mir_gdf8: 1.5.7
+            # WB-MS
+            ms-33: 1.4.9
+            msv2-4.0: 1.4.9
+            msv2-4.0_gd: 1.4.9
+            msv2G42: 1.4.9
+            msv2G42nlg: 1.4.9
+            msv2Gth: 1.4.9
+            msv2Ge42nlg: 1.5.7
+            msv2Geth: 1.5.7
+            # WB-MSW
+            msw3-48mh: 1.4.9
+            msw3-49: 1.4.9
+            msw3-49th30: 1.4.9
+            msw3-49-467: 1.4.9
+            msw3-49_gd: 1.4.9
+            msw3-49gd_oa: 1.4.9
+            msw3G49th: 1.4.9
+            msw3G419: 1.4.9
+            msw3G419th: 1.4.9
+            msw3Gc: 1.4.9
+            msw3G419L: 1.4.9
+            msw5G: 1.4.9
+            msw5GL: 1.4.9
+            msw5Gth: 1.4.9
+            msw5Gpb: 1.4.9
+            msw5Ge: 1.5.7
+            msw5Geth: 1.5.7
+            msw5Gepb: 1.5.7
+            # WB-MD
+            mdm3G26: 1.4.9
+            mdm3G26e: 1.5.7
+            # WB-MAP
+            map3e_36: 1.4.9
+            map3e_031f6: 1.4.9
+            map3eG: 1.4.9
+            map3h51: 1.4.9
+            map6s: 1.4.9
+            map6s51: 1.4.9
+            map6se: 1.4.9
+            map12eG: 1.4.9
+            map12h: 1.4.9
+            map3eG16: 1.4.9
+            map3evG16: 1.4.9
+            map6seG16: 1.4.9
+            map6sG16: 1.4.9
+            map6semG16: 1.4.9
+            map3eG16e: 1.5.5
+            map3evG16e: 1.5.7
+            map6semG16e: 1.5.7
+            map12eGe: 1.5.7
+            map3etG16e: 1.5.7
+            map3eG16e2: 1.5.7
+            # WB-MRGB
+            mrgbwG: 1.4.9
+            ledG: 1.4.9
+            ledGe: 1.5.7
+            # WB-MCM
+            mcm8: 1.5.7
+            mcm8G: 1.5.7
+            mcm8Ge: 1.5.7
+            mcm8Gec: 1.5.7
+            mcm8Gehv: 1.5.7
+            # WB-MAO
+            mao4G: 1.4.9
+            mao4G-C: 1.4.9
+            mao4Ge: 1.5.7
+            mao4Ge-C: 1.5.5
+            mao4Gemz: 1.5.7
+            # WB-MAI
+            wb-mai-v10: 1.3.0
+            wb-mai6: 1.5.7
+            wb-mai6-15: 1.5.7
+            wb-mai6-15Ge: 1.5.7
+            # WB-MIO
+            mio: 1.4.9
+            mioGe: 1.5.7
+            # WB-REF
+            ref-df: 1.4.9
+            ref-dfGe: 1.5.5
+            refu: 1.4.9
+            refuGe: 1.5.7
+            # WB-UPS
+            ups-v3: 1.5.7
+            ups-v3-dlg2: 1.5.7
+            # WB-MGE
+            mge_v3: 1.0.0
+            # WB-DALI
+            dali3G: 1.5.7
+            # WB-WALLSWITCH-ESL
+            wallswGe: 1.5.7
+            # ONOKOM
+            ok_tcl1b: 1.5.7
+            ok_tcl3b: 1.4.9
+            ok_tcl3c: 1.4.9
+            ok_tcl6b: 1.5.7
+            ok_aux1b: 1.4.9
+            ok_dk1b: 1.4.9
+            ok_dk5b: 1.4.9
+            ok_gr1b: 1.4.9
+            ok_gr3b: 1.4.9
+            ok_gr3c: 1.4.9
+            ok_grp3b: 1.4.9
+            ok_grp3c: 1.5.7
+            ok_hr1b: 1.4.9
+            ok_hs3b: 1.4.9
+            ok_hs3c: 1.5.7
+            ok_hs5b: 1.4.9
+            ok_hs6b: 1.4.9
+            ok_hsvrfb: 1.5.7
+            ok_md1b: 1.4.9
+            ok_md3b: 1.4.9
+            ok_md3c: 1.5.7
+            ok_mdvrfb: 1.4.9
+            ok_mdvrfc: 1.5.7
+            ok_cgvrfb: 1.4.9
+            ok_cgvrfc: 1.5.7
+            ok_me1b: 1.4.9
+            ok_tn1b: 1.4.9
+            ok_ht1b: 1.4.9
+            ok_mh2b: 1.4.9
+            ok_auxvrfc: 1.5.7
+            ok_cm1d: 1.5.7
+            ok_cm3d: 1.5.7
+            ok_gr5b: 1.5.7
+            ok_tb1b: 1.5.7
+            ok_air3c: 1.5.7
+
+            # Deprecated
+            mr2m: 1.4.9
+            mr2m_k6: 1.4.9
+            mr3: 1.4.7
+            mr6: 1.4.7
+            mr6_042: 1.4.7
+            mr6c: 1.4.7
+            mr6c_042: 1.4.7
+            mrps6: 1.4.7
+            mrwl3: 1.4.7
+            mrwl3_042: 1.4.7
+            # WB-MWAC
+            wbmwac: 1.4.9
+            wbmwac_042: 1.4.9
+            # WB-M1W2
+            m1w2: 1.4.9
+            m1w2-21: 1.4.9
+            # WB-MIR
+            mir: 1.4.9
+            # WB-MSW
+            msw3-48mh30: 1.4.9
+            # WB-MD
+            mdm3: 1.4.9
+            mdm3_042: 1.4.9
+            mdm3_26: 1.4.9
+            # WB-MAP
+            map3e: 1.4.9
+            map3e16: 1.4.9
+            map3h: 1.4.9
+            map12e: 1.4.9
+            # WB-MRGB
+            mrgbw: 1.4.9
+            # WB-MAO
+            mao4: 1.4.9
+
+
 suites:
     all:
         pool: "@pool.latest"
@@ -2293,18 +2711,18 @@ suites:
 
     wb8/bullseye:
         stable: wb-2606
-        testing: wb-2606 # wb-2606-trixie-transition
-        unstable: wb-2606 # wb-2606-trixie-transition
+        testing: wb-2606-trixie-transition
+        unstable: wb-2606-trixie-transition
 
     wb7/bullseye:
         stable: wb-2606
-        testing: wb-2606 # wb-2606-trixie-transition
-        unstable: wb-2606 # wb-2606-trixie-transition
+        testing: wb-2606-trixie-transition
+        unstable: wb-2606-trixie-transition
 
     wb6/bullseye:
         stable: wb-2606
-        testing: wb-2606 # wb-2606-trixie-transition
-        unstable: wb-2606 # wb-2606-trixie-transition
+        testing: wb-2606-trixie-transition
+        unstable: wb-2606-trixie-transition
 
     wb7/stretch:
         stable: wb-2207-bullseye-transition
@@ -2335,6 +2753,10 @@ suites:
         wb-2501-cb8ea449: _firmwares_stable
         wb-2507-cb8ea449: _firmwares_stable
 
+    bootloaders:
+        stable: _bootloaders_stable
+        testing: _bootloaders_testing
+        unstable: _bootloaders_testing
 
 
 targets:
