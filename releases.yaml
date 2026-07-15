@@ -2210,6 +2210,7 @@ releases:
             mge_v3: 1.1.1
             # WB-DALI
             dali3G: 1.0.0
+            dali3G15: 1.5.7
             # WB-WALLSWITCH-ESL
             wallswGe: 1.0.2
             # Component firmwares
@@ -2415,6 +2416,7 @@ releases:
             mge_v3: 1.0.0
             # WB-DALI
             dali3G: 1.5.7
+            dali3G15: 1.5.7
             # WB-WALLSWITCH-ESL
             wallswGe: 1.5.7
             # ONOKOM
@@ -2453,6 +2455,7 @@ releases:
             ok_gr5b: 1.5.7
             ok_tb1b: 1.5.7
             ok_air3c: 1.5.7
+            ok_sm9e: 1.5.7
 
             # Deprecated
             mr2m: 1.4.9
@@ -2655,6 +2658,7 @@ releases:
             ok_gr5b: 1.5.7
             ok_tb1b: 1.5.7
             ok_air3c: 1.5.7
+            ok_sm9e: 1.5.7
 
             # Deprecated
             mr2m: 1.4.9
