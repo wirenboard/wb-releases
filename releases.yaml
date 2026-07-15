@@ -2210,7 +2210,6 @@ releases:
             mge_v3: 1.1.1
             # WB-DALI
             dali3G: 1.0.0
-            dali3G15: 1.5.7
             # WB-WALLSWITCH-ESL
             wallswGe: 1.0.2
             # Component firmwares
@@ -2416,7 +2415,6 @@ releases:
             mge_v3: 1.0.0
             # WB-DALI
             dali3G: 1.5.7
-            dali3G15: 1.5.7
             # WB-WALLSWITCH-ESL
             wallswGe: 1.5.7
             # ONOKOM
