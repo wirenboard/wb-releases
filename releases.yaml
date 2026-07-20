@@ -2455,6 +2455,11 @@ releases:
             ok_tb1b: 1.5.7
             ok_air3c: 1.5.7
             ok_sm9e: 1.5.7
+            ok_gr5e: 1.5.7
+            ok_hs5e: 1.5.7
+            ok_dk5e: 1.5.7
+            ok_hsvrfe: 1.5.7
+            ok_hs6e: 1.5.7
 
             # Deprecated
             mr2m: 1.4.9
@@ -2659,6 +2664,11 @@ releases:
             ok_tb1b: 1.5.7
             ok_air3c: 1.5.7
             ok_sm9e: 1.5.7
+            ok_gr5e: 1.5.7
+            ok_hs5e: 1.5.7
+            ok_dk5e: 1.5.7
+            ok_hsvrfe: 1.5.7
+            ok_hs6e: 1.5.7
 
             # Deprecated
             mr2m: 1.4.9
