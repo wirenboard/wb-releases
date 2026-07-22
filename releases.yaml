@@ -1928,24 +1928,24 @@ releases:
             msv2Ge42nlg: 4.37.1
             msv2Geth: 4.37.1
             # WB-MSW
-            msw3-48mh: 4.37.1
-            msw3-49: 4.37.1
-            msw3-49th30: 4.37.1
-            msw3-49-467: 4.37.1
-            msw3-49_gd: 4.37.1
-            msw3-49gd_oa: 4.37.1
-            msw3G49th: 4.37.1
-            msw3G419: 4.37.1
-            msw3G419th: 4.37.1
-            msw3Gc: 4.37.1
-            msw3G419L: 4.37.1
-            msw5G: 4.37.1
-            msw5GL: 4.37.1
-            msw5Gth: 4.37.1
-            msw5Gpb: 4.37.1
-            msw5Ge: 4.37.1
-            msw5Geth: 4.37.1
-            msw5Gepb: 4.37.1
+            msw3-48mh: 4.37.2
+            msw3-49: 4.37.2
+            msw3-49th30: 4.37.2
+            msw3-49-467: 4.37.2
+            msw3-49_gd: 4.37.2
+            msw3-49gd_oa: 4.37.2
+            msw3G49th: 4.37.2
+            msw3G419: 4.37.2
+            msw3G419th: 4.37.2
+            msw3Gc: 4.37.2
+            msw3G419L: 4.37.2
+            msw5G: 4.37.2
+            msw5GL: 4.37.2
+            msw5Gth: 4.37.2
+            msw5Gpb: 4.37.2
+            msw5Ge: 4.37.2
+            msw5Geth: 4.37.2
+            msw5Gepb: 4.37.2
             # WB-MD
             mdm3G26: 2.11.1
             mdm3G26e: 2.11.1
