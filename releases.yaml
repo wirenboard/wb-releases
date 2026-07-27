@@ -137,7 +137,7 @@ releases:
             wb-mqtt-logs: 1.5.5
             wb-mqtt-mbgate: 1.8.8
             wb-mqtt-metrics: 0.5.0
-            wb-mqtt-opcua: 1.3.1
+            wb-mqtt-opcua: 1.3.1-wb100
             wb-mqtt-rfblinds: 1.0.4
             wb-mqtt-serial: 2.248.1-wb102
             wb-mqtt-smartbus: '1.2'
