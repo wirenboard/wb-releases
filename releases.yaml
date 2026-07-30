@@ -104,7 +104,7 @@ releases:
             wb-cc2652p-flasher: 1.1.0
             wb-cli: 1.8.5
             wb-cloud-agent: 1.8.1-wb100
-            wb-configs: 3.50.2-wb100
+            wb-configs: 3.50.2+wb100
             wb-daemon-watchdogs: '1.1'
             wb-demo-kit-configs: 1.11.0
             wb-device-manager: 1.25.4
