@@ -119,7 +119,7 @@ releases:
             wb-mb-explorer: 1.2.9
             wb-mcu-fw-flasher: 1.6.1
             wb-mcu-fw-updater: 1.14.4
-            wb-modbus-ext-scanner: 1.4.0
+            wb-modbus-ext-scanner: 1.4.0+wb100
             wb-mqtt-adc: 2.7.1
             wb-mqtt-alice: 0.10.0+wb100
             wb-mqtt-apcsnmp: '0.2'
