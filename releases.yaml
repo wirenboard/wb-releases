@@ -1863,8 +1863,8 @@ releases:
 
     wb-2606-trixie-transition:
         packages-common-trixie-transition: &packages-wb-2606-trixie-transition
-            python3-wb-update-manager: 1.4.0-upgrade8
-            wb-update-manager: 1.4.0-upgrade8
+            python3-wb-update-manager: 1.4.0-upgrade9
+            wb-update-manager: 1.4.0-upgrade9
 
         wb6/bullseye:
             <<: *packages-wb-2606-armhf-wb6-bullseye
@@ -2731,17 +2731,17 @@ suites:
 
     wb8/bullseye:
         stable: wb-2606
-        testing: wb-2606 #-trixie-transition
+        testing: wb-2606-trixie-transition
         unstable: wb-2606-trixie-transition
 
     wb7/bullseye:
         stable: wb-2606
-        testing: wb-2606 #-trixie-transition
+        testing: wb-2606-trixie-transition
         unstable: wb-2606-trixie-transition
 
     wb6/bullseye:
         stable: wb-2606
-        testing: wb-2606 #-trixie-transition
+        testing: wb-2606-trixie-transition
         unstable: wb-2606-trixie-transition
 
     wb7/stretch:
