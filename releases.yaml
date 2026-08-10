@@ -119,7 +119,7 @@ releases:
             wb-mb-explorer: 1.2.9
             wb-mcu-fw-flasher: 1.6.1
             wb-mcu-fw-updater: 1.14.4
-            wb-modbus-ext-scanner: 1.4.0
+            wb-modbus-ext-scanner: 1.4.0+wb100
             wb-mqtt-adc: 2.7.1
             wb-mqtt-alice: 0.10.0+wb100
             wb-mqtt-apcsnmp: '0.2'
@@ -1863,8 +1863,8 @@ releases:
 
     wb-2606-trixie-transition:
         packages-common-trixie-transition: &packages-wb-2606-trixie-transition
-            python3-wb-update-manager: 1.4.0-upgrade8
-            wb-update-manager: 1.4.0-upgrade8
+            python3-wb-update-manager: 1.4.0-upgrade9
+            wb-update-manager: 1.4.0-upgrade9
 
         wb6/bullseye:
             <<: *packages-wb-2606-armhf-wb6-bullseye
@@ -1881,33 +1881,33 @@ releases:
     _firmwares_stable:
         firmwares:
             # WB-MR
-            mr2mG: 1.26.4
-            mr3G: 1.26.4
-            mr6G: 1.26.4
-            mr6cG: 1.26.4
-            mr6cu: 1.26.4
-            mr6cu_042: 1.26.4
-            mr6cuG: 1.26.4
-            mr6cpG: 1.26.4
-            mrps6G: 1.26.4
-            mrwl3G: 1.26.4
-            mr3Ge: 1.26.4
-            mr6Ge: 1.26.4
-            mr6cGe: 1.26.4
-            mr6cuGe: 1.26.4
-            mrps6Ge: 1.26.4
-            mrwl3Ge: 1.26.4
-            mr6cpGe: 1.26.4
-            mr2mGe: 1.26.4
-            mr2mncGe: 1.26.4
-            mr7gGe: 1.26.4
+            mr2mG: 1.26.5
+            mr3G: 1.26.5
+            mr6G: 1.26.5
+            mr6cG: 1.26.5
+            mr6cu: 1.26.5
+            mr6cu_042: 1.26.5
+            mr6cuG: 1.26.5
+            mr6cpG: 1.26.5
+            mrps6G: 1.26.5
+            mrwl3G: 1.26.5
+            mr3Ge: 1.26.5
+            mr6Ge: 1.26.5
+            mr6cGe: 1.26.5
+            mr6cuGe: 1.26.5
+            mrps6Ge: 1.26.5
+            mrwl3Ge: 1.26.5
+            mr6cpGe: 1.26.5
+            mr2mGe: 1.26.5
+            mr2mncGe: 1.26.5
+            mr7gGe: 1.26.5
             mr6Gemz: 1.26.5
             # WB-MRWM2
-            mrwm2G: 1.24.2
-            mrwm2Ge: 1.24.2
+            mrwm2G: 1.25.0
+            mrwm2Ge: 1.25.0
             # WB-MWAC
-            wbmwacG: 1.25.1
-            mwac0: 1.25.1
+            wbmwacG: 1.26.0
+            mwac0: 1.26.0
             # WB-M1W2
             m1w2G21: 4.35.3
             m1w2G3: 4.35.3
@@ -1928,24 +1928,24 @@ releases:
             msv2Ge42nlg: 4.37.2
             msv2Geth: 4.37.2
             # WB-MSW
-            msw3-48mh: 4.37.2
-            msw3-49: 4.37.2
-            msw3-49th30: 4.37.2
-            msw3-49-467: 4.37.2
-            msw3-49_gd: 4.37.2
-            msw3-49gd_oa: 4.37.2
-            msw3G49th: 4.37.2
-            msw3G419: 4.37.2
-            msw3G419th: 4.37.2
-            msw3Gc: 4.37.2
-            msw3G419L: 4.37.2
-            msw5G: 4.37.2
-            msw5GL: 4.37.2
-            msw5Gth: 4.37.2
-            msw5Gpb: 4.37.2
-            msw5Ge: 4.37.2
-            msw5Geth: 4.37.2
-            msw5Gepb: 4.37.2
+            msw3-48mh: 4.38.0
+            msw3-49: 4.38.0
+            msw3-49th30: 4.38.0
+            msw3-49-467: 4.38.0
+            msw3-49_gd: 4.38.0
+            msw3-49gd_oa: 4.38.0
+            msw3G49th: 4.38.0
+            msw3G419: 4.38.0
+            msw3G419th: 4.38.0
+            msw3Gc: 4.38.0
+            msw3G419L: 4.38.0
+            msw5G: 4.38.0
+            msw5GL: 4.38.0
+            msw5Gth: 4.38.0
+            msw5Gpb: 4.38.0
+            msw5Ge: 4.38.0
+            msw5Geth: 4.38.0
+            msw5Gepb: 4.38.0
             # WB-MD
             mdm3G26: 2.12.1
             mdm3G26e: 2.12.1
@@ -1975,11 +1975,11 @@ releases:
             ledG: 3.9.0
             ledGe: 3.9.0
             # WB-MCM
-            mcm8: 1.10.2
-            mcm8G: 1.10.2
-            mcm8Ge: 1.10.2
-            mcm8Gec: 1.10.2
-            mcm8Gehv: 1.10.2
+            mcm8: 1.11.0
+            mcm8G: 1.11.0
+            mcm8Ge: 1.11.0
+            mcm8Gec: 1.11.0
+            mcm8Gehv: 1.11.0
             # WB-MAO
             mao4G: 2.10.0
             mao4G-C: 2.10.0
@@ -1996,10 +1996,10 @@ releases:
             mio: 1.8.4
             mioGe: 1.8.4
             # WB-REF
-            ref-df: 1.2.1
-            ref-dfGe: 1.2.1
-            refu: 1.6.0
-            refuGe: 1.6.0
+            ref-df: 1.3.0
+            ref-dfGe: 1.3.0
+            refu: 1.7.0
+            refuGe: 1.7.0
             # WB-UPS
             ups-v3: 1.4.1
             ups-v3-dlg2: 1.4.1
@@ -2210,7 +2210,7 @@ releases:
             ups-v3: 1.4.1
             ups-v3-dlg2: 1.4.1
             # WB-MGE
-            mge_v3: 1.1.1
+            mge_v3: 1.3.0
             # WB-DALI
             dali3G: 1.0.2
             dali3G15: 1.0.2
@@ -2731,17 +2731,17 @@ suites:
 
     wb8/bullseye:
         stable: wb-2606
-        testing: wb-2606 #-trixie-transition
+        testing: wb-2606-trixie-transition
         unstable: wb-2606-trixie-transition
 
     wb7/bullseye:
         stable: wb-2606
-        testing: wb-2606 #-trixie-transition
+        testing: wb-2606-trixie-transition
         unstable: wb-2606-trixie-transition
 
     wb6/bullseye:
         stable: wb-2606
-        testing: wb-2606 #-trixie-transition
+        testing: wb-2606-trixie-transition
         unstable: wb-2606-trixie-transition
 
     wb7/stretch:
