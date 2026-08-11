@@ -2023,15 +2023,15 @@ releases:
             ok_gr1b: 26.08.01
             ok_gr3b: 26.08.01
             ok_gr3c: 26.08.01
-            ok_grp3b: 26.07.01
-            ok_grp3c: 26.07.01
+            ok_grp3b: 26.08.01
+            ok_grp3c: 26.08.01
             ok_hr1b: 26.08.01
-            ok_hs3b: 26.07.02
-            ok_hs3c: 26.07.02
+            ok_hs3b: 26.08.01
+            ok_hs3c: 26.08.01
             ok_hs5b: 26.08.01
             ok_hs6b: 26.08.01
             ok_hsvrfb: 26.08.01
-            ok_md1b: 26.07.02
+            ok_md1b: 26.08.01
             ok_md3b: 26.08.01
             ok_md3c: 26.08.01
             ok_mdvrfb: 26.08.01
@@ -2039,14 +2039,14 @@ releases:
             ok_cgvrfb: 26.08.01
             ok_cgvrfc: 26.08.01
             ok_me1b: 26.08.01
-            ok_tn1b: 26.07.02
+            ok_tn1b: 26.08.01
             ok_ht1b: 26.08.01
             ok_mh2b: 26.08.01
             ok_auxvrfc: 26.08.01
-            ok_cm1d: 26.07.01
-            ok_cm3d: 26.07.01
-            ok_gr5b: 26.07.02
-            ok_tb1b: 26.07.02
+            ok_cm1d: 26.08.01
+            ok_cm3d: 26.08.01
+            ok_gr5b: 26.08.01
+            ok_tb1b: 26.08.01
             ok_air3c: 26.07.01
 
             # Deprecated
@@ -2229,15 +2229,15 @@ releases:
             ok_gr1b: 26.08.01
             ok_gr3b: 26.08.01
             ok_gr3c: 26.08.01
-            ok_grp3b: 26.07.01
-            ok_grp3c: 26.07.01
+            ok_grp3b: 26.08.01
+            ok_grp3c: 26.08.01
             ok_hr1b: 26.08.01
-            ok_hs3b: 26.07.02
-            ok_hs3c: 26.07.02
+            ok_hs3b: 26.08.01
+            ok_hs3c: 26.08.01
             ok_hs5b: 26.08.01
             ok_hs6b: 26.08.01
             ok_hsvrfb: 26.08.01
-            ok_md1b: 26.07.02
+            ok_md1b: 26.08.01
             ok_md3b: 26.08.01
             ok_md3c: 26.08.01
             ok_mdvrfb: 26.08.01
@@ -2245,14 +2245,14 @@ releases:
             ok_cgvrfb: 26.08.01
             ok_cgvrfc: 26.08.01
             ok_me1b: 26.08.01
-            ok_tn1b: 26.07.02
+            ok_tn1b: 26.08.01
             ok_ht1b: 26.08.01
             ok_mh2b: 26.08.01
             ok_auxvrfc: 26.08.01
-            ok_cm1d: 26.07.01
-            ok_cm3d: 26.07.01
-            ok_gr5b: 26.07.02
-            ok_tb1b: 26.07.02
+            ok_cm1d: 26.08.01
+            ok_cm3d: 26.08.01
+            ok_gr5b: 26.08.01
+            ok_tb1b: 26.08.01
             ok_air3c: 26.07.01
 
             # Deprecated
