@@ -2115,24 +2115,24 @@ releases:
             wbmwacG: 1.26.1
             mwac0: 1.26.1
             # WB-M1W2
-            m1w2G21: 4.35.3
-            m1w2G3: 4.35.3
+            m1w2G21: 4.36.0
+            m1w2G3: 4.36.0
             # WB-MAI2
             mai2cc: 4.33.2
             mai2ccG3: 4.33.2
             # WB-MIR
-            mir64: 4.35.2
-            mir64_gd: 4.35.2
-            mir_gdf8: 4.35.2
+            mir64: 4.36.0
+            mir64_gd: 4.36.0
+            mir_gdf8: 4.36.0
             # WB-MS
-            ms-33: 4.37.2
-            msv2-4.0: 4.37.2
-            msv2-4.0_gd: 4.37.2
-            msv2G42: 4.37.2
-            msv2G42nlg: 4.37.2
-            msv2Gth: 4.37.2
-            msv2Ge42nlg: 4.37.2
-            msv2Geth: 4.37.2
+            ms-33: 4.38.0
+            msv2-4.0: 4.38.0
+            msv2-4.0_gd: 4.38.0
+            msv2G42: 4.38.0
+            msv2G42nlg: 4.38.0
+            msv2Gth: 4.38.0
+            msv2Ge42nlg: 4.38.0
+            msv2Geth: 4.38.0
             # WB-MSW
             msw3-48mh: 4.38.0
             msw3-49: 4.38.0
