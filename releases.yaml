@@ -2856,7 +2856,6 @@ staging:
         - "linux-headers-wb?"
         - "linux-image-wb?"
         - "linux-libc-dev"
-        - "mobile-broadband-provider-info"
         - "modbus-utils"
         - "modbus-utils-rpc"
         - "mplc4-*"
@@ -2883,20 +2882,6 @@ staging:
         - "docker-ce-cli"
         - "containerd.io"
         - "docker-compose-plugin"
-
-        - "gir1.2-mbim-1.0"  # bullseye backport
-        - "gir1.2-qmi-1.0"   # bullseye backport
-        - "gir1.2-qrtr-1.0"  # bullseye backport
-        - "libmbim-glib4"    # bullseye backport
-        - "libmbim-glib-dev" # bullseye backport
-        - "libmbim-proxy"    # bullseye backport
-        - "libmbim-utils"    # bullseye backport
-        - "libqmi-glib5"     # bullseye backport
-        - "libqmi-glib-dev"  # bullseye backport
-        - "libqmi-proxy"     # bullseye backport
-        - "libqmi-utils"     # bullseye backport
-        - "libqrtr-glib0"    # bullseye backport
-        - "libqrtr-glib-dev" # bullseye backport
 
         - "modemmanager*"
         - "libmm*"
@@ -2951,6 +2936,8 @@ staging:
         - "python3-mosquitto"
         - "python3-paho-socket"
         - "python3-wb-diag-collect"
+        - "python3-wb-mqtt-metrics"
+        - "python3-wb-update-manager"
         - "python3-wb-test-suite-deps"
         - "wb-bootlet-*factory"
         - "wb-mqtt-spl-meter"
