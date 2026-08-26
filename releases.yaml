@@ -2899,6 +2899,7 @@ staging:
 
         - "sigrok-cli"
         - "libsigrok*"
+        - "python3-sigrok"
 
         - "libmosquitto*"
         - "mosquitto*"
