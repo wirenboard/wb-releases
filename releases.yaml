@@ -134,7 +134,7 @@ releases:
             wb-node-red: 1.0.3
             wb-rules: 2.46.5
             wb-rules-system: 1.13.8
-            wb-scenarios: 1.10.1
+            wb-scenarios: 1.10.2
             wb-suite: 1.21.0
             wb-tsgo: 7.1.0~dev.20260813
             wb-update-manager: 1.5.2
