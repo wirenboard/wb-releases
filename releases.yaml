@@ -65,7 +65,6 @@ releases:
             nodejs-16: 16.20.2-deb-1nodesource1
             python3-aioblescan: 0.2.14
             python3-dali: 0.11-wb100
-            python3-intelhex: 2.3.0-1
             python3-mqttrpc: 1.3.9
             python3-sigrok: 0.5.2-5.1+wb105
             python3-umodbus: 1.0.4-1+wb1
@@ -3126,6 +3125,7 @@ staging:
         - "python-wb-io"
         - "python-wb-mcu-fw-updater"
         - "python3-asyncio-mqtt"
+        - "python3-intelhex"
         - "python3-modbus-utils-rpc"
         - "python3-mosquitto"
         - "python3-paho-socket"
