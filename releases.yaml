@@ -125,7 +125,6 @@ releases:
             wb-mqtt-urri: 1.2.9
             wb-mqtt-w1: 2.4.1
             wb-mqtt-waterius: 1.0.0
-            wb-mqtt-zabbix: '0.2'
             wb-mqtt-zigbee: 1.4.11
             wb-nm-helper: 1.39.0
             wb-node-red: 1.0.3
@@ -3149,6 +3148,7 @@ staging:
         - "wb-homa-ninja-bridge"
         - "wb-mqtt-sht1x"
         - "wb-mqtt-mhz19"
+        - "wb-mqtt-zabbix"
         - "wb-test-suite"
         - "wb-test-suite-deps"
         - "wb-test-suite-dummy"
