@@ -39,6 +39,10 @@ releases:
             libmodbus5: 3.1.11-2+wb100
             libnm-dev: 1.52.1-1-wb100
             libnm0: 1.52.1-1-wb100
+            libsigrok-dev: 0.5.2-5.1+wb105
+            libsigrok4t64: 0.5.2-5.1+wb105
+            libsigrokcxx-dev: 0.5.2-5.1+wb105
+            libsigrokcxx4t64: 0.5.2-5.1+wb105
             libss2: 1.47.2-3+wb100
             libwbmqtt1-5: 5.7.3
             libwbmqtt1-5-dev: 5.7.3
@@ -63,6 +67,7 @@ releases:
             python3-dali: 0.11-wb100
             python3-intelhex: 2.3.0-1
             python3-mqttrpc: 1.3.9
+            python3-sigrok: 0.5.2-5.1+wb105
             python3-umodbus: 1.0.4-1+wb1
             python3-wb-common: 2.3.0
             python3-wb-mcu-fw-updater: 1.16.0
