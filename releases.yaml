@@ -3089,8 +3089,10 @@ staging:
 
         - "mmc-utils"
 
-        - "sigrok-cli"
-        - "libsigrok*"
+        - "libsigrok-dev"
+        - "libsigrok4t64"
+        - "libsigrokcxx-dev"
+        - "libsigrokcxx4t64"
         - "python3-sigrok"
 
         - "libmosquitto*"
