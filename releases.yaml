@@ -2898,8 +2898,10 @@ staging:
 
         - "mmc-utils"
 
-        - "sigrok-cli"
-        - "libsigrok*"
+        - "libsigrok-dev"
+        - "libsigrok4t64"
+        - "libsigrokcxx-dev"
+        - "libsigrokcxx4t64"
         - "python3-sigrok"
 
         - "libmosquitto*"
@@ -2939,6 +2941,7 @@ staging:
         - "python3-paho-socket"
         - "python3-wb-diag-collect"
         - "python3-wb-mqtt-metrics"
+        - "python3-wb-nm-helper"
         - "python3-wb-update-manager"
         - "python3-wb-test-suite-deps"
         - "wb-bootlet-*factory"
