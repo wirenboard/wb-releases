@@ -2910,15 +2910,15 @@ suites:
         staging: "@staging.latest"
 
     wb8/trixie:
-        testing: "@unstable.latest"
+        testing: wb-2609
         unstable: "@unstable.latest"
 
     wb7/trixie:
-        testing: "@unstable.latest"
+        testing: wb-2609
         unstable: "@unstable.latest"
 
     wb6/trixie:
-        testing: "@unstable.latest"
+        testing: wb-2609
         unstable: "@unstable.latest"
 
     wb8/bullseye:
