@@ -6,10 +6,6 @@ releases:
             cmux: '1.2'
             comerr-dev: 2.1-1.47.2-3+wb100
             contactless-keyring: '0.1'
-            containerd.io: 2.2.4-1~debian.13~trixie
-            docker-ce: 5:29.5.2-1~debian.13~trixie+wb101
-            docker-ce-cli: 5:29.5.2-1~debian.13~trixie
-            docker-compose-plugin: 5.1.4-1~debian.13~trixie
             e2fsck-static: 1.47.2-3+wb100
             e2fsprogs: 1.47.2-3+wb100
             e2fsprogs-l10n: 1.47.2-3+wb100
