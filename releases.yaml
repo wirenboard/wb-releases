@@ -91,7 +91,7 @@ releases:
             wb-ec-firmware: 2.3.1
             wb-essential: 1.21.0
             wb-firmware-realtek: 1.0.4
-            wb-homeui-backend: 2.248.1-wb100
+            wb-homeui-backend: 2.248.1-wb101
             wb-hwconf-manager: 1.72.2
             wb-knxd-config: 1.1.6
             wb-mb-explorer: 1.2.9
@@ -103,13 +103,13 @@ releases:
             wb-mqtt-apcsnmp: '0.2'
             wb-mqtt-bmp085: '1.2'
             wb-mqtt-co2mon: 1.2.0
-            wb-mqtt-confed: 1.18.2
+            wb-mqtt-confed: 1.18.3
             wb-mqtt-dac: 1.2.7
             wb-mqtt-dali: 1.20.3
             wb-mqtt-db: 2.11.0
             wb-mqtt-db-cli: 1.5.0
             wb-mqtt-gpio: 2.18.3
-            wb-mqtt-homeui: 2.248.1-wb100
+            wb-mqtt-homeui: 2.248.1-wb101
             wb-mqtt-iec104: 1.3.1
             wb-mqtt-knx: 1.14.1
             wb-mqtt-logs: 1.6.0
