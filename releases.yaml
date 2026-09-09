@@ -2908,29 +2908,32 @@ suites:
         staging: "@staging.latest"
 
     wb8/trixie:
-        testing: wb-2609
+        stable: wb-2609
+        testing: "@unstable.latest"
         unstable: "@unstable.latest"
 
     wb7/trixie:
-        testing: wb-2609
+        stable: wb-2609
+        testing: "@unstable.latest"
         unstable: "@unstable.latest"
 
     wb6/trixie:
-        testing: wb-2609
+        stable: wb-2609
+        testing: "@unstable.latest"
         unstable: "@unstable.latest"
 
     wb8/bullseye:
-        stable: wb-2606
+        stable: wb-2606-trixie-transition
         testing: wb-2606-trixie-transition
         unstable: wb-2606-trixie-transition
 
     wb7/bullseye:
-        stable: wb-2606
+        stable: wb-2606-trixie-transition
         testing: wb-2606-trixie-transition
         unstable: wb-2606-trixie-transition
 
     wb6/bullseye:
-        stable: wb-2606
+        stable: wb-2606-trixie-transition
         testing: wb-2606-trixie-transition
         unstable: wb-2606-trixie-transition
 
