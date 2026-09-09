@@ -2196,7 +2196,7 @@ releases:
             # WB-MGE
             mge_v3: 1.3.0
             # WB-DALI
-            dali3G: 1.0.0
+            dali3G: 1.0.2
             dali3G15: 1.0.2
             # WB-WALLSWITCH-ESL
             wallswGe: 1.0.2
