@@ -44,9 +44,9 @@ releases:
             libsigrokcxx-dev: 0.5.2-5.1+wb105
             libsigrokcxx4t64: 0.5.2-5.1+wb105
             libss2: 1.47.2-3+wb100
-            libwbmqtt1-5: 5.7.3
-            libwbmqtt1-5-dev: 5.7.3
-            libwbmqtt1-5-test-utils: 5.7.3
+            libwbmqtt1-5: 5.8.0
+            libwbmqtt1-5-dev: 5.8.0
+            libwbmqtt1-5-test-utils: 5.8.0
             logsave: 1.47.2-3+wb100
             mmc-utils: 0+git20180327.b4fe0c8c-1+wb1
             modbus-utils: 1.4.0
