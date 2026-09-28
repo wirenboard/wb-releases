@@ -135,7 +135,7 @@ releases:
             wb-tsgo: 7.1.0~dev.20260813
             wb-update-manager: 1.5.2
             wb-update-notifier: 0.1.1
-            wb-utils: 4.28.6
+            wb-utils: 4.28.7
             wb-vout-watchdog: 1.1.0
             wb-welrok: 0.1.13
             wb-zigbee2mqtt: 1.4.2
