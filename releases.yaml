@@ -206,7 +206,7 @@ releases:
             fuse2fs: 1.46.2-2+wb1
             gir1.2-mbim-1.0: 1.28.0-1~bpo11+1
             gir1.2-modemmanager-1.0: 1.20.0-1~bpo11+1-wb108
-            gir1.2-nm-1.0: 1.42.4-1~bpo11+1-wb103
+            gir1.2-nm-1.0: 1.42.4-1~bpo11+1-wb104
             gir1.2-qmi-1.0: 1.32.0-1~bpo11+1
             gir1.2-qrtr-1.0: 1.2.2-1~bpo11+1
             hubpower: '1.0'
@@ -232,8 +232,8 @@ releases:
             libmosquitto1: 2.0.20-1-wb103
             libmosquittopp-dev: 2.0.20-1-wb103
             libmosquittopp1: 2.0.20-1-wb103
-            libnm-dev: 1.42.4-1~bpo11+1-wb103
-            libnm0: 1.42.4-1~bpo11+1-wb103
+            libnm-dev: 1.42.4-1~bpo11+1-wb104
+            libnm0: 1.42.4-1~bpo11+1-wb104
             libqmi-glib-dev: 1.32.0-1~bpo11+1
             libqmi-glib5: 1.32.0-1~bpo11+1
             libqmi-proxy: 1.32.0-1~bpo11+1
@@ -263,9 +263,9 @@ releases:
             mplc4-oni-plc-w: 1.3.6.21566
             mqtt-tools: 1.4.5
             mqttui: 0.23.0-1
-            network-manager: 1.42.4-1~bpo11+1-wb103
-            network-manager-config-connectivity-debian: 1.42.4-1~bpo11+1-wb103
-            network-manager-dev: 1.42.4-1~bpo11+1-wb103
+            network-manager: 1.42.4-1~bpo11+1-wb104
+            network-manager-config-connectivity-debian: 1.42.4-1~bpo11+1-wb104
+            network-manager-dev: 1.42.4-1~bpo11+1-wb104
             nodejs: 22.15.0-1nodesource1
             nodejs-16: 16.20.2-deb-1nodesource1
             python-gsmmodem-new: '1:0.11'
@@ -2102,8 +2102,8 @@ releases:
             m1w2G21: 4.36.0
             m1w2G3: 4.36.0
             # WB-MAI2
-            mai2cc: 4.33.2
-            mai2ccG3: 4.33.2
+            mai2cc: 4.33.4
+            mai2ccG3: 4.33.4
             # WB-MIR
             mir64: 4.36.0
             mir64_gd: 4.36.0
