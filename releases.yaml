@@ -99,7 +99,7 @@ releases:
             wb-mcu-fw-updater: 1.16.0
             wb-modbus-ext-scanner: 1.5.1
             wb-mqtt-adc: 2.8.3
-            wb-mqtt-alice: 0.13.4
+            wb-mqtt-alice: 0.13.7
             wb-mqtt-apcsnmp: '0.2'
             wb-mqtt-bmp085: '1.2'
             wb-mqtt-co2mon: 1.2.0
