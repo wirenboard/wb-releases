@@ -2505,6 +2505,8 @@ releases:
             mr6cpGe: 1.5.7
             mr2mGe: 1.5.7
             mr2mncGe: 1.5.7
+            mr2mGed: 1.5.8
+            mr2mncGed: 1.5.8
             mr7gGe: 1.5.7
             mr6Gemz: 1.5.7
             # WB-MRWM2
@@ -2716,6 +2718,8 @@ releases:
             mr6cpGe: 1.5.7
             mr2mGe: 1.5.7
             mr2mncGe: 1.5.7
+            mr2mGed: 1.5.8
+            mr2mncGed: 1.5.8
             mr7gGe: 1.5.7
             mr6Gemz: 1.5.7
             # WB-MRWM2
