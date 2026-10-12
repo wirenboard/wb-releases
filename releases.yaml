@@ -2575,6 +2575,11 @@ releases:
             map12eGe: 1.5.7
             map3etG16e: 1.5.7
             map3eG16e2: 1.5.7
+            map3eRG16e: 1.5.8
+            map3etRG16e: 1.5.8
+            map3evRG16e: 1.5.8
+            map6sRG16e: 1.5.8
+            map12eRG16e: 1.5.8
             # WB-MRGB
             mrgbwG: 1.4.9
             ledG: 1.4.9
