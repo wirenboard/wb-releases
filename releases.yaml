@@ -2663,6 +2663,7 @@ releases:
             ok_dk5e: 1.5.7
             ok_hsvrfe: 1.5.7
             ok_hs6e: 1.5.7
+            ok_lg8e: 1.5.8
 
             # Deprecated
             mr2m: 1.4.9
@@ -2881,6 +2882,7 @@ releases:
             ok_dk5e: 1.5.7
             ok_hsvrfe: 1.5.7
             ok_hs6e: 1.5.7
+            ok_lg8e: 1.5.8
 
             # Deprecated
             mr2m: 1.4.9
