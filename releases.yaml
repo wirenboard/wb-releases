@@ -2180,7 +2180,7 @@ releases:
             # WB-MAI
             wb-mai6: 2.4.2
             wb-mai6-15: 2.4.2
-            wb-mai6-15Ge: 2.4.2
+            wb-mai6-15Ge: 2.5.0
             # WB-MIO
             mio: 1.8.4
             mioGe: 1.8.4
@@ -2385,9 +2385,9 @@ releases:
             mao4Gemz: 2.10.6
             mao4Gesic: 2.10.6
             # WB-MAI
-            wb-mai6: 2.4.2
-            wb-mai6-15: 2.4.2
-            wb-mai6-15Ge: 2.4.2
+            wb-mai6: 2.5.0
+            wb-mai6-15: 2.5.0
+            wb-mai6-15Ge: 2.5.0
             # WB-MIO
             mio: 1.8.6
             mioGe: 1.8.6
