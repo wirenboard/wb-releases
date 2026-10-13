@@ -180,7 +180,7 @@ releases:
             linux-libc-dev: 6.8.0-wb161
             wb-bootlet-wb8x: 6.8.0-wb161-fs1.6.1-deb13-202609280914
             u-boot-tools-wb: 2:2025.04+wb1.1.8
-            u-boot-wb8: 2:2025.04+wb1.1.8
+            u-boot-wb8: 2:2025.04+wb1.1.8-wb100  # temporarily place binary from wb1.1.5-wb102 here
             tm-cpps: '16402'
             task-wirenboard-wb8: 1.21.0
             wb-hdmi: 1.21.0
