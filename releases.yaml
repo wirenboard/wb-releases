@@ -399,15 +399,7 @@ releases:
 
     wb-2606-cb8ea449:
         wb7/bullseye:
-            <<: *packages-wb-2606
-
-            linux-image-wb7: 5.10.35-wb182
-            linux-headers-wb7: 5.10.35-wb182
-            linux-libc-dev: 5.10.35-wb182
-            wb-bootlet-wb7x: 5.10.35-wb182-fs1.5.4-deb11-202512150209
-            u-boot-wb7: 2:2025.04+wb1.1.5-wb101
-            u-boot-tools-wb: 2:2025.04+wb1.1.5-wb101
-            tm-cpps: '16304'
+            <<: *packages-wb-2606-armhf-wb7-bullseye
 
             mplc4-oni-plc-w: 1.3.10.36374
             custom-settings-cb8ea449: 1.1.1
