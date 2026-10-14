@@ -415,6 +415,7 @@ releases:
             wb-homeui-backend: 2.208.1-wb103-cb8ea449
             wb-utils: 4.27.8-wb102-cb8ea449
             wb-mqtt-serial: 2.248.1-wb108-cb8ea449
+            wb-suite: 1.20.9-cb8ea449
 
     wb-2602:
         packages-common: &packages-wb-2602
