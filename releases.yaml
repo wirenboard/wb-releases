@@ -182,9 +182,9 @@ releases:
 
             arm-trusted-firmware: 2.10.0+dfsg-1+wb2
             e2fsprogs-udeb: 1.46.2-2+wb1
-            linux-headers-wb8: 6.8.0-wb161
-            linux-image-wb8: 6.8.0-wb161
-            linux-libc-dev: 6.8.0-wb161
+            linux-headers-wb8: 6.8.0-wb163
+            linux-image-wb8: 6.8.0-wb163
+            linux-libc-dev: 6.8.0-wb163
             wb-bootlet-wb8x: 6.8.0-wb161-fs1.6.1-deb13-202609280914
             u-boot-tools-wb: 2:2025.04+wb1.1.8
             u-boot-wb8: 2:2025.04+wb1.1.8-wb100  # temporarily place binary from wb1.1.5-wb102 here
@@ -192,8 +192,8 @@ releases:
             task-wirenboard-wb8: 1.21.0
             wb-hdmi: 1.21.0
             wb-hdmi-wayland: 1.21.0
-            wb-sway: 1.10.1-2+wb100
-            wb-sway-kiosk: 1.10.1-2+wb100
+            wb-sway: 1.10.1-2+wb101
+            wb-sway-kiosk: 1.10.1-2+wb101
 
     wb-2606:
         packages-common: &packages-wb-2606
