@@ -112,7 +112,7 @@ releases:
             wb-mqtt-co2mon: 1.2.0
             wb-mqtt-confed: 1.18.3
             wb-mqtt-dac: 1.2.7
-            wb-mqtt-dali: 1.20.3
+            wb-mqtt-dali: 1.20.3+wb100
             wb-mqtt-db: 2.11.0
             wb-mqtt-db-cli: 1.5.0
             wb-mqtt-gpio: 2.18.3
@@ -324,7 +324,7 @@ releases:
             wb-mqtt-co2mon: 1.1.4
             wb-mqtt-confed: 1.16.7-wb100
             wb-mqtt-dac: 1.2.6
-            wb-mqtt-dali: 1.12.0
+            wb-mqtt-dali: 1.12.0+wb100
             wb-mqtt-db: 2.9.3
             wb-mqtt-db-cli: 1.4.8
             wb-mqtt-gpio: 2.16.3
