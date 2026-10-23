@@ -82,13 +82,13 @@ releases:
             serial-tool: 1.2.5
             ss-dev: 2.0-1.47.2-3+wb100
             tailscale: 1.102.3
-            task-wb-base-system: 1.21.0
-            task-wb-common-pkgs: 1.21.0
+            task-wb-base-system: 1.21.2
+            task-wb-common-pkgs: 1.21.2
             wb-ble-tesliot: 1.1.4
-            wb-cc2652p-flasher: 1.2.0
+            wb-cc2652p-flasher: 1.2.1
             wb-cli: 1.8.15
             wb-cloud-agent: 1.8.2
-            wb-configs: 3.53.0
+            wb-configs: 3.53.0+wb100
             wb-daemon-watchdogs: '1.1'
             wb-dauerhaft-pro: 1.0.7
             wb-demo-kit-configs: 1.11.0
@@ -96,7 +96,7 @@ releases:
             wb-diag-collect: 1.10.2
             wb-dt-overlays: 1.7.0
             wb-ec-firmware: 2.3.1
-            wb-essential: 1.21.0
+            wb-essential: 1.21.2
             wb-firmware-realtek: 1.0.4
             wb-homeui-backend: 2.248.1-wb103
             wb-hwconf-manager: 1.72.2
@@ -112,7 +112,7 @@ releases:
             wb-mqtt-co2mon: 1.2.0
             wb-mqtt-confed: 1.18.3
             wb-mqtt-dac: 1.2.7
-            wb-mqtt-dali: 1.20.3
+            wb-mqtt-dali: 1.20.3+wb100
             wb-mqtt-db: 2.11.0
             wb-mqtt-db-cli: 1.5.0
             wb-mqtt-gpio: 2.18.3
@@ -135,10 +135,10 @@ releases:
             wb-mqtt-zigbee: 1.4.11
             wb-nm-helper: 1.39.0
             wb-node-red: 1.0.3
-            wb-rules: 2.46.5
+            wb-rules: 2.46.5+wb100
             wb-rules-system: 1.13.8
             wb-scenarios: 1.10.2+wb100
-            wb-suite: 1.21.0
+            wb-suite: 1.21.2
             wb-tsgo: 7.1.0~dev.20260813
             wb-update-manager: 1.5.2
             wb-update-notifier: 0.1.1
@@ -189,9 +189,9 @@ releases:
             u-boot-tools-wb: 2:2025.04+wb1.1.8
             u-boot-wb8: 2:2025.04+wb1.1.8-wb100  # temporarily place binary from wb1.1.5-wb102 here
             tm-cpps: '16402'
-            task-wirenboard-wb8: 1.21.0
-            wb-hdmi: 1.21.0
-            wb-hdmi-wayland: 1.21.0
+            task-wirenboard-wb8: 1.21.2
+            wb-hdmi: 1.21.2
+            wb-hdmi-wayland: 1.21.2
             wb-sway: 1.10.1-2+wb101
             wb-sway-kiosk: 1.10.1-2+wb101
 
@@ -324,7 +324,7 @@ releases:
             wb-mqtt-co2mon: 1.1.4
             wb-mqtt-confed: 1.16.7-wb100
             wb-mqtt-dac: 1.2.6
-            wb-mqtt-dali: 1.12.0
+            wb-mqtt-dali: 1.12.0+wb100
             wb-mqtt-db: 2.9.3
             wb-mqtt-db-cli: 1.4.8
             wb-mqtt-gpio: 2.16.3
@@ -2071,8 +2071,8 @@ releases:
 
     wb-2606-trixie-transition:
         packages-common-trixie-transition: &packages-wb-2606-trixie-transition
-            python3-wb-update-manager: 1.4.0-upgrade14
-            wb-update-manager: 1.4.0-upgrade14
+            python3-wb-update-manager: 1.4.0-upgrade17
+            wb-update-manager: 1.4.0-upgrade17
 
         wb6/bullseye:
             <<: *packages-wb-2606-armhf-wb6-bullseye
@@ -2089,33 +2089,33 @@ releases:
     _firmwares_stable:
         firmwares:
             # WB-MR
-            mr2mG: 1.27.0
-            mr3G: 1.27.0
-            mr6G: 1.27.0
-            mr6cG: 1.27.0
-            mr6cu: 1.27.0
-            mr6cu_042: 1.27.0
-            mr6cuG: 1.27.0
-            mr6cpG: 1.27.0
-            mrps6G: 1.27.0
-            mrwl3G: 1.27.0
-            mr3Ge: 1.27.0
-            mr6Ge: 1.27.0
-            mr6cGe: 1.27.0
-            mr6cuGe: 1.27.0
-            mrps6Ge: 1.27.0
-            mrwl3Ge: 1.27.0
-            mr6cpGe: 1.27.0
-            mr2mGe: 1.27.0
-            mr2mncGe: 1.27.0
-            mr7gGe: 1.27.0
-            mr6Gemz: 1.27.0
+            mr2mG: 1.28.1
+            mr3G: 1.28.1
+            mr6G: 1.28.1
+            mr6cG: 1.28.1
+            mr6cu: 1.28.1
+            mr6cu_042: 1.28.1
+            mr6cuG: 1.28.1
+            mr6cpG: 1.28.1
+            mrps6G: 1.28.1
+            mrwl3G: 1.28.1
+            mr3Ge: 1.28.1
+            mr6Ge: 1.28.1
+            mr6cGe: 1.28.1
+            mr6cuGe: 1.28.1
+            mrps6Ge: 1.28.1
+            mrwl3Ge: 1.28.1
+            mr6cpGe: 1.28.1
+            mr2mGe: 1.28.1
+            mr2mncGe: 1.28.1
+            mr7gGe: 1.28.1
+            mr6Gemz: 1.28.2
             # WB-MRWM2
-            mrwm2G: 1.26.0
-            mrwm2Ge: 1.26.0
+            mrwm2G: 1.27.1
+            mrwm2Ge: 1.27.1
             # WB-MWAC
-            wbmwacG: 1.26.2
-            mwac0: 1.26.2
+            wbmwacG: 1.27.1
+            mwac0: 1.27.1
             # WB-M1W2
             m1w2G21: 4.36.0
             m1w2G3: 4.36.0
@@ -2220,40 +2220,43 @@ releases:
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
-            ok_tcl1b: 26.08.01
-            ok_tcl3b: 26.08.01
-            ok_tcl3c: 26.08.01
-            ok_tcl6b: 26.08.01
-            ok_aux1b: 26.08.01
-            ok_dk1b: 26.08.01
-            ok_dk5b: 26.08.01
-            ok_gr1b: 26.08.01
-            ok_gr3b: 26.08.01
-            ok_gr3c: 26.08.01
-            ok_grp3b: 26.08.01
-            ok_grp3c: 26.08.01
-            ok_hr1b: 26.08.01
-            ok_hs3b: 26.08.01
-            ok_hs3c: 26.08.01
-            ok_hs5b: 26.08.01
-            ok_hs6b: 26.08.01
-            ok_hsvrfb: 26.08.01
-            ok_md1b: 26.08.01
-            ok_md3b: 26.08.01
-            ok_md3c: 26.08.01
-            ok_mdvrfb: 26.08.01
-            ok_mdvrfc: 26.08.01
-            ok_cgvrfb: 26.08.01
-            ok_cgvrfc: 26.08.01
-            ok_me1b: 26.08.01
-            ok_tn1b: 26.08.01
-            ok_ht1b: 26.08.01
-            ok_mh2b: 26.08.01
-            ok_auxvrfc: 26.08.01
-            ok_cm1d: 26.08.01
-            ok_cm3d: 26.08.01
-            ok_gr5b: 26.08.01
-            ok_tb1b: 26.08.01
+            ok_tcl1b: 26.10.01
+            ok_tcl3b: 26.10.01
+            ok_tcl3c: 26.10.01
+            ok_tcl6b: 26.10.01
+            ok_aux1b: 26.10.01
+            ok_dk1b: 26.10.01
+            ok_dk5b: 26.10.01
+            ok_gr1b: 26.10.01
+            ok_gr3b: 26.10.01
+            ok_gr3c: 26.10.01
+            ok_grp3b: 26.10.01
+            ok_grp3c: 26.10.01
+            ok_hr1b: 26.10.01
+            ok_hs3b: 26.10.01
+            ok_hs3c: 26.10.01
+            ok_hs5b: 26.10.01
+            ok_hs6b: 26.10.01
+            ok_hsvrfb: 26.10.01
+            ok_md1b: 26.10.01
+            ok_md3b: 26.10.01
+            ok_md3c: 26.10.01
+            ok_mdvrfb: 26.10.01
+            ok_mdvrfc: 26.10.01
+            ok_cgvrfb: 26.10.01
+            ok_cgvrfc: 26.10.01
+            ok_me1b: 26.10.01
+            ok_tn1b: 26.10.01
+            ok_ht1b: 26.10.01
+            ok_mh2b: 26.10.01
+            ok_auxvrfc: 26.10.01
+            ok_cm1d: 26.10.01
+            ok_cm3d: 26.10.01
+            ok_gr5b: 26.10.01
+            ok_tb1b: 26.10.01
+            ok_pn1b: 26.10.01
+            ok_lg8e: 26.10.01
+            ok_sm9e: 26.10.01
             ok_air3c: 26.07.01
 
             # Deprecated
@@ -2316,7 +2319,7 @@ releases:
             mr2mGe: 1.28.1
             mr2mncGe: 1.28.1
             mr7gGe: 1.28.1
-            mr6Gemz: 1.28.1
+            mr6Gemz: 1.28.2
             # WB-MRWM2
             mrwm2G: 1.27.1
             mrwm2Ge: 1.27.1
@@ -2427,40 +2430,43 @@ releases:
             # Component firmwares
             co2_sens_ns8: MF1.03D
             # ONOKOM
-            ok_tcl1b: 26.08.01
-            ok_tcl3b: 26.08.01
-            ok_tcl3c: 26.08.01
-            ok_tcl6b: 26.08.01
-            ok_aux1b: 26.08.01
-            ok_dk1b: 26.08.01
-            ok_dk5b: 26.08.01
-            ok_gr1b: 26.08.01
-            ok_gr3b: 26.08.01
-            ok_gr3c: 26.08.01
-            ok_grp3b: 26.08.01
-            ok_grp3c: 26.08.01
-            ok_hr1b: 26.08.01
-            ok_hs3b: 26.08.01
-            ok_hs3c: 26.08.01
-            ok_hs5b: 26.08.01
-            ok_hs6b: 26.08.01
-            ok_hsvrfb: 26.08.01
-            ok_md1b: 26.08.01
-            ok_md3b: 26.08.01
-            ok_md3c: 26.08.01
-            ok_mdvrfb: 26.08.01
-            ok_mdvrfc: 26.08.01
-            ok_cgvrfb: 26.08.01
-            ok_cgvrfc: 26.08.01
-            ok_me1b: 26.08.01
-            ok_tn1b: 26.08.01
-            ok_ht1b: 26.08.01
-            ok_mh2b: 26.08.01
-            ok_auxvrfc: 26.08.01
-            ok_cm1d: 26.08.01
-            ok_cm3d: 26.08.01
-            ok_gr5b: 26.08.01
-            ok_tb1b: 26.08.01
+            ok_tcl1b: 26.10.01
+            ok_tcl3b: 26.10.01
+            ok_tcl3c: 26.10.01
+            ok_tcl6b: 26.10.01
+            ok_aux1b: 26.10.01
+            ok_dk1b: 26.10.01
+            ok_dk5b: 26.10.01
+            ok_gr1b: 26.10.01
+            ok_gr3b: 26.10.01
+            ok_gr3c: 26.10.01
+            ok_grp3b: 26.10.01
+            ok_grp3c: 26.10.01
+            ok_hr1b: 26.10.01
+            ok_hs3b: 26.10.01
+            ok_hs3c: 26.10.01
+            ok_hs5b: 26.10.01
+            ok_hs6b: 26.10.01
+            ok_hsvrfb: 26.10.01
+            ok_md1b: 26.10.01
+            ok_md3b: 26.10.01
+            ok_md3c: 26.10.01
+            ok_mdvrfb: 26.10.01
+            ok_mdvrfc: 26.10.01
+            ok_cgvrfb: 26.10.01
+            ok_cgvrfc: 26.10.01
+            ok_me1b: 26.10.01
+            ok_tn1b: 26.10.01
+            ok_ht1b: 26.10.01
+            ok_mh2b: 26.10.01
+            ok_auxvrfc: 26.10.01
+            ok_cm1d: 26.10.01
+            ok_cm3d: 26.10.01
+            ok_gr5b: 26.10.01
+            ok_tb1b: 26.10.01
+            ok_pn1b: 26.10.01
+            ok_lg8e: 26.10.01
+            ok_sm9e: 26.10.01
             ok_air3c: 26.07.01
 
             # Deprecated
@@ -2682,6 +2688,7 @@ releases:
             ok_hsvrfe: 1.5.7
             ok_hs6e: 1.5.7
             ok_lg8e: 1.5.8
+            ok_pn1b: 1.5.8
 
             # Deprecated
             mr2m: 1.4.9
@@ -2901,6 +2908,7 @@ releases:
             ok_hsvrfe: 1.5.7
             ok_hs6e: 1.5.7
             ok_lg8e: 1.5.8
+            ok_pn1b: 1.5.8
 
             # Deprecated
             mr2m: 1.4.9
