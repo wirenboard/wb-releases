@@ -82,13 +82,13 @@ releases:
             serial-tool: 1.2.5
             ss-dev: 2.0-1.47.2-3+wb100
             tailscale: 1.102.3
-            task-wb-base-system: 1.21.0
-            task-wb-common-pkgs: 1.21.0
+            task-wb-base-system: 1.21.2
+            task-wb-common-pkgs: 1.21.2
             wb-ble-tesliot: 1.1.4
-            wb-cc2652p-flasher: 1.2.0
+            wb-cc2652p-flasher: 1.2.1
             wb-cli: 1.8.15
             wb-cloud-agent: 1.8.2
-            wb-configs: 3.53.0
+            wb-configs: 3.53.0+wb100
             wb-daemon-watchdogs: '1.1'
             wb-dauerhaft-pro: 1.0.7
             wb-demo-kit-configs: 1.11.0
@@ -96,7 +96,7 @@ releases:
             wb-diag-collect: 1.10.2
             wb-dt-overlays: 1.7.0
             wb-ec-firmware: 2.3.1
-            wb-essential: 1.21.0
+            wb-essential: 1.21.2
             wb-firmware-realtek: 1.0.4
             wb-homeui-backend: 2.248.1-wb103
             wb-hwconf-manager: 1.72.2
@@ -138,7 +138,7 @@ releases:
             wb-rules: 2.46.5+wb100
             wb-rules-system: 1.13.8
             wb-scenarios: 1.10.2+wb100
-            wb-suite: 1.21.0
+            wb-suite: 1.21.2
             wb-tsgo: 7.1.0~dev.20260813
             wb-update-manager: 1.5.2
             wb-update-notifier: 0.1.1
@@ -189,9 +189,9 @@ releases:
             u-boot-tools-wb: 2:2025.04+wb1.1.8
             u-boot-wb8: 2:2025.04+wb1.1.8-wb100  # temporarily place binary from wb1.1.5-wb102 here
             tm-cpps: '16402'
-            task-wirenboard-wb8: 1.21.0
-            wb-hdmi: 1.21.0
-            wb-hdmi-wayland: 1.21.0
+            task-wirenboard-wb8: 1.21.2
+            wb-hdmi: 1.21.2
+            wb-hdmi-wayland: 1.21.2
             wb-sway: 1.10.1-2+wb100
             wb-sway-kiosk: 1.10.1-2+wb100
 
@@ -2071,8 +2071,8 @@ releases:
 
     wb-2606-trixie-transition:
         packages-common-trixie-transition: &packages-wb-2606-trixie-transition
-            python3-wb-update-manager: 1.4.0-upgrade16
-            wb-update-manager: 1.4.0-upgrade16
+            python3-wb-update-manager: 1.4.0-upgrade17
+            wb-update-manager: 1.4.0-upgrade17
 
         wb6/bullseye:
             <<: *packages-wb-2606-armhf-wb6-bullseye
