@@ -2424,8 +2424,8 @@ releases:
             # WB-MGE
             mge_v3: 1.3.2
             # WB-DALI
-            dali3G: 1.2.1
-            dali3G15: 1.2.1
+            dali3G: 1.2.2
+            dali3G15: 1.2.2
             # WB-WALLSWITCH-ESL
             wallswGe: 1.0.3
             # Component firmwares
