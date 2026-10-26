@@ -198,6 +198,7 @@ releases:
     wb-2606:
         packages-common: &packages-wb-2606
             atecc-util: 0.4.13-wb101
+            ca-certificates: '20250419~deb12u1~deb11u1+wb1'
             ca-certificates-contactless: '0.1'
             cmux: '1.2'
             comerr-dev: 2.1-1.46.2-2+wb1
