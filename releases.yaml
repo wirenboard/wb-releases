@@ -2338,14 +2338,14 @@ releases:
             mir64_gd: 4.36.1
             mir_gdf8: 4.36.1
             # WB-MS
-            ms-33: 4.38.1
-            msv2-4.0: 4.38.1
-            msv2-4.0_gd: 4.38.1
-            msv2G42: 4.38.1
-            msv2G42nlg: 4.38.1
-            msv2Gth: 4.38.1
-            msv2Ge42nlg: 4.38.1
-            msv2Geth: 4.38.1
+            ms-33: 4.38.2
+            msv2-4.0: 4.38.2
+            msv2-4.0_gd: 4.38.2
+            msv2G42: 4.38.2
+            msv2G42nlg: 4.38.2
+            msv2Gth: 4.38.2
+            msv2Ge42nlg: 4.38.2
+            msv2Geth: 4.38.2
             # WB-MSW
             msw3-48mh: 4.38.2
             msw3-49: 4.38.2
