@@ -2532,6 +2532,8 @@ releases:
             mr2mncGe: 1.5.7
             mr2mGed: 1.5.8
             mr2mncGed: 1.5.8
+            mr2mv3A: 1.6.0
+            mr2mv3ncA: 1.6.0
             mr7gGe: 1.5.7
             mr6Gemz: 1.5.7
             # WB-MRWM2
@@ -2578,6 +2580,9 @@ releases:
             msw5Ge: 1.5.7
             msw5Geth: 1.5.7
             msw5Gepb: 1.5.7
+            msw5A: 1.6.0
+            msw5Ath: 1.6.0
+            msw5Apb: 1.6.0
             # WB-MD
             mdm3G26: 1.4.9
             mdm3G26e: 1.5.7
@@ -2628,6 +2633,7 @@ releases:
             wb-mai6: 1.5.7
             wb-mai6-15: 1.5.7
             wb-mai6-15Ge: 1.5.7
+            wb-mai6-15A: 1.6.0
             # WB-MIO
             mio: 1.4.9
             mioGe: 1.5.7
@@ -2752,6 +2758,8 @@ releases:
             mr2mncGe: 1.5.7
             mr2mGed: 1.5.8
             mr2mncGed: 1.5.8
+            mr2mv3A: 1.6.0
+            mr2mv3ncA: 1.6.0
             mr7gGe: 1.5.7
             mr6Gemz: 1.5.7
             # WB-MRWM2
@@ -2798,6 +2806,9 @@ releases:
             msw5Ge: 1.5.7
             msw5Geth: 1.5.7
             msw5Gepb: 1.5.7
+            msw5A: 1.6.0
+            msw5Ath: 1.6.0
+            msw5Apb: 1.6.0
             # WB-MD
             mdm3G26: 1.4.9
             mdm3G26e: 1.5.7
@@ -2848,6 +2859,7 @@ releases:
             wb-mai6: 1.5.7
             wb-mai6-15: 1.5.7
             wb-mai6-15Ge: 1.5.7
+            wb-mai6-15A: 1.6.0
             # WB-MIO
             mio: 1.4.9
             mioGe: 1.5.7
