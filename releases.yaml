@@ -2155,6 +2155,9 @@ releases:
             msw5Ge: 4.38.2
             msw5Geth: 4.38.2
             msw5Gepb: 4.38.2
+            msw5A: 4.39.0
+            msw5Ath: 4.39.0
+            msw5Apb: 4.39.0
             # WB-MD
             mdm3G26: 2.12.4
             mdm3G26e: 2.12.4
@@ -2348,24 +2351,27 @@ releases:
             msv2Ge42nlg: 4.38.2
             msv2Geth: 4.38.2
             # WB-MSW
-            msw3-48mh: 4.38.2
-            msw3-49: 4.38.2
-            msw3-49th30: 4.38.2
-            msw3-49-467: 4.38.2
-            msw3-49_gd: 4.38.2
-            msw3-49gd_oa: 4.38.2
-            msw3G49th: 4.38.2
-            msw3G419: 4.38.2
-            msw3G419th: 4.38.2
-            msw3Gc: 4.38.2
-            msw3G419L: 4.38.2
-            msw5G: 4.38.2
-            msw5GL: 4.38.2
-            msw5Gth: 4.38.2
-            msw5Gpb: 4.38.2
-            msw5Ge: 4.38.2
-            msw5Geth: 4.38.2
-            msw5Gepb: 4.38.2
+            msw3-48mh: 4.39.0
+            msw3-49: 4.39.0
+            msw3-49th30: 4.39.0
+            msw3-49-467: 4.39.0
+            msw3-49_gd: 4.39.0
+            msw3-49gd_oa: 4.39.0
+            msw3G49th: 4.39.0
+            msw3G419: 4.39.0
+            msw3G419th: 4.39.0
+            msw3Gc: 4.39.0
+            msw3G419L: 4.39.0
+            msw5G: 4.39.0
+            msw5GL: 4.39.0
+            msw5Gth: 4.39.0
+            msw5Gpb: 4.39.0
+            msw5Ge: 4.39.0
+            msw5Geth: 4.39.0
+            msw5Gepb: 4.39.0
+            msw5A: 4.39.0
+            msw5Ath: 4.39.0
+            msw5Apb: 4.39.0
             # WB-MD
             mdm3G26: 2.12.4
             mdm3G26e: 2.12.4
