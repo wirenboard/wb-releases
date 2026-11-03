@@ -88,7 +88,7 @@ releases:
             wb-cc2652p-flasher: 1.2.1
             wb-cli: 1.8.15
             wb-cloud-agent: 1.8.2
-            wb-configs: 3.53.0+wb101
+            wb-configs: 3.53.0+wb102
             wb-daemon-watchdogs: '1.1'
             wb-dauerhaft-pro: 1.0.7
             wb-demo-kit-configs: 1.11.0
@@ -142,7 +142,7 @@ releases:
             wb-tsgo: 7.1.0~dev.20260813
             wb-update-manager: 1.5.2
             wb-update-notifier: 0.1.1
-            wb-utils: 4.28.9
+            wb-utils: 4.30.0
             wb-vout-watchdog: 1.1.0
             wb-welrok: 0.1.13
             wb-zigbee2mqtt: 1.4.2
