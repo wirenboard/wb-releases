@@ -276,7 +276,6 @@ releases:
             network-manager-dev: 1.42.4-1~bpo11+1-wb104
             nodejs: 22.15.0-1nodesource1
             nodejs-16: 16.20.2-deb-1nodesource1
-            python-gsmmodem-new: '1:0.11'
             python3-aioblescan: 0.2.14
             python3-asyncio-mqtt: 0.10.0-wb101-1
             python3-dali: 0.11-wb100
@@ -344,7 +343,6 @@ releases:
             wb-mqtt-tlv493: 1.0.1
             wb-mqtt-urri: 1.2.8
             wb-mqtt-w1: 2.3.1
-            wb-mqtt-zabbix: '0.2'
             wb-mqtt-zigbee: 1.4.3
             wb-nm-helper: 1.37.1
             wb-rules: 2.40.0-wb100
