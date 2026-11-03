@@ -98,7 +98,7 @@ releases:
             wb-ec-firmware: 2.3.1
             wb-essential: 1.21.2
             wb-firmware-realtek: 1.0.4
-            wb-homeui-backend: 2.248.1-wb103
+            wb-homeui-backend: 2.248.1-wb104
             wb-hwconf-manager: 1.72.2
             wb-knxd-config: 1.1.6
             wb-mb-explorer: 1.2.9
