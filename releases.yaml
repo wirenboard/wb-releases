@@ -88,7 +88,7 @@ releases:
             wb-cc2652p-flasher: 1.2.1
             wb-cli: 1.8.15
             wb-cloud-agent: 1.8.2
-            wb-configs: 3.53.0+wb100
+            wb-configs: 3.53.0+wb101
             wb-daemon-watchdogs: '1.1'
             wb-dauerhaft-pro: 1.0.7
             wb-demo-kit-configs: 1.11.0
