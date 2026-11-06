@@ -224,6 +224,7 @@ releases:
             knxd-dev: 0.14.74-1+wb100
             knxd-tools: 0.14.74-1+wb100
             libateccssl1.1: 0.2.6-wb102
+            libbrotli1: 1.0.9-2+deb11u1+wb1
             libcom-err2: 1.46.2-2+wb1
             libext2fs-dev: 1.46.2-2+wb1
             libext2fs2: 1.46.2-2+wb1
