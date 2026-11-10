@@ -2397,9 +2397,9 @@ releases:
             map3etG16e: 2.15.1
             map3eG16e2: 2.15.1
             # WB-MRGB
-            mrgbwG: 3.9.3
-            ledG: 3.9.3
-            ledGe: 3.9.3
+            mrgbwG: 3.9.4
+            ledG: 3.9.4
+            ledGe: 3.9.4
             # WB-MCM
             mcm8: 1.11.2
             mcm8G: 1.11.2
