@@ -2216,7 +2216,7 @@ releases:
             ups-v3: 1.4.3
             ups-v3-dlg2: 1.4.3
             # WB-MGE
-            mge_v3: 1.3.2
+            mge_v3: 1.3.3
             # WB-DALI
             dali3G: 1.2.2
             dali3G15: 1.2.2
@@ -2430,7 +2430,7 @@ releases:
             ups-v3: 1.4.3
             ups-v3-dlg2: 1.4.3
             # WB-MGE
-            mge_v3: 1.3.2
+            mge_v3: 1.3.3
             # WB-DALI
             dali3G: 1.2.3
             dali3G15: 1.2.3
