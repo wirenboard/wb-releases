@@ -2304,33 +2304,35 @@ releases:
     _firmwares_testing:
         firmwares:
             # WB-MR
-            mr2mG: 1.28.1
-            mr3G: 1.28.1
-            mr6G: 1.28.1
-            mr6cG: 1.28.1
-            mr6cu: 1.28.1
-            mr6cu_042: 1.28.1
-            mr6cuG: 1.28.1
-            mr6cpG: 1.28.1
-            mrps6G: 1.28.1
-            mrwl3G: 1.28.1
-            mr3Ge: 1.28.1
-            mr6Ge: 1.28.1
-            mr6cGe: 1.28.1
-            mr6cuGe: 1.28.1
-            mrps6Ge: 1.28.1
-            mrwl3Ge: 1.28.1
-            mr6cpGe: 1.28.1
-            mr2mGe: 1.28.1
-            mr2mncGe: 1.28.1
-            mr7gGe: 1.28.1
-            mr6Gemz: 1.28.2
+            mr2mG: 1.29.0
+            mr3G: 1.29.0
+            mr6G: 1.29.0
+            mr6cG: 1.29.0
+            mr6cu: 1.29.0
+            mr6cu_042: 1.29.0
+            mr6cuG: 1.29.0
+            mr6cpG: 1.29.0
+            mrps6G: 1.29.0
+            mrwl3G: 1.29.0
+            mr3Ge: 1.29.0
+            mr6Ge: 1.29.0
+            mr6cGe: 1.29.0
+            mr6cuGe: 1.29.0
+            mrps6Ge: 1.29.0
+            mrwl3Ge: 1.29.0
+            mr6cpGe: 1.29.0
+            mr2mGe: 1.29.0
+            mr2mncGe: 1.29.0
+            mr2mGed: 1.29.0
+            mr2mncGed: 1.29.0
+            mr7gGe: 1.29.0
+            mr6Gemz: 1.29.0
             # WB-MRWM2
-            mrwm2G: 1.27.1
-            mrwm2Ge: 1.27.1
+            mrwm2G: 1.28.0
+            mrwm2Ge: 1.28.0
             # WB-MWAC
-            wbmwacG: 1.27.2
-            mwac0: 1.27.2
+            wbmwacG: 1.28.0
+            mwac0: 1.28.0
             # WB-M1W2
             m1w2G21: 4.36.1
             m1w2G3: 4.36.1
