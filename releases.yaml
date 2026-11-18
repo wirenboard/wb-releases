@@ -286,7 +286,7 @@ releases:
             python3-sigrok: 0.5.2-3+wb104
             python3-umodbus: 1.0.4-1+wb1
             python3-wb-common: 2.2.6
-            python3-wb-mcu-fw-updater: 1.14.4
+            python3-wb-mcu-fw-updater: 1.14.4+wb100
             python3-wb-mqtt-metrics: 0.5.0
             python3-wb-nm-helper: 1.37.1
             python3-wb-update-manager: 1.4.0
@@ -316,7 +316,7 @@ releases:
             wb-knxd-config: 1.1.6
             wb-mb-explorer: 1.2.9
             wb-mcu-fw-flasher: 1.6.1
-            wb-mcu-fw-updater: 1.14.4
+            wb-mcu-fw-updater: 1.14.4+wb100
             wb-modbus-ext-scanner: 1.4.0+wb100
             wb-mqtt-adc: 2.7.1
             wb-mqtt-alice: 0.10.0+wb100
